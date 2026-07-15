@@ -1,5 +1,9 @@
 /* jobApplier sidepanel — accountabilitymachine's dark theme tokens. */
 * { box-sizing: border-box; }
+/* Author `display:flex/grid` rules otherwise beat the hidden attribute's UA style, so every
+   `hidden` result block (tailor previews, meter, keywords, flags, action row) leaked onto the
+   page empty. One global rule makes `hidden` authoritative everywhere. */
+[hidden] { display: none !important; }
 
 body {
   margin: 0;
@@ -14,14 +18,15 @@ body {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
 }
 
-header { display: flex; align-items: center; justify-content: space-between; gap: 8px; }
+header { display: flex; flex-direction: column; align-items: stretch; gap: 6px; }
 h1 { font-size: 15px; margin: 0; }
 h2 { font-size: 13px; margin: 8px 0 4px; color: #aab6d9; }
 
-.tabs { display: flex; gap: 4px; }
+.tabs { display: flex; gap: 4px; flex-wrap: wrap; }
 .tab {
   background: #161a24; color: #aab6d9; border: 1px solid #2b3145;
-  border-radius: 6px; padding: 4px 10px; cursor: pointer; font-size: 12px;
+  border-radius: 6px; padding: 4px 9px; cursor: pointer; font-size: 12px;
+  flex: 1 1 auto; white-space: nowrap;
 }
 .tab.active { background: #1c2030; color: #e2e5ec; border-color: #2b3968; }
 
@@ -149,14 +154,22 @@ hr { border: none; border-top: 1px solid #2b3145; margin: 10px 0 4px; width: 100
 /* ---- Tailor tab (step 4) ---- */
 .tailor-pane-sub { color: #8b93a7; font-size: 11px; font-weight: normal; }
 
-/* Single column stacked; two-column grid once there's room for two PDF pages side-by-side. */
+/* One preview at a time — a segmented toggle flips between original and tailored so a full
+   readable page fits without the two stacked panes that forced a long scroll. */
 .tailor-compare { display: flex; flex-direction: column; gap: 8px; }
-@media (min-width: 700px) { .tailor-compare { display: grid; grid-template-columns: 1fr 1fr; align-items: start; } }
+.tailor-toggle { display: flex; gap: 4px; background: #0b0d13; border: 1px solid #2b3145; border-radius: 8px; padding: 3px; }
+.seg {
+  flex: 1; background: transparent; color: #aab6d9; border: 1px solid transparent;
+  border-radius: 6px; padding: 5px 10px; font-size: 12px; cursor: pointer;
+}
+.seg:hover:not(:disabled) { border-color: #2b3968; }
+.seg.active { background: #1c2030; color: #e2e5ec; border-color: #2b3968; }
+.seg:disabled { opacity: 0.45; cursor: default; }
 .tailor-pane { margin: 0; display: flex; flex-direction: column; gap: 4px; }
 .tailor-pane-cap { font-size: 12px; color: #e2e5ec; }
 .tailor-canvas-wrap {
   background: #161a24; border: 1px solid #2b3145; border-radius: 8px; padding: 6px;
-  overflow: auto; max-height: 60vh;
+  overflow: auto; max-height: 58vh;
 }
 .tailor-canvas-wrap canvas { max-width: 100%; height: auto; display: block; background: #fff; border-radius: 3px; }
 

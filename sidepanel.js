@@ -1287,16 +1287,32 @@ async function renderTailorResult() {
   renderDiff(t.diff, t.audit); // built now; stays hidden until the toggle
   els.tailorConfirm.hidden = true;
 
-  // RIGHT: the generated tailored PDF (always present). LEFT: the stored original, or a
-  // single-pane degrade notice when there's no stored PDF.
+  // TAILORED = the generated PDF that uploads (always present, default view). ORIGINAL = the
+  // stored upload; its toggle is disabled + a degrade notice shows when there's no stored PDF.
+  const hasOriginal = !!(t.resumeFile && t.resumeFile.b64);
+  els.tailorViewOriginal.disabled = !hasOriginal;
+  els.tailorViewOriginal.title = hasOriginal
+    ? "" : "No original PDF stored — import a résumé in the Profile tab to compare.";
+  setTailorView("tailored"); // default to the file that actually uploads
+
   renderPdfToCanvas(t.pdfB64, els.tailorCanvasRight).catch((e) => errNote(`Preview render failed: ${e.message}`, els.tailorOut));
-  if (t.resumeFile && t.resumeFile.b64) {
-    els.tailorPaneLeft.hidden = false;
+  if (hasOriginal) {
     renderPdfToCanvas(t.resumeFile.b64, els.tailorCanvasLeft).catch((e) => errNote(`Original render failed: ${e.message}`, els.tailorOut));
   } else {
-    els.tailorPaneLeft.hidden = true;
-    note("No original PDF is stored — showing the tailored PDF only. Import a résumé in the Profile tab to compare side-by-side.", els.tailorOut);
+    note("No original PDF is stored — showing the tailored PDF only. Import a résumé in the Profile tab to compare.", els.tailorOut);
   }
+}
+
+// Flip the single visible preview pane. Falls back to Tailored when Original is unavailable.
+function setTailorView(view) {
+  if (view === "original" && els.tailorViewOriginal.disabled) view = "tailored";
+  const original = view === "original";
+  els.tailorPaneLeft.hidden = !original;
+  els.tailorPaneRight.hidden = original;
+  els.tailorViewOriginal.classList.toggle("active", original);
+  els.tailorViewTailored.classList.toggle("active", !original);
+  els.tailorViewOriginal.setAttribute("aria-selected", String(original));
+  els.tailorViewTailored.setAttribute("aria-selected", String(!original));
 }
 
 async function renderPdfToCanvas(b64, canvas, scale = 1.4) {
@@ -1867,7 +1883,8 @@ document.addEventListener("DOMContentLoaded", async () => {
     "appsSearch", "appsAtsFilter", "appsStatusFilter", "appsSinceFilter", "appsList",
     "breaksAgg", "breaksList",
     "tailorBtn", "tailorDiffToggle", "tailorStatus", "tailorJdWrap", "tailorJdInput", "tailorOut",
-    "tailorCompare", "tailorCanvasLeft", "tailorCanvasRight", "tailorPaneLeft",
+    "tailorCompare", "tailorCanvasLeft", "tailorCanvasRight", "tailorPaneLeft", "tailorPaneRight",
+    "tailorViewOriginal", "tailorViewTailored",
     "tailorDiff", "tailorMeter", "tailorKeywords", "tailorFlags", "tailorConfirm",
     "tailorActions", "tailorApproveBtn", "tailorDiscardBtn", "tailorDownloadBtn",
     "profileForm", "saveProfileBtn", "loadSampleBtn", "profileStatus",
@@ -1930,6 +1947,8 @@ document.addEventListener("DOMContentLoaded", async () => {
   els.nextPageBtn.addEventListener("click", doNextPage);
   els.tailorBtn.addEventListener("click", doTailor);
   els.tailorDiffToggle.addEventListener("click", toggleTailorDiff);
+  els.tailorViewOriginal.addEventListener("click", () => setTailorView("original"));
+  els.tailorViewTailored.addEventListener("click", () => setTailorView("tailored"));
   els.tailorApproveBtn.addEventListener("click", tailorApprove);
   els.tailorDiscardBtn.addEventListener("click", tailorDiscard);
   els.tailorDownloadBtn.addEventListener("click", tailorDownload);

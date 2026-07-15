@@ -87,12 +87,16 @@
     <div id="tailorOut"></div>
 
     <div id="tailorCompare" class="tailor-compare" hidden>
-      <figure id="tailorPaneLeft" class="tailor-pane">
+      <div class="tailor-toggle" role="tablist" aria-label="Preview">
+        <button id="tailorViewOriginal" class="seg" type="button" role="tab">Original</button>
+        <button id="tailorViewTailored" class="seg active" type="button" role="tab">Tailored</button>
+      </div>
+      <figure id="tailorPaneLeft" class="tailor-pane" hidden>
         <figcaption class="tailor-pane-cap">Your uploaded PDF
           <span class="tailor-pane-sub">— rendered exactly as-is</span></figcaption>
         <div class="tailor-canvas-wrap"><canvas id="tailorCanvasLeft"></canvas></div>
       </figure>
-      <figure class="tailor-pane">
+      <figure id="tailorPaneRight" class="tailor-pane">
         <figcaption class="tailor-pane-cap">Tailored PDF
           <span class="tailor-pane-sub">— regenerated from your content, not your original
             layout. This is the exact file that uploads once you approve it.</span></figcaption>
