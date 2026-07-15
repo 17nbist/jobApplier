@@ -1,127 +1,83 @@
 # jobApplier
 
-A personal, local-first job-application copilot: a single MV3 browser extension that
-extracts job/form context and calls GLM 5.2 (via OpenRouter) directly for resume tailoring,
-cover letters, and application answers. No server — there's exactly one user, forever.
+A Chrome extension that fills out job applications for you — autofills the boring fields on
+Greenhouse / Lever / Ashby / Workday, drafts tailored cover letters and application answers
+with AI, and reshapes your résumé to match the posting. Everything runs in your browser with
+your own API key. Nothing goes to a server, and it never hits Submit for you.
 
-Built by studying how the reference extension works, then deliberately **not** copying its
-approach where a better one exists.
+## Features
 
-## Install (load the unpacked extension into Chrome)
+- **Autofill** on Greenhouse, Lever, Ashby, and Workday forms — name, contact, links, work
+  history, EEO, all from a profile you set up once. 50+ ATS platforms supported via a config
+  engine, with an AI fallback that maps fields on any form the config doesn't cover.
+- **AI cover letters** written against the specific job description, using your own
+  OpenRouter key (defaults to GLM 5.2).
+- **AI answers** to application questions ("why do you want to work here?", etc.).
+- **Résumé tailoring** — reorder and rephrase your existing résumé to match a posting's
+  keywords, with a coverage meter and an anti-fabrication check that flags any invented
+  metric, tool, or claim. Exports a clean, ATS-friendly PDF.
+- **Résumé import** — drop in your résumé PDF and it builds your profile automatically.
+- **Application tracker** — keeps a local log of what you've applied to.
+- **Local and private** — your résumé, profile, and API key live in your browser
+  (`chrome.storage.local`). The only thing that leaves your machine is the per-request
+  context sent to OpenRouter. Work-authorization / sponsorship / EEO answers always come
+  straight from your profile — the AI never writes those.
 
-You need: Google Chrome, an [OpenRouter](https://openrouter.ai) account + API key, and
-Node.js 18+ (only for the config-refresh script and tests — the extension itself needs
-no build step and no dependencies).
+## Installation and Usage
 
-1. **Get the code.** Clone or download this folder anywhere on your machine (it must
-   *stay* there — Chrome loads the extension from this folder, not a copy).
-2. **Open the extensions page.** In Chrome, go to `chrome://extensions` (type it in the
-   address bar).
-3. **Turn on Developer mode** — toggle in the top-right corner of that page.
-4. **Click "Load unpacked"** (button appears top-left after step 3) and select the
-   `jobApplier` folder — the one that contains `manifest.json`.
-5. **Pin it.** Click the puzzle-piece icon in Chrome's toolbar and pin **jobApplier**.
-6. **Open the side panel** by clicking the jobApplier toolbar icon. Everything happens
-   in this panel.
-7. **Paste your OpenRouter API key** in the panel's Settings section (create one at
-   openrouter.ai → Keys). It's stored in `chrome.storage.local` on your machine and is
-   only ever sent to OpenRouter itself. The model field defaults to `z-ai/glm-5.2`;
-   leave it unless you know you want another.
-8. **Build your profile.** Upload your résumé PDF in the panel — it parses into the
-   profile automatically. Review every field it filled, and fill in the work-authorization
-   / EEO sections **yourself** (the parser deliberately never touches those).
-9. **Generate the ATS playbooks** (optional but recommended — enables the config-driven
-   fill engine): install the reference extension from the Chrome Web Store, then run
-   `node reference/refresh.js` from the repo root (see
-   [`reference/REFRESH.md`](reference/REFRESH.md)). Without this step the LLM
-   field-mapper still works on any form; it's just slower and costs a few tokens.
+You'll need Google Chrome and a free [OpenRouter](https://openrouter.ai) account (you pay
+per request for the AI — a full application costs a fraction of a cent).
 
-Then open any career-page application (Greenhouse, Lever, Ashby, Workday, …), open the
-side panel, and hit Scan/Fill. The extension never submits anything — you always click
-Continue/Submit yourself.
+1. **Get the code.** Clone or download this repo somewhere permanent — Chrome loads the
+   extension from this folder, so don't delete or move it after:
+   ```
+   git clone https://github.com/YOUR_USERNAME/jobApplier.git
+   ```
+2. **Open** `chrome://extensions` in Chrome (type it in the address bar).
+3. **Turn on Developer mode** (toggle, top-right).
+4. **Click "Load unpacked"** (top-left) and select the `jobApplier` folder — the one with
+   `manifest.json` in it.
+5. **Pin it** — click the puzzle-piece icon in the toolbar and pin **jobApplier**. Click the
+   icon to open the side panel; everything happens there.
+6. **Add your API key** — in the side panel's Settings, paste your OpenRouter key (create one
+   at openrouter.ai → Keys). Leave the model as `z-ai/glm-5.2` unless you have a preference.
+7. **Build your profile** — upload your résumé PDF in the panel. It fills in your profile
+   automatically. Review it, and fill in the work-authorization / EEO sections **yourself**
+   (the importer never touches those on purpose).
+8. **Apply.** Open any Greenhouse / Lever / Ashby / Workday application, open the side panel,
+   and hit **Scan** then **Fill**. Review everything, then **you** click Continue / Submit —
+   the extension never submits for you.
 
-**After changing code:** go to `chrome://extensions` and click the ↻ reload icon on the
-jobApplier card. (Refreshing `reference/*.json` needs no reload — the config is re-read
-from disk on every fill.)
+The config fill engine (fast, no-token autofill on the 50+ supported platforms) works
+immediately — the selector playbooks ship with the repo. If a platform's form changes and
+autofill drifts, you can refresh the playbooks with `node reference/refresh.js` from the repo
+root (needs Node.js 18+); see [reference/REFRESH.md](reference/REFRESH.md).
 
-## The one-paragraph thesis
+**After editing the code:** go to `chrome://extensions` and click the ↻ reload icon on the
+jobApplier card.
 
-The reference extension's genuinely hard asset is a hand-maintained library of per-ATS form selectors
-(52 platforms, ~3.4MB of XPath, hot-updated from their server). That library is their
-moat *and* their treadmill — it's the reason the product needs a team. Their **paid**
-features (cover letters, tailoring, "why are you a good fit" answers) are the easy part:
-a prompt over your CV plus the job description, run server-side and gated behind a
-paywall. So the winning personal build inverts their cost structure: **reuse their (free-tier,
-battle-tested) selector config as the working engine for this one cycle, back it with an
-LLM field-mapper for the long tail, and run the AI they charge $90 for on your own GLM key.**
-The treadmill of *maintaining* a selector library never bites us — this cycle is the whole
-lifespan.
+## Supported ATS platforms
 
-## Architecture at a glance
+Config-driven autofill covers 50+ platforms including Greenhouse, Lever, Ashby, Workday,
+iCIMS, SmartRecruiters, Taleo, and more. Any form not in the config still works through the
+AI field-mapper. A handful are live-verified; the rest are verified-by-construction and
+confirm on first real use.
 
-One extension, no server. There's only ever one user, so the sidepanel calls OpenRouter
-directly — the client/server split the reference extension needs (multi-tenancy, paywall, key protection in
-a distributed app) buys us nothing.
+## Contributing
 
-```
-┌──────────────────────────── MV3 extension ─────────────────────────────┐
-│                                                                          │
-│  content-ats.js (on ATS pages)          sidepanel                        │
-│    fillEngine: config-driven fill         profile editor                 │
-│    schemaScrape: DOM → field schema       Tailor / Cover / Answer panel  │
-│         │                    ▲                     │                      │
-│         ▼                    │ fills               ▼                      │
-│    ai.js  ── mapFields / coverLetter / answer / tailor ──► OpenRouter    │
-│                                                            (GLM 5.2)      │
-│  chrome.storage.local:  profile · CV · API key  (nothing leaves the box  │
-│                                                  except per-request ctx)  │
-└──────────────────────────────────────────────────────────────────────────┘
-```
+ATS forms change their layouts constantly, which breaks selectors — that's the one part of a
+tool like this that genuinely needs a community. If a form stops filling correctly, a fix is
+usually small and self-contained. Open an issue or a PR with the ATS name and what broke, and
+it helps everyone using it. Bug reports, new-platform support, and prompt improvements all
+welcome.
 
-Two hard rules carried over from the teardown:
-1. **Work-authorization / EEO / sponsorship answers are hard-coded from your profile,
-   never generated by the LLM.** A hallucinated "no sponsorship needed" can sink an offer.
-2. **The CV, profile, and API key stay in `chrome.storage.local`.** The reference extension keeps profiles
-   in cloud storage; local-first is simpler and strictly more private for a single-user tool.
+## Notes & disclaimer
 
-## Reference assets (`reference/`)
-
-Extracted from the reference extension's freely-served config, used here as a working engine
-for a single personal job-search cycle. Not maintained, endorsed, or affiliated;
-provided as-is for reference. Don't build a product or paid service on them.
-
-- `ats-selectors.json` (3.9MB) — 52 ATS form-fill playbooks (the working engine).
-- `fill-strategies.md` — how the engine *interprets* those playbooks (React value-setter
-  trick, verified event sequences, file-upload injection). The interpreter to the config.
-- `actions-dsl.md` — the layer above fill-strategies: the `actions` step machine, placeholder
-  substitution grammar (`%VALUE%`/`%INPUTPATH%`/`%INDEX{n}%`…), repeating-section handling,
-  and the `trackedObjExtractors` job-ID template engine. Needed for typeaheads, multi-entry
-  sections, and the step-3 tracker.
-- `field-taxonomy.json` — canonical field list, readable names, aliases, dependencies.
-- `value-maps.json` — country/state abbreviation↔name maps.
-- `resume-scoring.json` — 1454 keyword clusters (hard/soft skills, tools, languages) that
-  power keyword analysis / résumé scoring.
-- `autofill-exclusions.json` — fields to never autofill + URLs to never inject on.
-- `board-scrapers.json` — job-description scrape configs (Handshake/Indeed/LinkedIn/WTTJ).
-- `sample-profile.json` — a fully-populated example profile (43 fields) = a ready test
-  fixture and a concrete map of the internal field schema.
-
-Refresh them when the reference extension ships updates: `node reference/refresh.js` re-extracts everything
-and reports exactly what changed (exit 0 = nothing moved). See
-[`reference/REFRESH.md`](reference/REFRESH.md).
-
-## Status
-
-Working tool. LLM path (scrape → map → fill), résumé→profile import, the config fill
-engine for all 52 playbooks, the local application tracker (keyed by canonical job id +
-fill telemetry), and **résumé tailoring** are built and test-gated (`test/`); a handful of
-ATSes are live-verified, the rest verify at first real use.
-
-**Résumé tailoring (Tailor tab):** reorder/rephrase/emphasize your existing CV against a
-posting's keywords, with a keyword-coverage meter and an anti-fabrication audit that
-RED-flags invented metrics, tools, or unattributable claims. An approved tailored PDF is
-uploaded only for *that* job; every other application still uploads your original. Honest
-limitation: the tailored PDF is **regenerated from your structured content into a clean
-ATS-friendly template — it does not reproduce your original PDF's layout/design**. The Tailor
-tab renders both side by side so that cost is visible before you approve, and legal/EEO
-sections never enter the tailoring path.
+- **Career pages only.** This automates the same application forms a normal autofill tool
+  does (Greenhouse, Lever, Ashby, Workday). It is **not** for LinkedIn Easy-Apply or
+  mass-applying — that gets accounts banned and isn't what this is.
+- **You stay in control.** It fills forms; you review and submit. It never applies on its own.
+- **Résumé tailoring** regenerates a clean, ATS-friendly PDF from your content — it does not
+  reproduce your original PDF's exact design. The Tailor tab shows both side by side so you
+  can see the trade-off before approving.
+- Personal project, provided as-is. No warranty, no affiliation with any ATS or job board.
