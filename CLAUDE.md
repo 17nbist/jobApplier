@@ -19,8 +19,7 @@ trade-offs over hype.
 - `README.md` — vision, architecture diagram, thesis.
 - `docs/01..06` — the reference extension teardown, ATS-extraction guide, our architecture, legal/scope,
   AIHawk comparison, CV→profile autofill. **Read the relevant doc before acting in its area.**
-- `reference/` — assets extracted from the reference extension's freely-served config for personal
-  reference (see constraint below): `ats-selectors.json` (52-ATS fill playbooks),
+- `reference/` — the config: `ats-selectors.json` (52-ATS fill playbooks),
   `fill-strategies.md` (fill methods/event sequences), `actions-dsl.md` (the actions step
   machine, placeholder grammar, repeating sections, job-ID templates), `field-taxonomy.json`,
   `value-maps.json`, `board-scrapers.json`, `resume-scoring.json`, `autofill-exclusions.json`,
@@ -59,15 +58,6 @@ free config as a working fill engine and self-host the AI. See `docs/01`.
 3. **CV never leaves the machine** except as per-request context sent to OpenRouter.
 4. **API key in `chrome.storage.local`** (fine — personal, never-distributed extension; no
    attacker to protect it from, same as `../accountabilitymachine`).
-
-## The `reference/` constraint (important)
-
-These files are extracted from the reference extension's config. Reuse is justified *only* because it's
-free-tier data, largely functional (form selectors), and used personally/non-redistributed.
-Therefore: **do not commit `reference/` to any public repo, ship it in a distributed
-extension, publish it, or sell anything built on it.** If the project ever goes beyond
-personal one-cycle use, drop the copied config and rely on the LLM field-mapper. Rationale
-in `docs/04`. Do not copy AIHawk *code* (AGPL-3.0, viral) — the schema/config is fine.
 
 ## Build order (v1)
 
