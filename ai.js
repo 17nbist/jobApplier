@@ -811,10 +811,11 @@ const JA_AI = (() => {
     "Hard rules:",
     "1. Ground every claim in the provided profile/résumé. NEVER invent employers, projects, titles, dates, metrics, or skills.",
     "2. Be specific and concrete; no clichés, no filler, no hedging. Write like a strong, honest candidate.",
-    "3. Default 60–140 words per answer; respect any explicit word/character limit in the question. Single-line inputs get one sentence.",
-    "4. If a question cannot be answered from the profile (missing fact, needs a personal anecdote you don't have), return null for it — never fabricate.",
-    "5. Questions about work authorization, visas, sponsorship, or demographics never appear in your input; if you believe you see one anyway, return null for it.",
-    "6. Output ONLY a JSON object, no markdown fences:",
+    "3. Never use em dashes (—). Use commas, colons, or separate sentences instead. They are an AI-writing tell.",
+    "4. Default 60–140 words per answer; respect any explicit word/character limit in the question. Single-line inputs get one sentence.",
+    "5. If a question cannot be answered from the profile (missing fact, needs a personal anecdote you don't have), return null for it — never fabricate.",
+    "6. Questions about work authorization, visas, sponsorship, or demographics never appear in your input; if you believe you see one anyway, return null for it.",
+    "7. Output ONLY a JSON object, no markdown fences:",
     '{"answers":[{"ref":"<ref from the question list>","answer":"<string or null>"}]}',
   ].join("\n");
 
@@ -862,7 +863,8 @@ const JA_AI = (() => {
     "4. Structure: a specific hook about this role/company → one or two concrete, relevant experiences or projects from the résumé with real outcomes → why this company specifically → a short close.",
     "5. Mirror the job description's genuine keyword matches (languages, frameworks, domains the applicant actually has). Skip requirements the applicant doesn't meet — never claim them.",
     "6. No clichés or AI-writing tells. Avoid: \"I am writing to express…\", \"team player\", \"fast learner\", \"passionate\", \"results-driven\", \"proven track record\", \"leverage\", \"synergy\", \"in order to\", \"excited about the opportunity\". Confident, concrete, human — in the applicant's plain voice.",
-    "7. End with \"Sincerely,\" then the applicant's name.",
+    "7. Never use em dashes (—). Use commas, colons, or separate sentences instead. They are an AI-writing tell.",
+    "8. End with \"Sincerely,\" then the applicant's name.",
   ].join("\n");
 
   async function coverLetter(settings, job, profile, { onDelta } = {}) {
@@ -971,6 +973,7 @@ const JA_AI = (() => {
     "2. Change as LITTLE as possible. Keep each bullet EXACTLY as written unless a specific edit measurably improves alignment with THIS job description. Most bullets should come through unchanged or barely touched; leave already-relevant ones alone. Prefer surfacing (reordering) the strongest existing bullets over rewording them. When in doubt, don't change it.",
     "3. Preserve the candidate's own voice. Keep their wording, tone, sentence rhythm, and level of formality; reuse THEIR verbs and terms rather than swapping in your own. The output must read like the same person wrote it, only sharpened — never homogenized into generic résumé-speak. Prefer the candidate's original word to a fancier synonym.",
     "4. No AI-résumé clichés or filler — they are a tell and they erase the candidate's voice. Banned words/phrases: spearheaded, leveraged, utilized, orchestrated, championed, pioneered, passionate, results-driven, detail-oriented, dynamic, robust, seamless(ly), cutting-edge, synergy, \"proven track record\", \"responsible for\", \"tasked with\", \"in order to\", \"wide range of\". Use plain, concrete language.",
+    "4b. Never introduce em dashes (—) when rephrasing; use commas, colons, or separate sentences instead. (If the source résumé already uses one in a bullet you leave unchanged, that is fine — rule 2 wins.)",
     "5. Reorder, rephrase, and emphasize ONLY. Never upgrade responsibility, verbs, or scope: no intern→engineer, no \"assisted\"→\"led\", no individual→team or team→individual.",
     "6. Never add a skill, tool, or metric unless you also copy a `source` quote character-for-character from the source résumé proving it was already there. No verbatim quote → do not add it.",
     "7. Identity fields are frozen and copied UNCHANGED: company, position, employment_period, dates, location, institution, education_level. You may edit only bullets (key_responsibilities), skills_acquired, and project/other descriptions.",
