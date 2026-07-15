@@ -1,0 +1,73 @@
+{
+ "Handshake": {
+  "urls": [
+   "*://*.joinhandshake.com/stu/jobs/*",
+   "*://*.joinhandshake.com/stu/postings*"
+  ],
+  "buttons": [
+   {
+    "containerPath": ".//div[contains(@class, \"style__buttons-container\")]",
+    "buttonClassName": "w-full h-[48px] shadow-xs flex items-center justify-center text-center ml-4 px-6 py-2 border border-transparent text-lg leading-4 font-semibold rounded-full text-white bg-primary-dark hover:bg-primary-base focus:outline-none transition ease-in-out duration-150"
+   },
+   {
+    "containerPath": ".//div[contains(@class, \"style__floating-buttons-container\")]"
+   }
+  ],
+  "minFetchTime": 100
+ },
+ "Indeed": {
+  "urls": [
+   "*://*.indeed.com/m/basecamp/viewjob*",
+   "*://*.indeed.com/viewjob*",
+   "*://*.indeed.com/jobs?*",
+   "*://*.indeed.com/*.html?vjk=*"
+  ],
+  "buttons": [
+   {
+    "containerPath": ".//div[@id=\"viewJobButtonLinkContainer\"]",
+    "containerMethod": "insertAfter",
+    "buttonClassName": "h-[44px] shadow-xs flex items-center justify-center text-center whitespace-nowrap px-6 py-2 ml-4 border border-transparent text-lg leading-4 font-semibold rounded-lg text-white bg-primary-dark hover:bg-primary-base focus:outline-none transition ease-in-out duration-150"
+   }
+  ],
+  "minFetchTime": 100
+ },
+ "LinkedIn": {
+  "urls": [
+   "*://*.linkedin.com/jobs/collections/*",
+   "*://*.linkedin.com/jobs/search/*",
+   "*://*.linkedin.com/jobs/search-results/*",
+   "*://*.linkedin.com/jobs/view/*"
+  ],
+  "buttons": [
+   {
+    "containerPath": ".//button[@data-tracking-control-name=\"public_jobs_apply-link-offsite_sign-up-modal\"]/parent::*",
+    "buttonClassName": "w-full h-[40px] shadow-xs flex items-center justify-center text-center ml-[12px] px-6 py-2 border border-transparent text-lg leading-4 font-semibold rounded-full text-white bg-primary-dark hover:bg-primary-base focus:outline-none transition ease-in-out duration-150"
+   },
+   {
+    "containerPath": ".//div[contains(@class, \"job-view-layout\")]//div[(contains(@class, \"apply-button\") or contains(@class, \"jobs-s-apply\")) and ancestor::div[contains(@class, \"jobs-unified-top-card\") or contains(@class, \"top-card-layout__card\")]]/parent::*",
+    "buttonClassName": "w-full h-[40px] shadow-xs flex items-center justify-center text-center ml-[12px] px-6 py-2 border border-transparent text-lg leading-4 font-semibold rounded-full text-white bg-primary-dark hover:bg-primary-base focus:outline-none transition ease-in-out duration-150"
+   },
+   {
+    "containerPath": ".//div[contains(@class, \"job-view-layout\")]//div[(contains(@class, \"apply-button\") or contains(@class, \"jobs-s-apply\")) and not(ancestor::div[contains(@class, \"jobs-unified-top-card\") or contains(@class, \"top-card-layout__card\")])]/parent::*",
+    "buttonClassName": "w-full h-[40px] shadow-xs flex items-center justify-center text-center ml-[12px] px-6 py-2 border border-transparent text-lg leading-4 font-semibold rounded-full text-white bg-primary-dark hover:bg-primary-base focus:outline-none transition ease-in-out duration-150"
+   }
+  ],
+  "minFetchTime": 6000
+ },
+ "WelcomeToTheJungle": {
+  "urls": [
+   "*://app.welcometothejungle.com/dashboard/jobs*",
+   "*://app.welcometothejungle.com/jobs*"
+  ],
+  "urlsExcluded": [
+   "*://app.welcometothejungle.com/jobs/batch-end*"
+  ],
+  "buttons": [
+   {
+    "containerPath": ".//button[@data-testid=\"apply-button\" or @data-testid=\"apply-now-button\"]/parent::*",
+    "buttonClassName": "w-38 h-[47px] shadow-xs flex items-center justify-center text-center px-6 py-2 border border-transparent text-lg leading-4 font-semibold rounded-[0.25rem] text-white bg-primary-dark hover:bg-primary-base focus:outline-none transition ease-in-out duration-150"
+   }
+  ],
+  "minFetchTime": 100
+ }
+}

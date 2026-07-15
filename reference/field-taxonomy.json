@@ -1,0 +1,303 @@
+{
+ "fieldCategories": [
+  [
+   "Personal Information",
+   [
+    "First Name",
+    "Last Name",
+    "Full Name",
+    "Legal Name",
+    "Middle Name",
+    "Preferred Name",
+    "Email",
+    "Phone",
+    "Phone Type",
+    "Phone Country",
+    "Username",
+    "Birthday"
+   ]
+  ],
+  [
+   "Location",
+   [
+    "Location",
+    "Address",
+    "City",
+    "State",
+    "Country",
+    "Postal Code"
+   ]
+  ],
+  [
+   "Documents",
+   [
+    "Resume",
+    "Cover Letter"
+   ]
+  ],
+  [
+   "Education",
+   [
+    "Education",
+    "Highest Degree",
+    "Graduation Date",
+    "Graduation Month"
+   ]
+  ],
+  [
+   "Experience",
+   [
+    "Experience",
+    "Current Company",
+    "Currently Working",
+    "Role",
+    "Start Date",
+    "Start Month",
+    "End Date",
+    "End Month"
+   ]
+  ],
+  [
+   "EEO",
+   [
+    "Gender",
+    "Ethnicity",
+    "Hispanic",
+    "Veteran Status",
+    "Armed Forces",
+    "Disability",
+    "LGBT",
+    "Over 18",
+    "Over 21"
+   ]
+  ],
+  [
+   "Work Authorization",
+   [
+    "Work Authorization",
+    "Work Authorization (US)",
+    "Work Authorization (UK)",
+    "Work Authorization (Canada)",
+    "Sponsorship"
+   ]
+  ],
+  [
+   "Social & Links",
+   [
+    "LinkedIn",
+    "GitHub",
+    "Portfolio",
+    "Website",
+    "Twitter",
+    "Behance",
+    "Dribbble",
+    "Save Websites"
+   ]
+  ],
+  [
+   "Other",
+   [
+    "Begin",
+    "Skills",
+    "Language",
+    "Source",
+    "Referred By",
+    "Current Date"
+   ]
+  ]
+ ],
+ "fieldCategoryReadableNames": {
+  "begin": "Begin",
+  "resume": "Resume",
+  "coverLetter": "Cover Letter",
+  "first_name": "First Name",
+  "last_name": "Last Name",
+  "full_name": "Full Name",
+  "preferred_name": "Preferred Name",
+  "preferred_first_name": "Preferred Name",
+  "preferred_last_name": "Preferred Name",
+  "username": "Username",
+  "email": "Email",
+  "email_confirm": "Email Confirmation",
+  "phone_type": "Phone Type",
+  "phone_country": "Phone Country",
+  "phone": "Phone",
+  "phone_stripped": "Phone",
+  "location": "Location",
+  "country": "Country / Region",
+  "state": "State / Province",
+  "city": "City",
+  "city_state": "City / State",
+  "city_state_full": "City / State",
+  "address_type": "Address",
+  "address": "Address",
+  "address_2": "Address",
+  "postal_code": "Postal Code",
+  "work_auth": "Work Authorization",
+  "work_auth_ca": "Work Authorization (Canada)",
+  "work_auth_uk": "Work Authorization (UK)",
+  "work_auth_us": "Work Authorization (US)",
+  "sponsorship": "Sponsorship",
+  "over18": "Over 18",
+  "over21": "Over 21",
+  "disability": "Disability Status",
+  "disability_v2": "Disability Status",
+  "veteran": "Veteran Status",
+  "veteran_v2": "Veteran Status",
+  "lgbt": "LGBT",
+  "lgbt_v2": "LGBT",
+  "gender": "Gender",
+  "ethnicity": "Ethnicity",
+  "multiple_ethnicities": "Ethnicity",
+  "hispanic": "Hispanic",
+  "highestDegree": "Highest Degree",
+  "linkedin": "LinkedIn",
+  "twitter": "Twitter",
+  "behance": "Behance",
+  "dribbble": "Dribbble",
+  "github": "GitHub",
+  "portfolio": "Portfolio",
+  "additional_url": "Website",
+  "website": "Website",
+  "websites": "Websites",
+  "birthday_date": "Birthday",
+  "birthday_YYYY": "Birth Year",
+  "birthday_M": "Birth Month",
+  "birthday_MM": "Birth Month",
+  "birthday_D": "Birth Day",
+  "birthday_DD": "Birth Day",
+  "birthday_slashes_MDYYYY": "Birthday",
+  "birthday_slashes_MMDDYYYY": "Birthday",
+  "birthday_dashes_DDMMYYYY": "Birthday",
+  "current_date": "Current Date",
+  "current_date_M": "Current Month",
+  "current_date_MM": "Current Month",
+  "current_date_D": "Current Date",
+  "current_date_DD": "Current Date",
+  "current_date_YYYY": "Current Year",
+  "current_date_slashes_MMDDYYYY": "Current Date",
+  "current_company_name": "Current Company",
+  "currently_working": "Currently Working",
+  "education": "Education",
+  "language": "Language",
+  "education_summary": "Education",
+  "experience": "Experience",
+  "experience_summary": "Experience",
+  "roleType": "Role",
+  "start_month_text": "Start Month",
+  "start_date_MM": "Start Month",
+  "start_month": "Start Month",
+  "start_date_slashes_MMDDYYYY": "Start Date",
+  "start_date_slashes_MMYYYY": "Start Date",
+  "start_date_dashes_YYYYMMDD": "Start Date",
+  "start_date_dashes_YYYYMM": "Start Date",
+  "start_date_dashes_MMYYYY": "Start Date",
+  "start_date_month_DD_comma_YYYY": "Start Date",
+  "start_date": "Start Date",
+  "source": "Source",
+  "grad_month_text": "Graduation Month",
+  "grad_date_MM": "Graduation Month",
+  "grad_month": "Graduation Month",
+  "grad_date_slashes_MMDDYYYY": "Graduation Date",
+  "grad_date_slashes_MMYYYY": "Graduation Date",
+  "grad_date_dashes_YYYYMMDD": "Graduation Date",
+  "grad_date_dashes_YYYYMM": "Graduation Date",
+  "grad_date_dashes_MMYYYY": "Graduation Date",
+  "grad_date_month_DD_comma_YYYY": "Graduation Date",
+  "grad_date": "Graduation Date",
+  "end_month_text": "End Month",
+  "end_date_MM": "End Month",
+  "end_month": "End Month",
+  "end_date_slashes_MMDDYYYY": "End Date",
+  "end_date_slashes_MMYYYY": "End Date",
+  "end_date_dashes_YYYYMMDD": "End Date",
+  "end_date_dashes_YYYYMM": "End Date",
+  "end_date_dashes_MMYYYY": "End Date",
+  "end_date_month_DD_comma_YYYY": "End Date",
+  "end_date": "End Date",
+  "skill": "Skills",
+  "phone_2": "Phone",
+  "state_2": "State / Province",
+  "email_2": "Email",
+  "ethnicity_2": "Ethnicity",
+  "first_name_2": "First Name",
+  "last_name_2": "Last Name",
+  "preferred_first_name_2": "Preferred Name",
+  "linkedin_2": "LinkedIn",
+  "additional_url_2": "Website",
+  "lgbt_v2_2": "LGBT",
+  "hispanic_2": "Hispanic",
+  "veteran_v2_2": "Veteran Status",
+  "disability_v2_2": "Disability Status",
+  "linkedin_3": "LinkedIn",
+  "additional_url_3": "Website",
+  "lgbt_v2_3": "LGBT",
+  "ethnicity_3": "Ethnicity",
+  "hispanic_3": "Hispanic",
+  "veteran_v2_3": "Veteran Status",
+  "disability_v2_3": "Disability Status",
+  "phone_country_2": "Phone Country",
+  "phone_country_3": "Phone Country",
+  "phone_country_4": "Phone Country",
+  "phone_stripped_2": "Phone",
+  "gender_2": "Gender",
+  "source_2": "Source",
+  "country_2": "Country / Region",
+  "city_2": "City",
+  "work_auth_2": "Work Authorization",
+  "sponsorship_2": "Sponsorship",
+  "work_auth_3": "Work Authorization",
+  "sponsorship_3": "Sponsorship",
+  "gender_3": "Gender"
+ },
+ "fieldNameAliases": {
+  "work auth": "Work Authorization",
+  "linkedin": "LinkedIn",
+  "github": "GitHub",
+  "veteran": "Veteran Status",
+  "disability status": "Disability",
+  "lgbt": "LGBT",
+  "country / region": "Country",
+  "state / province": "State",
+  "city / state": "City",
+  "birth day": "Birthday",
+  "birth month": "Birthday",
+  "birth year": "Birthday",
+  "websites": "Website",
+  "resume begin": "Resume"
+ },
+ "fieldDependencies": {
+  "birthday": [
+   "Over 18",
+   "Over 21"
+  ],
+  "current date": [
+   "Current Month",
+   "Current Year"
+  ]
+ },
+ "trackedInputProfileKeyCorrections": [
+  {
+   "labelPattern": "position title",
+   "profileKey": "experience_summary",
+   "correctedProfileKey": "current_job_title"
+  },
+  {
+   "labelPattern": "job title",
+   "profileKey": "experience_summary",
+   "correctedProfileKey": "current_job_title"
+  }
+ ],
+ "hiddenTrackedInputLabels": [
+  "choose password",
+  "password",
+  "retype password"
+ ],
+ "excludedTrackedInputLabelPatterns": [
+  "middle name",
+  "suffix"
+ ],
+ "excludedTrackedInputTagNames": [
+  "TEXTAREA"
+ ]
+}

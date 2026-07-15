@@ -1,0 +1,46 @@
+{
+ "hiddenTrackedInputLabels": [
+  "choose password",
+  "password",
+  "retype password"
+ ],
+ "excludedTrackedInputLabelPatterns": [
+  "middle name",
+  "suffix"
+ ],
+ "excludedTrackedInputTagNames": [
+  "TEXTAREA"
+ ],
+ "conditionalTrackedInputExclusions": [
+  {
+   "labelPattern": "preferred name",
+   "requiredProfileKey": "preferred_name"
+  },
+  {
+   "labelPattern": "preferred first name",
+   "requiredProfileKey": "preferred_name"
+  },
+  {
+   "labelPattern": "preferred last name",
+   "requiredProfileKey": "preferred_name"
+  }
+ ],
+ "doNotInjectUrls": [
+  "*://*.google.com/recaptcha/*",
+  "*://*.recaptcha.net/recaptcha/*",
+  "*://*.hcaptcha.com/captcha/*",
+  "*://*.youtube.com/*",
+  "*://*.amazon.com/*",
+  "*://*.amazon.co.uk/*",
+  "*://*.amazon.de/*",
+  "*://*.amazon.fr/*",
+  "*://*.amazon.it/*",
+  "*://*.amazon.es/*",
+  "*://*.amazon.ca/*",
+  "*://*.amazon.co.jp/*",
+  "*://*.amazon.co.in/*",
+  "*://*.amazon.co.uk/*",
+  "*://*.live.com/*",
+  "*://teams.microsoft.com/*"
+ ]
+}

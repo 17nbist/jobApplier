@@ -1,0 +1,10937 @@
+{
+ "resumeScoreCategories": {
+  "hardSkills": [
+   [
+    "automated testing",
+    "automated tests",
+    "automation of processes",
+    "automation solutions",
+    "automation tools"
+   ],
+   [
+    "account-level risks"
+   ],
+   [
+    "asset allocation"
+   ],
+   [
+    "AWS security"
+   ],
+   [
+    "algorithm design",
+    "algorithm development"
+   ],
+   [
+    "ad buying",
+    "ad features",
+    "ad technology",
+    "AdTech"
+   ],
+   [
+    "advanced analytics",
+    "advanced analytics platforms",
+    "advanced analytics solutions"
+   ],
+   [
+    "mathematics"
+   ],
+   [
+    "financial reporting"
+   ],
+   [
+    "business analysis"
+   ],
+   [
+    "business analytics"
+   ],
+   [
+    "business case",
+    "business case development"
+   ],
+   [
+    "Business Intelligence",
+    "business intelligence technologies"
+   ],
+   [
+    "B2B product solutions",
+    "B2B sales",
+    "B2B technology"
+   ],
+   [
+    "B2C sales"
+   ],
+   [
+    "back end",
+    "back-end",
+    "back-end data display",
+    "back-end framework",
+    "back-end programming language",
+    "backend"
+   ],
+   [
+    "batch data",
+    "batch data ingestion",
+    "batch process"
+   ],
+   [
+    "brand management"
+   ],
+   [
+    "branding/website design"
+   ],
+   [
+    "biddable auction advertising"
+   ],
+   [
+    "building codes and standards"
+   ],
+   [
+    "capacity planning"
+   ],
+   [
+    "capital markets"
+   ],
+   [
+    "cash flow management"
+   ],
+   [
+    "caching"
+   ],
+   [
+    "campaign creation",
+    "campaign management",
+    "campaign optimizations",
+    "campaign performance",
+    "campaign plans"
+   ],
+   [
+    "color theory"
+   ],
+   [
+    "commercial operations"
+   ],
+   [
+    "computational analytics"
+   ],
+   [
+    "computational biology"
+   ],
+   [
+    "computer architecture"
+   ],
+   [
+    "computer vision",
+    "computer vision models"
+   ],
+   [
+    "concept diagrams"
+   ],
+   [
+    "configuration management"
+   ],
+   [
+    "connectivity technologies"
+   ],
+   [
+    "construction management"
+   ],
+   [
+    "content creation",
+    "content development"
+   ],
+   [
+    "content marketing"
+   ],
+   [
+    "contingency plan"
+   ],
+   [
+    "Conversion Rate Optimization",
+    "CRO (Conversion Rate Optimization)"
+   ],
+   [
+    "corporate finance"
+   ],
+   [
+    "correction protocol"
+   ],
+   [
+    "cost accounting"
+   ],
+   [
+    "create report",
+    "create web pages"
+   ],
+   [
+    "creative production"
+   ],
+   [
+    "crypto"
+   ],
+   [
+    "cryptocurrency"
+   ],
+   [
+    "cryptography"
+   ],
+   [
+    "current web trends"
+   ],
+   [
+    "data analytics"
+   ],
+   [
+    "data and analysis"
+   ],
+   [
+    "data architecture"
+   ],
+   [
+    "data consolidation"
+   ],
+   [
+    "data engineer"
+   ],
+   [
+    "data ingestion"
+   ],
+   [
+    "data mining"
+   ],
+   [
+    "data modeling"
+   ],
+   [
+    "data models"
+   ],
+   [
+    "data pipeline"
+   ],
+   [
+    "data presentation"
+   ],
+   [
+    "data reporting"
+   ],
+   [
+    "data science"
+   ],
+   [
+    "data sheets"
+   ],
+   [
+    "data solutions"
+   ],
+   [
+    "data storytelling"
+   ],
+   [
+    "data strategy"
+   ],
+   [
+    "data structure",
+    "data structures"
+   ],
+   [
+    "data validation exercises"
+   ],
+   [
+    "data visualization",
+    "data visualization tools"
+   ],
+   [
+    "data-informed techniques"
+   ],
+   [
+    "data-powered products"
+   ],
+   [
+    "database",
+    "database administration",
+    "database architecture",
+    "database design"
+   ],
+   [
+    "decision trees"
+   ],
+   [
+    "GSIs"
+   ],
+   [
+    "deep learning"
+   ],
+   [
+    "demand forecasting"
+   ],
+   [
+    "demand fulfillment"
+   ],
+   [
+    "demand generation"
+   ],
+   [
+    "derivatives"
+   ],
+   [
+    "descriptive / predictive models",
+    "descriptive and predictive models",
+    "descriptive models",
+    "Descriptive/Predictive Models"
+   ],
+   [
+    "design guides and prototypes",
+    "design patterns",
+    "design review",
+    "design tools and workflows"
+   ],
+   [
+    "SQL analytics"
+   ],
+   [
+    "developer relations"
+   ],
+   [
+    "development life cycle"
+   ],
+   [
+    "device drivers"
+   ],
+   [
+    "digital campaigns"
+   ],
+   [
+    "digital content"
+   ],
+   [
+    "digital marketing"
+   ],
+   [
+    "digital products"
+   ],
+   [
+    "digital strategy"
+   ],
+   [
+    "digital transformation program"
+   ],
+   [
+    "direct mail marketing"
+   ],
+   [
+    "discounted cash flow"
+   ],
+   [
+    "discovery assumption mapping"
+   ],
+   [
+    "distributed and parallel systems"
+   ],
+   [
+    "distributed applications"
+   ],
+   [
+    "distributed products"
+   ],
+   [
+    "distributed storage"
+   ],
+   [
+    "distributed system"
+   ],
+   [
+    "distribution channels"
+   ],
+   [
+    "distribution strategy"
+   ],
+   [
+    "dynamic web page design"
+   ],
+   [
+    "dynamically-generated segments"
+   ],
+   [
+    "e-commerce",
+    "e-commerce platforms"
+   ],
+   [
+    "econometric modeling",
+    "econometrics"
+   ],
+   [
+    "edge computing"
+   ],
+   [
+    "emerging/ground-breaking technologies"
+   ],
+   [
+    "supply chain planning"
+   ],
+   [
+    "end to end process"
+   ],
+   [
+    "end-to-end"
+   ],
+   [
+    "energy management"
+   ],
+   [
+    "enterprise SaaS",
+    "enterprise sales",
+    "enterprise software",
+    "enterprise software startup",
+    "enterprise solutions"
+   ],
+   [
+    "environmental engineering"
+   ],
+   [
+    "epidemiology"
+   ],
+   [
+    "error detection"
+   ],
+   [
+    "event budget tracker",
+    "event coordination",
+    "event marketing"
+   ],
+   [
+    "evergreen campaigns"
+   ],
+   [
+    "experimental design",
+    "experimental test"
+   ],
+   [
+    "firmware"
+   ],
+   [
+    "forecasting"
+   ],
+   [
+    "functional programing",
+    "functional programming"
+   ],
+   [
+    "gaming"
+   ],
+   [
+    "SEO"
+   ],
+   [
+    "generating pipeline"
+   ],
+   [
+    "genetic algorithms"
+   ],
+   [
+    "geospatial analysis"
+   ],
+   [
+    "global design system"
+   ],
+   [
+    "grid edge technologies"
+   ],
+   [
+    "hazardous materials handling"
+   ],
+   [
+    "heap dump analysis"
+   ],
+   [
+    "human centered design"
+   ],
+   [
+    "hypothesis driven outcomes"
+   ],
+   [
+    "incident response"
+   ],
+   [
+    "information architecture"
+   ],
+   [
+    "information security"
+   ],
+   [
+    "infrastructure management"
+   ],
+   [
+    "advertising proposals",
+    "advertising strategy"
+   ],
+   [
+    "integration test",
+    "integration testing"
+   ],
+   [
+    "interior design or architecture"
+   ],
+   [
+    "intrusion detection prevention"
+   ],
+   [
+    "inventory control",
+    "inventory selections"
+   ],
+   [
+    "IP creation/tracking",
+    "IP forwarding",
+    "IP management",
+    "IP networking"
+   ],
+   [
+    "clustering"
+   ],
+   [
+    "IT operations"
+   ],
+   [
+    "account management",
+    "account manager",
+    "account strategies",
+    "account strategy"
+   ],
+   [
+    "advertising performance metrics"
+   ],
+   [
+    "key accounts"
+   ],
+   [
+    "key buyer personas"
+   ],
+   [
+    "key customer benefits"
+   ],
+   [
+    "key customer programs"
+   ],
+   [
+    "key performance indicators",
+    "key performance metrics"
+   ],
+   [
+    "keyword research",
+    "keyword targeting",
+    "keyword/audience research"
+   ],
+   [
+    "laddering techniques"
+   ],
+   [
+    "lease"
+   ],
+   [
+    "legal advice",
+    "legal research"
+   ],
+   [
+    "leveraged buyout"
+   ],
+   [
+    "lifecycle marketing"
+   ],
+   [
+    "load changes"
+   ],
+   [
+    "logistics coordination",
+    "logistics management"
+   ],
+   [
+    "machine design"
+   ],
+   [
+    "machine learning",
+    "machine learning algorithm",
+    "machine learning engineer",
+    "machine learning languages and packages",
+    "machine learning model",
+    "ML"
+   ],
+   [
+    "ai",
+    "artificial intelligence"
+   ],
+   [
+    "advertising campaign management",
+    "advertising campaigns"
+   ],
+   [
+    "account reconciliation"
+   ],
+   [
+    "SCRUM Master"
+   ],
+   [
+    "malware analysis"
+   ],
+   [
+    "manage accounts"
+   ],
+   [
+    "manage monthly budget",
+    "manage monthly budget of $XX"
+   ],
+   [
+    "PR campaigns"
+   ],
+   [
+    "press page"
+   ],
+   [
+    "manufacturing operations"
+   ],
+   [
+    "market & competitive analysis"
+   ],
+   [
+    "market analysis"
+   ],
+   [
+    "market research",
+    "market research & analysis"
+   ],
+   [
+    "market segmentation"
+   ],
+   [
+    "marketing automation",
+    "marketing automation workflows"
+   ],
+   [
+    "marketing campaigns"
+   ],
+   [
+    "marketing design"
+   ],
+   [
+    "marketing management"
+   ],
+   [
+    "marketing mix models"
+   ],
+   [
+    "marketing operations"
+   ],
+   [
+    "marketing planning",
+    "marketing plans"
+   ],
+   [
+    "marketing technology",
+    "marketing technology solutions"
+   ],
+   [
+    "mechanical design"
+   ],
+   [
+    "media analytics"
+   ],
+   [
+    "media buying"
+   ],
+   [
+    "media management"
+   ],
+   [
+    "medical coding"
+   ],
+   [
+    "merchandising"
+   ],
+   [
+    "mergers & acquisitions"
+   ],
+   [
+    "metadata management"
+   ],
+   [
+    "microservices",
+    "micro-services"
+   ],
+   [
+    "minimal viable product"
+   ],
+   [
+    "mobile app"
+   ],
+   [
+    "mobile development"
+   ],
+   [
+    "mobile device management"
+   ],
+   [
+    "mobile game development"
+   ],
+   [
+    "mobile marketing"
+   ],
+   [
+    "mobile software development"
+   ],
+   [
+    "mobile web"
+   ],
+   [
+    "multi-stage projects"
+   ],
+   [
+    "public relations"
+   ],
+   [
+    "multi-tenant",
+    "multi-threaded"
+   ],
+   [
+    "multichanneldigital marketing"
+   ],
+   [
+    "multivariate regression",
+    "multivariate testing"
+   ],
+   [
+    "risk management"
+   ],
+   [
+    "network configuration"
+   ],
+   [
+    "natural language processing",
+    "NLP"
+   ],
+   [
+    "network administration"
+   ],
+   [
+    "network and information security"
+   ],
+   [
+    "network architecture"
+   ],
+   [
+    "network engineer"
+   ],
+   [
+    "network programming"
+   ],
+   [
+    "network security",
+    "network/socket"
+   ],
+   [
+    "new product marketing"
+   ],
+   [
+    "non-relational databases"
+   ],
+   [
+    "nonprofit fundraising"
+   ],
+   [
+    "user stories"
+   ],
+   [
+    "value proposition"
+   ],
+   [
+    "user interaction",
+    "user interaction design"
+   ],
+   [
+    "Office365 administration"
+   ],
+   [
+    "visual design"
+   ],
+   [
+    "online advertising"
+   ],
+   [
+    "operational improvements"
+   ],
+   [
+    "operational metrics"
+   ],
+   [
+    "optimize asset efficiency"
+   ],
+   [
+    "order processing"
+   ],
+   [
+    "OS development"
+   ],
+   [
+    "outsourcing management"
+   ],
+   [
+    "P&L management"
+   ],
+   [
+    "paid search"
+   ],
+   [
+    "paid social",
+    "paid social media",
+    "paid social media advertising"
+   ],
+   [
+    "patent law"
+   ],
+   [
+    "PCB assembly",
+    "PCB design"
+   ],
+   [
+    "visual brand"
+   ],
+   [
+    "pharmaceutical research"
+   ],
+   [
+    "outside sales"
+   ],
+   [
+    "physical therapy"
+   ],
+   [
+    "platform services"
+   ],
+   [
+    "IPv4/IPv6",
+    "IPv6"
+   ],
+   [
+    "policy development"
+   ],
+   [
+    "portfolio management"
+   ],
+   [
+    "post-launch optimizations"
+   ],
+   [
+    "prediction algorithms"
+   ],
+   [
+    "predictive analytics"
+   ],
+   [
+    "predictive intelligence"
+   ],
+   [
+    "predictive model",
+    "predictive models"
+   ],
+   [
+    "presales"
+   ],
+   [
+    "product and release planning sessions",
+    "product analytics"
+   ],
+   [
+    "product delivery"
+   ],
+   [
+    "product demonstration",
+    "product demos"
+   ],
+   [
+    "product design",
+    "product development process"
+   ],
+   [
+    "product ecosystem"
+   ],
+   [
+    "product enhancement"
+   ],
+   [
+    "product features"
+   ],
+   [
+    "product implementation"
+   ],
+   [
+    "product improvements"
+   ],
+   [
+    "product launch",
+    "product launch plan"
+   ],
+   [
+    "product life-cycle",
+    "product lifecycle",
+    "product lifecycle management"
+   ],
+   [
+    "product management",
+    "product manager"
+   ],
+   [
+    "product marketing",
+    "product or program management"
+   ],
+   [
+    "product pipeline",
+    "product pipeline management"
+   ],
+   [
+    "product requirement document"
+   ],
+   [
+    "product spec",
+    "product specs"
+   ],
+   [
+    "product-oriented quantitative analysis"
+   ],
+   [
+    "production agency/vendor management"
+   ],
+   [
+    "production defects"
+   ],
+   [
+    "production support"
+   ],
+   [
+    "project finance"
+   ],
+   [
+    "project manager"
+   ],
+   [
+    "project management",
+    "project management tools"
+   ],
+   [
+    "project plans"
+   ],
+   [
+    "project risks"
+   ],
+   [
+    "project/release management"
+   ],
+   [
+    "property management"
+   ],
+   [
+    "prototypes"
+   ],
+   [
+    "regression"
+   ],
+   [
+    "resolve dependencies"
+   ],
+   [
+    "typography"
+   ],
+   [
+    "enzyme"
+   ],
+   [
+    "Root Cause Analysis"
+   ],
+   [
+    "LDAP"
+   ],
+   [
+    "Sales Enablement assets"
+   ],
+   [
+    "sales pipeline"
+   ],
+   [
+    "telemarketing"
+   ],
+   [
+    "serialization"
+   ],
+   [
+    "service delivery"
+   ],
+   [
+    "service desk"
+   ],
+   [
+    "session management"
+   ],
+   [
+    "fintech"
+   ],
+   [
+    "user feedback"
+   ],
+   [
+    "standard business processes"
+   ],
+   [
+    "standard practices"
+   ],
+   [
+    "state management"
+   ],
+   [
+    "strategic growth projects",
+    "strategic learning management system",
+    "strategic planning",
+    "strategic projects"
+   ],
+   [
+    "performance management"
+   ],
+   [
+    "subscription management"
+   ],
+   [
+    "system integration"
+   ],
+   [
+    "task automation"
+   ],
+   [
+    "draft contacts"
+   ],
+   [
+    "technical architecture"
+   ],
+   [
+    "technical functionality"
+   ],
+   [
+    "technical implementation methods"
+   ],
+   [
+    "technical product management"
+   ],
+   [
+    "technical reporting"
+   ],
+   [
+    "trade off"
+   ],
+   [
+    "trade show"
+   ],
+   [
+    "theorem"
+   ],
+   [
+    "thread dump analysis"
+   ],
+   [
+    "threads"
+   ],
+   [
+    "ticketing"
+   ],
+   [
+    "timeline planning"
+   ],
+   [
+    "theming"
+   ],
+   [
+    "technology trends and architectures"
+   ],
+   [
+    "CFA (Chartered Financial Analyst)"
+   ],
+   [
+    "trace route"
+   ],
+   [
+    "technical support"
+   ],
+   [
+    "Twitter Ads"
+   ],
+   [
+    "TWS"
+   ],
+   [
+    "unit and integration testing",
+    "unit test"
+   ],
+   [
+    "usability issues"
+   ],
+   [
+    "usability studies"
+   ],
+   [
+    "usage statistics"
+   ],
+   [
+    "user features"
+   ],
+   [
+    "advising clients"
+   ],
+   [
+    "PRDs"
+   ],
+   [
+    "user interface",
+    "user interface design"
+   ],
+   [
+    "user persona"
+   ],
+   [
+    "user requirements"
+   ],
+   [
+    "user research"
+   ],
+   [
+    "user scenarios"
+   ],
+   [
+    "acceptance criteria"
+   ],
+   [
+    "user story writing"
+   ],
+   [
+    "user test",
+    "user testing plans",
+    "user testing sessions"
+   ],
+   [
+    "user-centered design",
+    "user-centered design techniques"
+   ],
+   [
+    "UX design",
+    "UX design methodologies",
+    "UX design principles",
+    "UX design processes"
+   ],
+   [
+    "UX patterns",
+    "UX research",
+    "UX/Design language style libraries"
+   ],
+   [
+    "UI/UX design",
+    "UX/UI"
+   ],
+   [
+    "video editing"
+   ],
+   [
+    "video marketing",
+    "video production"
+   ],
+   [
+    "art direction"
+   ],
+   [
+    "architectural direction"
+   ],
+   [
+    "web hosting"
+   ],
+   [
+    "web infrastructure"
+   ],
+   [
+    "web performance"
+   ],
+   [
+    "web projects"
+   ],
+   [
+    "web rollout"
+   ],
+   [
+    "web security"
+   ],
+   [
+    "website content display"
+   ],
+   [
+    "website hosting"
+   ],
+   [
+    "website infrastructure"
+   ],
+   [
+    "LAN/WAN"
+   ],
+   [
+    "website navigation optimization"
+   ],
+   [
+    "website performance",
+    "website performance optimization"
+   ],
+   [
+    "writing modules"
+   ],
+   [
+    "wire frame",
+    "wireframe",
+    "wireframes"
+   ],
+   [
+    "LTV"
+   ],
+   [
+    "IoT"
+   ],
+   [
+    "technical maintenance"
+   ],
+   [
+    "accessibility techniques"
+   ],
+   [
+    "call center experience"
+   ],
+   [
+    "claims management"
+   ],
+   [
+    "cleaning procedures"
+   ],
+   [
+    "client acquisition"
+   ],
+   [
+    "troubleshooting"
+   ],
+   [
+    "compensation analysis"
+   ],
+   [
+    "competitive analysis",
+    "competitive intelligence"
+   ],
+   [
+    "compliance",
+    "compliance management"
+   ],
+   [
+    "consumer behavior principles"
+   ],
+   [
+    "BGP",
+    "border gateway protocol"
+   ],
+   [
+    "consumer psychology"
+   ],
+   [
+    "contract management"
+   ],
+   [
+    "contractual agreements"
+   ],
+   [
+    "critical analysis"
+   ],
+   [
+    "customer analysis"
+   ],
+   [
+    "customer analytics"
+   ],
+   [
+    "customer demographic"
+   ],
+   [
+    "customer features"
+   ],
+   [
+    "customer journey"
+   ],
+   [
+    "customer retention"
+   ],
+   [
+    {
+     "match": "(^|\\W)IST($|\\W)"
+    }
+   ],
+   [
+    "customer stories"
+   ],
+   [
+    "customer success metrics"
+   ],
+   [
+    "customer surveys"
+   ],
+   [
+    "customer value"
+   ],
+   [
+    "manage components"
+   ],
+   [
+    "feature backlog",
+    "feature delivery and tradeoffs",
+    "feature roadmapping"
+   ],
+   [
+    "franchising"
+   ],
+   [
+    "fraud detection",
+    "fraud detection model"
+   ],
+   [
+    "front end",
+    "front end design",
+    "front end technologies",
+    "front-end",
+    "front-end development",
+    "front-end systems",
+    "front-end web technologies",
+    "frontend"
+   ],
+   [
+    "full stack",
+    "full stack development",
+    "full stack software engineer",
+    "full-stack",
+    "full-stack software engineering",
+    "fullstack",
+    "fullstack development",
+    "fullstack software engineer"
+   ],
+   [
+    "functional QA"
+   ],
+   [
+    "game developer",
+    "game development"
+   ],
+   [
+    "business management"
+   ],
+   [
+    "business models"
+   ],
+   [
+    "business objectives"
+   ],
+   [
+    "business operation analytics"
+   ],
+   [
+    "business performance"
+   ],
+   [
+    "business reports"
+   ],
+   [
+    "business reviews"
+   ],
+   [
+    "business strategies",
+    "business strategy"
+   ],
+   [
+    "growth and lifecycle marketing",
+    "growth hacker",
+    "growth hacking",
+    "growth marketing strategy",
+    "growth strategy"
+   ],
+   [
+    "hosting environment"
+   ],
+   [
+    "intermodal logistics"
+   ],
+   [
+    "international business"
+   ],
+   [
+    "intellectual property"
+   ],
+   [
+    "helpdesk support"
+   ],
+   [
+    "lean experiments"
+   ],
+   [
+    "lean startup"
+   ],
+   [
+    "practical A/B testing"
+   ],
+   [
+    "customer engagement"
+   ],
+   [
+    "customer needs"
+   ],
+   [
+    "customer relationship management"
+   ],
+   [
+    "iterative development",
+    "iterative development process",
+    "iterative user research"
+   ],
+   [
+    "API",
+    "API development",
+    "API's"
+   ],
+   [
+    "change management",
+    "change management programs"
+   ],
+   [
+    "chemical engineering",
+    "chemical process engineering"
+   ],
+   [
+    "cloud app adoption"
+   ],
+   [
+    "cloud computing"
+   ],
+   [
+    "cloud data services"
+   ],
+   [
+    "cloud infrastructure"
+   ],
+   [
+    "cold calling"
+   ],
+   [
+    "cookies"
+   ],
+   [
+    "copywriting"
+   ],
+   [
+    "CRM",
+    "CRM pipeline"
+   ],
+   [
+    "DNS",
+    "DNS management",
+    "DNS routing"
+   ],
+   [
+    "electrical circuits"
+   ],
+   [
+    "electro-mechanical",
+    "embedded networking"
+   ],
+   [
+    "embedded language"
+   ],
+   [
+    "embedded software engineer",
+    "embedded software testing",
+    "embedded systems"
+   ],
+   [
+    "business workflow redesign experience"
+   ],
+   [
+    "ETL",
+    "ETL data",
+    "ETL data integration",
+    "ETL processes"
+   ],
+   [
+    "extreme programming"
+   ],
+   [
+    "financial analysis",
+    "financial planning"
+   ],
+   [
+    "FPGA development"
+   ],
+   [
+    "GPU",
+    "GPU programming"
+   ],
+   [
+    "graphic design",
+    "graphics design"
+   ],
+   [
+    "HV and LV vehicle systems"
+   ],
+   [
+    "HVAC"
+   ],
+   [
+    "hybrid cloud"
+   ],
+   [
+    "infrastructure-as-code"
+   ],
+   [
+    "iOS",
+    "iOS developer",
+    "iOS development"
+   ],
+   [
+    "iPhone"
+   ],
+   [
+    "landing page optimization"
+   ],
+   [
+    "load balancing"
+   ],
+   [
+    "page speed optimization"
+   ],
+   [
+    "propensity modeling",
+    "propensity models"
+   ],
+   [
+    "Rapid Prototyping"
+   ],
+   [
+    "Refactoring"
+   ],
+   [
+    "Responsive Application",
+    "Responsive Design",
+    "Responsive Development"
+   ],
+   [
+    "Retail Merchandising"
+   ],
+   [
+    "RKT"
+   ],
+   [
+    "SaaS",
+    "SaaS (Software as a Service)",
+    "SaaS attribution modeling",
+    "SaaS models outcome-based models",
+    "SaaS product",
+    "SaaS sales"
+   ],
+   [
+    "SEM"
+   ],
+   [
+    "server administration"
+   ],
+   [
+    "server-side scripting"
+   ],
+   [
+    "spec",
+    "specification",
+    "specification development",
+    "specs"
+   ],
+   [
+    "SSH"
+   ],
+   [
+    "SSL"
+   ],
+   [
+    "statistics"
+   ],
+   [
+    "tag management"
+   ],
+   [
+    "TCP",
+    "TCP/IP"
+   ],
+   [
+    "TDD",
+    "test-driven development",
+    "test-driven-development"
+   ],
+   [
+    "test & quality",
+    "test automation",
+    "test development",
+    "test driven development",
+    "test infrastructure",
+    "test plan"
+   ],
+   [
+    "UI design",
+    "UI design and development",
+    "UI developer",
+    "UI engineering",
+    "UI standards"
+   ],
+   [
+    "uptime"
+   ],
+   [
+    "vector graphics"
+   ],
+   [
+    "version control",
+    "version control system",
+    "version repository"
+   ],
+   [
+    "warehouse management"
+   ],
+   [
+    "web accessibility",
+    "web accessibility standards"
+   ],
+   [
+    "web app development",
+    "web application development",
+    "scaling web applications",
+    "scaling web apps"
+   ],
+   [
+    "web architecture"
+   ],
+   [
+    "web design",
+    "web developer",
+    "web development"
+   ],
+   [
+    "web production"
+   ],
+   [
+    "web services"
+   ],
+   [
+    "web standards"
+   ],
+   [
+    "web3"
+   ],
+   [
+    "website application"
+   ],
+   [
+    "website development"
+   ],
+   [
+    "website technology"
+   ],
+   [
+    "whitepapers"
+   ],
+   [
+    "SG&A analysis"
+   ],
+   [
+    "hardware issues"
+   ],
+   [
+    "FP&A"
+   ],
+   [
+    "ladder logic"
+   ],
+   [
+    "MCU development"
+   ],
+   [
+    "MCU programming"
+   ],
+   [
+    "ROI analysis"
+   ],
+   [
+    "COGS mapping"
+   ],
+   [
+    "P&L"
+   ],
+   [
+    "cut sheet review"
+   ],
+   [
+    "x86"
+   ],
+   [
+    "sales development"
+   ],
+   [
+    "fermentation"
+   ],
+   [
+    "batch Records"
+   ],
+   [
+    "baterial Characterization"
+   ],
+   [
+    "technical transfer"
+   ],
+   [
+    "CNC Programmer"
+   ],
+   [
+    "GTM",
+    "GTM programs",
+    "GTM strategy",
+    "go to market",
+    "go-to-market",
+    "go-to-market strategy",
+    "go to market strategy"
+   ],
+   [
+    "financial markets"
+   ],
+   [
+    "Reference Architecture"
+   ],
+   [
+    "tech support"
+   ],
+   [
+    "point cloud processing"
+   ],
+   [
+    "PMP Certification",
+    "PMP"
+   ],
+   [
+    "process improvement"
+   ],
+   [
+    "code review"
+   ],
+   [
+    "pre-sales"
+   ],
+   [
+    "quality assurance"
+   ],
+   [
+    "quality controls"
+   ],
+   [
+    "technical writing"
+   ],
+   [
+    "gather input"
+   ],
+   [
+    "electrical systems"
+   ],
+   [
+    "PE license"
+   ],
+   [
+    "DevOps"
+   ],
+   [
+    "operating systems"
+   ],
+   [
+    "ROI evaluation"
+   ],
+   [
+    "optimizing share gains"
+   ],
+   [
+    "annual planning process"
+   ],
+   [
+    "maximze cash flow"
+   ],
+   [
+    "review budgets"
+   ],
+   [
+    "ad hoc modeling"
+   ],
+   [
+    "EAC analysis"
+   ],
+   [
+    "backlog review coordination"
+   ],
+   [
+    "internal controls"
+   ],
+   [
+    "forecasting cash conversions"
+   ],
+   [
+    "capital expenditure"
+   ],
+   [
+    "EDR"
+   ],
+   [
+    {
+     "match": "(^|\\W)NIST($|\\W)"
+    }
+   ],
+   [
+    {
+     "match": "(^|\\W)SIEM($|\\W)"
+    }
+   ],
+   [
+    {
+     "match": "(^|\\W)SOC($|\\W)"
+    }
+   ]
+  ],
+  "languages": [
+   [
+    "Python"
+   ],
+   [
+    "Ada"
+   ],
+   [
+    {
+     "match": "(^|\\W)ABAP($|\\W)"
+    }
+   ],
+   [
+    {
+     "match": "(^|\\W)ABCL($|\\W)"
+    }
+   ],
+   [
+    "ActionScript"
+   ],
+   [
+    "ALGOL"
+   ],
+   [
+    {
+     "match": "(^|\\W)APL($|\\W)"
+    }
+   ],
+   [
+    "AppleScript"
+   ],
+   [
+    "Assembly",
+    "Assembly Language"
+   ],
+   [
+    {
+     "match": "(^|\\W)AWK($|\\W)"
+    }
+   ],
+   [
+    "Bash"
+   ],
+   [
+    "BBC Basic"
+   ],
+   [
+    "BeanShell"
+   ],
+   [
+    "UML (Unified Modeling Language)"
+   ],
+   [
+    "C#",
+    "C# Developer"
+   ],
+   [
+    "C++",
+    "C/C++"
+   ],
+   [
+    "Cecil"
+   ],
+   [
+    "Cilk"
+   ],
+   [
+    "Clojure"
+   ],
+   [
+    "COBOL"
+   ],
+   [
+    "Component Pascal"
+   ],
+   [
+    "Concurrent Pascal"
+   ],
+   [
+    "Coral"
+   ],
+   [
+    "Curry"
+   ],
+   [
+    "Dart"
+   ],
+   [
+    "DASL"
+   ],
+   [
+    "Dataflow/Beam"
+   ],
+   [
+    "Delphi"
+   ],
+   [
+    "Eiffel"
+   ],
+   [
+    "Erlang",
+    "Erlang and Elixir"
+   ],
+   [
+    "Fortran"
+   ],
+   [
+    "F#",
+    "F-Script"
+   ],
+   [
+    "Fril"
+   ],
+   [
+    "Frink"
+   ],
+   [
+    "Golang",
+    "Go Lang",
+    "Go.",
+    "Go,",
+    "Go;",
+    "Go:",
+    "Go!",
+    "Go?"
+   ],
+   [
+    "Groovy"
+   ],
+   [
+    "Haskell"
+   ],
+   [
+    {
+     "match": "(^|\\W)HLS($|\\W)"
+    }
+   ],
+   [
+    {
+     "match": "(^|\\W)HOS($|\\W)"
+    }
+   ],
+   [
+    "HyperTalk"
+   ],
+   [
+    {
+     "match": "(^|\\W)ICI($|\\W)"
+    }
+   ],
+   [
+    {
+     "match": "(^|\\W)INIL($|\\W)"
+    }
+   ],
+   [
+    "INTERCAL"
+   ],
+   [
+    "Jack (Java)"
+   ],
+   [
+    "Java",
+    "Java developer",
+    "Java Enterprise Edition",
+    "JavaBeans"
+   ],
+   [
+    "JavaScript",
+    "JS",
+    "JavaScript developer",
+    "JavaScript/ES6"
+   ],
+   [
+    "HTML",
+    "HTML5",
+    "HTML5 App"
+   ],
+   [
+    "Kotlin"
+   ],
+   [
+    "Limbo"
+   ],
+   [
+    {
+     "match": "(^|\\W)LISP($|\\W)"
+    }
+   ],
+   [
+    "Lua"
+   ],
+   [
+    "Maker language"
+   ],
+   [
+    "MetaQuotes Language"
+   ],
+   [
+    "Perl"
+   ],
+   [
+    "PHP",
+    "PHP developer"
+   ],
+   [
+    "YAML",
+    "Yarn"
+   ],
+   [
+    "PL/C"
+   ],
+   [
+    "PL/I"
+   ],
+   [
+    "PL/SQL"
+   ],
+   [
+    "Prolog"
+   ],
+   [
+    "Pandas"
+   ],
+   [
+    {
+     "match": "(^|\\W)R($|\\W)"
+    },
+    "R programming"
+   ],
+   [
+    "Ruby",
+    "Ruby on Rails"
+   ],
+   [
+    "Rust"
+   ],
+   [
+    "SQL",
+    "SQL Developer",
+    "SQL Querying",
+    "SQL Server",
+    "SQL-Like Scripting Language"
+   ],
+   [
+    "Scala"
+   ],
+   [
+    "Shell Script",
+    "Shell Scripting",
+    "Unix Shell"
+   ],
+   [
+    "Swift"
+   ],
+   [
+    "TSQL",
+    "Transact-SQL"
+   ],
+   [
+    "TypeScript",
+    "Type Script"
+   ],
+   [
+    "VB.NET"
+   ],
+   [
+    "VBScript"
+   ],
+   [
+    "XAML"
+   ],
+   [
+    "XPath"
+   ],
+   [
+    "XSL",
+    "XSLT"
+   ],
+   [
+    "XML"
+   ],
+   [
+    "pCASTL"
+   ]
+  ],
+  "softSkills": [
+   [
+    "interpersonal skills"
+   ],
+   [
+    "logos"
+   ],
+   [
+    "responsiveness"
+   ],
+   [
+    "Lean Six Sigma",
+    "Six Sigma"
+   ],
+   [
+    "cross functional",
+    "cross functional collaboration",
+    "cross-functional",
+    "cross-functional collaboration",
+    "cross-functionally"
+   ],
+   [
+    "customer empathy"
+   ],
+   [
+    "early employee",
+    "early stage startups"
+   ],
+   [
+    "easy-to-understand concepts"
+   ],
+   [
+    "emergency response"
+   ],
+   [
+    "employee engagement"
+   ],
+   [
+    "fast paced environment"
+   ],
+   [
+    "founder"
+   ],
+   [
+    "goal oriented"
+   ],
+   [
+    "group working session"
+   ],
+   [
+    "inductive reasoning"
+   ],
+   [
+    "inpatient care"
+   ],
+   [
+    "learnability"
+   ],
+   [
+    "multimodal interactions"
+   ],
+   [
+    "people management"
+   ],
+   [
+    "personal training"
+   ],
+   [
+    "Philanthropy"
+   ],
+   [
+    "sales communications"
+   ],
+   [
+    "staff supervision"
+   ],
+   [
+    "stress tolerance"
+   ],
+   [
+    "team development"
+   ],
+   [
+    "tentpole"
+   ],
+   [
+    "relationship building"
+   ],
+   [
+    "active listening"
+   ],
+   [
+    "attention to detail"
+   ],
+   [
+    "conflict resolution"
+   ],
+   [
+    "critical thinking"
+   ],
+   [
+    "customer focus"
+   ],
+   [
+    "decision making",
+    "decision-making"
+   ],
+   [
+    "emotional intelligence"
+   ],
+   [
+    "goal setting"
+   ],
+   [
+    "growth mindset"
+   ],
+   [
+    "listening skills"
+   ],
+   [
+    "organizational skills"
+   ],
+   [
+    "stress management"
+   ],
+   [
+    "task management"
+   ],
+   [
+    "analytical thinking"
+   ],
+   [
+    "communication skills"
+   ],
+   [
+    "conflict management"
+   ],
+   [
+    "customer service"
+   ],
+   [
+    "detail-oriented"
+   ],
+   [
+    "emotional regulation"
+   ],
+   [
+    "goal orientation"
+   ],
+   [
+    "innovative thinking"
+   ],
+   [
+    "problem-solving"
+   ],
+   [
+    "team player"
+   ],
+   [
+    "active learning"
+   ],
+   [
+    "adaptable mindset"
+   ],
+   [
+    "agility"
+   ],
+   [
+    "big picture thinking"
+   ],
+   [
+    "cultural competence"
+   ],
+   [
+    "effective communication"
+   ],
+   [
+    "entrepreneurial mindset"
+   ],
+   [
+    "ethical judgment"
+   ],
+   [
+    "fostering innovation"
+   ],
+   [
+    "goal alignment"
+   ],
+   [
+    "goal-oriented"
+   ],
+   [
+    "influencing others"
+   ],
+   [
+    "innovative mindset"
+   ],
+   [
+    "interpersonal communication"
+   ],
+   [
+    "logical reasoning"
+   ],
+   [
+    "managing ambiguity"
+   ],
+   [
+    "motivating others"
+   ],
+   [
+    "multicultural awareness"
+   ],
+   [
+    "adaptive communication"
+   ],
+   [
+    "active facilitation"
+   ],
+   [
+    "assertive leadership"
+   ],
+   [
+    "audience engagement"
+   ],
+   [
+    "boundary setting"
+   ],
+   [
+    "career counseling"
+   ],
+   [
+    "change advocacy"
+   ],
+   [
+    "client empathy"
+   ],
+   [
+    "coaching and mentoring"
+   ],
+   [
+    "collaborative leadership"
+   ],
+   [
+    "conflict de-escalation"
+   ],
+   [
+    "creative facilitation"
+   ],
+   [
+    "cultural adaptability"
+   ],
+   [
+    "customer-centric approach"
+   ],
+   [
+    "decision facilitation"
+   ],
+   [
+    "diplomatic communication"
+   ],
+   [
+    "effective mentoring"
+   ],
+   [
+    "emotional adaptability"
+   ],
+   [
+    "engagement strategies"
+   ],
+   [
+    "ethical leadership"
+   ],
+   [
+    "flexible problem-solving"
+   ],
+   [
+    "inclusive facilitation"
+   ],
+   [
+    "influence without authority"
+   ],
+   [
+    "integrated thinking"
+   ],
+   [
+    "interpersonal adaptability"
+   ],
+   [
+    "leadership versatility"
+   ],
+   [
+    "meeting facilitation"
+   ],
+   [
+    "motivational interviewing"
+   ],
+   [
+    "narrative building"
+   ],
+   [
+    "needs assessment"
+   ],
+   [
+    "networking with purpose"
+   ],
+   [
+    "participative leadership"
+   ],
+   [
+    "peer coaching"
+   ],
+   [
+    "persuasive communication"
+   ],
+   [
+    "problem identification"
+   ],
+   [
+    "process facilitation"
+   ],
+   [
+    "reflective listening"
+   ],
+   [
+    "relationship cultivation"
+   ],
+   [
+    "resilience training"
+   ],
+   [
+    "results-focused coaching"
+   ],
+   [
+    "risk communication"
+   ],
+   [
+    "self-reflection"
+   ],
+   [
+    "situational coaching"
+   ],
+   [
+    "strategic facilitation"
+   ],
+   [
+    "supportive leadership"
+   ],
+   [
+    "team empowerment"
+   ],
+   [
+    "values-based leadership"
+   ],
+   [
+    "vision communication"
+   ],
+   [
+    "workplace mediation"
+   ],
+   [
+    "network building"
+   ],
+   [
+    "open-mindedness"
+   ],
+   [
+    "organizational awareness"
+   ],
+   [
+    "organizational leadership"
+   ],
+   [
+    "perspective taking"
+   ],
+   [
+    "personal accountability"
+   ],
+   [
+    "presentation skills"
+   ],
+   [
+    "prioritization"
+   ],
+   [
+    "resolving conflicts"
+   ],
+   [
+    "risk-taking"
+   ],
+   [
+    "self-confidence"
+   ],
+   [
+    "self-discipline"
+   ],
+   [
+    "situational awareness"
+   ],
+   [
+    "strategic mindset"
+   ],
+   [
+    "stress resilience"
+   ],
+   [
+    "strong work ethic"
+   ],
+   [
+    "sustainability mindset"
+   ],
+   [
+    "taking initiative"
+   ],
+   [
+    "team building"
+   ],
+   [
+    "thought leadership"
+   ],
+   [
+    "time optimization"
+   ],
+   [
+    "transformation"
+   ],
+   [
+    "trust building"
+   ],
+   [
+    "valuing diversity"
+   ],
+   [
+    "verbal communication"
+   ],
+   [
+    "visionary thinking"
+   ],
+   [
+    "volunteer management"
+   ],
+   [
+    "wellness advocacy"
+   ],
+   [
+    "writing skills"
+   ],
+   [
+    "active collaboration"
+   ],
+   [
+    "adaptive leadership"
+   ],
+   [
+    "affective communication"
+   ],
+   [
+    "authentic leadership"
+   ],
+   [
+    "behavioral adaptability"
+   ],
+   [
+    "boundary management"
+   ],
+   [
+    "client-focused communication"
+   ],
+   [
+    "collaborative problem solving"
+   ],
+   [
+    "conflict prevention"
+   ],
+   [
+    "creative problem solving"
+   ],
+   [
+    "cultural intelligence"
+   ],
+   [
+    "customer advocacy"
+   ],
+   [
+    "data-informed decision making",
+    "data-informed decision-making"
+   ],
+   [
+    "decisive leadership"
+   ],
+   [
+    "dignified communication"
+   ],
+   [
+    "empathy-driven leadership"
+   ],
+   [
+    "engagement optimization"
+   ],
+   [
+    "ethical decision making",
+    "ethical decision-making"
+   ],
+   [
+    "feedback assimilation"
+   ],
+   [
+    "goal-centric planning"
+   ],
+   [
+    "holistic thinking"
+   ],
+   [
+    "inclusive decision making",
+    "inclusive decision-making"
+   ],
+   [
+    "inspirational leadership"
+   ],
+   [
+    "intuitive problem solving"
+   ],
+   [
+    "leadership coaching"
+   ],
+   [
+    "learning agility"
+   ],
+   [
+    "meaningful engagement"
+   ],
+   [
+    "mental resilience"
+   ],
+   [
+    "mindful decision making",
+    "mindful decision-making"
+   ],
+   [
+    "motivational leadership"
+   ],
+   [
+    "multicultural engagement"
+   ],
+   [
+    "negotiation facilitation"
+   ],
+   [
+    "networked thinking"
+   ],
+   [
+    "open-minded leadership"
+   ],
+   [
+    "organizational communication"
+   ],
+   [
+    "participatory decision making",
+    "participatory decision-making"
+   ],
+   [
+    "persuasive leadership"
+   ],
+   [
+    "positive reinforcement"
+   ],
+   [
+    "process optimization"
+   ],
+   [
+    "proactive problem solving"
+   ],
+   [
+    "relationship management"
+   ],
+   [
+    "resilience coaching"
+   ],
+   [
+    "results-oriented leadership"
+   ],
+   [
+    "self-directed learning"
+   ],
+   [
+    "self-management"
+   ],
+   [
+    "situational leadership"
+   ],
+   [
+    "solution-oriented thinking"
+   ],
+   [
+    "stakeholder collaboration"
+   ],
+   [
+    "strategic communication"
+   ],
+   [
+    "stress navigation"
+   ],
+   [
+    "supportive communication"
+   ],
+   [
+    "synergistic thinking"
+   ],
+   [
+    "talent development"
+   ],
+   [
+    "team collaboration"
+   ],
+   [
+    "team cohesion"
+   ],
+   [
+    "team engagement"
+   ],
+   [
+    "team facilitation"
+   ],
+   [
+    "transformational leadership"
+   ],
+   [
+    "transparent communication"
+   ],
+   [
+    "trust cultivation"
+   ],
+   [
+    "user-centered thinking"
+   ],
+   [
+    "values-driven leadership"
+   ],
+   [
+    "verbal persuasion"
+   ],
+   [
+    "visionary leadership"
+   ],
+   [
+    "work-life integration"
+   ],
+   [
+    "workplace flexibility"
+   ],
+   [
+    "workplace inclusion"
+   ],
+   [
+    "adaptive thinking"
+   ],
+   [
+    "balanced communication"
+   ],
+   [
+    "client relationship building"
+   ],
+   [
+    "community building"
+   ],
+   [
+    "conflict management facilitation"
+   ],
+   [
+    "constructive feedback"
+   ],
+   [
+    "empathy in conflict resolution"
+   ],
+   [
+    "goal-driven collaboration"
+   ],
+   [
+    "inclusive communication"
+   ],
+   [
+    "performance feedback"
+   ],
+   [
+    "evaluate risks"
+   ],
+   [
+    "ethics"
+   ],
+   [
+    "user empathy"
+   ],
+   [
+    "transformative results"
+   ],
+   [
+    "digital-minded"
+   ],
+   [
+    "deductive reasoning"
+   ],
+   [
+    "multi-tasking capabilities"
+   ],
+   [
+    "client satisfaction"
+   ],
+   [
+    "humble attitude"
+   ],
+   [
+    "verbal and written communication skills"
+   ],
+   [
+    "written and verbal communication skills"
+   ]
+  ],
+  "toolsAndFrameworks": [
+   [
+    "PeopleSoft"
+   ],
+   [
+    "Axure",
+    "Axure RP"
+   ],
+   [
+    "Coveo"
+   ],
+   [
+    "Tableau"
+   ],
+   [
+    "Mathematica"
+   ],
+   [
+    "Looker"
+   ],
+   [
+    "Sprout Social"
+   ],
+   [
+    "SketchUp",
+    "Sketch-Up"
+   ],
+   [
+    "LangChain"
+   ],
+   [
+    "CMake"
+   ],
+   [
+    "Adobe AEM",
+    "Adobe Experience Manager"
+   ],
+   [
+    "Adobe Analytics"
+   ],
+   [
+    "Adobe Creative Cloud",
+    "Adobe Creative Suite"
+   ],
+   [
+    "Adobe Illustrator",
+    "Illustrator"
+   ],
+   [
+    "Adobe Photoshop",
+    "Photoshop"
+   ],
+   [
+    "Adobe Suite"
+   ],
+   [
+    "Adobe XD"
+   ],
+   [
+    "Adobe InDesign",
+    "InDesign"
+   ],
+   [
+    "Agora"
+   ],
+   [
+    "Aha"
+   ],
+   [
+    "Airflow"
+   ],
+   [
+    "AJAX"
+   ],
+   [
+    {
+     "match": "(^|\\W)ALF($|\\W)"
+    }
+   ],
+   [
+    "Algolia"
+   ],
+   [
+    "Angular",
+    "Angular.js",
+    "AngularJS"
+   ],
+   [
+    "Ansible"
+   ],
+   [
+    "Apache"
+   ],
+   [
+    "Apache Airflow"
+   ],
+   [
+    "Apache Camel"
+   ],
+   [
+    "Apache Druid"
+   ],
+   [
+    "Apache Flink"
+   ],
+   [
+    "Apache Kafka"
+   ],
+   [
+    "Apache Solr"
+   ],
+   [
+    "Apache Spark"
+   ],
+   [
+    "Apigee"
+   ],
+   [
+    "Cypress",
+    "Cypress.io"
+   ],
+   [
+    "Arduino"
+   ],
+   [
+    "Asana"
+   ],
+   [
+    "Atlassian"
+   ],
+   [
+    "AutoCAD"
+   ],
+   [
+    "AutoIt"
+   ],
+   [
+    "Autopilot"
+   ],
+   [
+    "AUTOSAR"
+   ],
+   [
+    "Azure"
+   ],
+   [
+    "AzureDB"
+   ],
+   [
+    "Balsamiq"
+   ],
+   [
+    "BigQuery"
+   ],
+   [
+    "Bitbucket"
+   ],
+   [
+    "Blazor"
+   ],
+   [
+    "Bootstrap"
+   ],
+   [
+    "BrightEdge"
+   ],
+   [
+    "Browserify"
+   ],
+   [
+    "Buffer"
+   ],
+   [
+    "Bugzilla"
+   ],
+   [
+    "Cisco ASAs",
+    "Cisco ASA",
+    {
+     "match": "(^|\\W)ASA($|\\W)"
+    }
+   ],
+   [
+    "Beam"
+   ],
+   [
+    "CloudWatch"
+   ],
+   [
+    "Cron"
+   ],
+   [
+    "Dynatrace"
+   ],
+   [
+    "Eclipse"
+   ],
+   [
+    "Elastic Search"
+   ],
+   [
+    "Electron"
+   ],
+   [
+    "Emacs"
+   ],
+   [
+    "Firebase"
+   ],
+   [
+    "Fledge"
+   ],
+   [
+    "Genymotion"
+   ],
+   [
+    "Grafana"
+   ],
+   [
+    "Greenfield"
+   ],
+   [
+    "Hadoop"
+   ],
+   [
+    "Helm"
+   ],
+   [
+    "Honeywell"
+   ],
+   [
+    "Infrastructure as code"
+   ],
+   [
+    "ISACA"
+   ],
+   [
+    {
+     "match": "(^|\\W)ISO($|\\W)"
+    }
+   ],
+   [
+    "JWT"
+   ],
+   [
+    "Kibana"
+   ],
+   [
+    "Kubernetes"
+   ],
+   [
+    "Laravel"
+   ],
+   [
+    "MariaDB"
+   ],
+   [
+    "Maven"
+   ],
+   [
+    "Mesos"
+   ],
+   [
+    "MongoDB"
+   ],
+   [
+    {
+     "match": "(^|\\W)MUI($|\\W)"
+    }
+   ],
+   [
+    "Nginx"
+   ],
+   [
+    "Nuxeo"
+   ],
+   [
+    "OData"
+   ],
+   [
+    "OpenAPI"
+   ],
+   [
+    "OpenCV"
+   ],
+   [
+    "Mocha"
+   ],
+   [
+    "PCAP"
+   ],
+   [
+    "PCI"
+   ],
+   [
+    "Pinterest"
+   ],
+   [
+    "Postman"
+   ],
+   [
+    "PowerBI",
+    "Power BI",
+    "Microsoft PowerBI"
+   ],
+   [
+    "Prometheus"
+   ],
+   [
+    "Protractor"
+   ],
+   [
+    "Puppet"
+   ],
+   [
+    "Agile",
+    "Agile methodologies",
+    "Agile methods",
+    "Agile planning",
+    "Agile scrum team",
+    "Agile software development",
+    "Agile tools and processes",
+    "Agile work processes and tools"
+   ],
+   [
+    "Redux"
+   ],
+   [
+    "component libraries"
+   ],
+   [
+    "Schematics"
+   ],
+   [
+    "Semantic"
+   ],
+   [
+    "RubyOnRails"
+   ],
+   [
+    "Solr"
+   ],
+   [
+    "Splunk"
+   ],
+   [
+    "Spring"
+   ],
+   [
+    "desktop and mobile app frameworks"
+   ],
+   [
+    "Svelte"
+   ],
+   [
+    "Swagger"
+   ],
+   [
+    "enablement framework"
+   ],
+   [
+    "UNIX"
+   ],
+   [
+    "WordPress"
+   ],
+   [
+    "CakePHP"
+   ],
+   [
+    "Canva"
+   ],
+   [
+    "Cassandra"
+   ],
+   [
+    "CATIA"
+   ],
+   [
+    "CCPA"
+   ],
+   [
+    "CDN"
+   ],
+   [
+    "Celery"
+   ],
+   [
+    "Chart"
+   ],
+   [
+    "CGI"
+   ],
+   [
+    "MySQL"
+   ],
+   [
+    "Debian"
+   ],
+   [
+    "Chuck"
+   ],
+   [
+    "Chyrp"
+   ],
+   [
+    {
+     "match": "(^|\\W)ICE($|\\W)"
+    }
+   ],
+   [
+    "CIFS and Citrix"
+   ],
+   [
+    "CircleCI"
+   ],
+   [
+    "Cisco technologies"
+   ],
+   [
+    "Citrix"
+   ],
+   [
+    "Cleo"
+   ],
+   [
+    "CLIST"
+   ],
+   [
+    "ICMP"
+   ],
+   [
+    "JBoss"
+   ],
+   [
+    "CentOS"
+   ],
+   [
+    "Jenkins"
+   ],
+   [
+    "CloudFormation"
+   ],
+   [
+    "CloudFront"
+   ],
+   [
+    "CloudSearch"
+   ],
+   [
+    "macOS"
+   ],
+   [
+    "digital adoption platform"
+   ],
+   [
+    "CMS",
+    "content management",
+    "content management system",
+    "Content Management Systems (CMS)"
+   ],
+   [
+    "Cobra"
+   ],
+   [
+    "CockroachDB"
+   ],
+   [
+    "Cocoa"
+   ],
+   [
+    "auditing standards"
+   ],
+   [
+    "CodeIgniter"
+   ],
+   [
+    "CodePipeline"
+   ],
+   [
+    "Codeship"
+   ],
+   [
+    "Cognos"
+   ],
+   [
+    "Kafka"
+   ],
+   [
+    "ColdFusion"
+   ],
+   [
+    "command line",
+    {
+     "match": "(^|\\W)CLI($|\\W)"
+    }
+   ],
+   [
+    "Concur"
+   ],
+   [
+    "Confluence"
+   ],
+   [
+    "Conjoint"
+   ],
+   [
+    "Kanban"
+   ],
+   [
+    "Kensho"
+   ],
+   [
+    "CouchDB"
+   ],
+   [
+    "Coupa"
+   ],
+   [
+    "CPQ"
+   ],
+   [
+    "Crazy Egg",
+    "CrazyEgg"
+   ],
+   [
+    "cronjobs"
+   ],
+   [
+    {
+     "match": "(^|\\W)CTE($|\\W)"
+    }
+   ],
+   [
+    "CUDA"
+   ],
+   [
+    "cURL"
+   ],
+   [
+    "Data Studio"
+   ],
+   [
+    "Databricks"
+   ],
+   [
+    "Datadog"
+   ],
+   [
+    "Dataflow"
+   ],
+   [
+    "Dataproc"
+   ],
+   [
+    "Datorama"
+   ],
+   [
+    "DCF"
+   ],
+   [
+    "DDD"
+   ],
+   [
+    "DDS"
+   ],
+   [
+    "debugger"
+   ],
+   [
+    "Dibol"
+   ],
+   [
+    "Django"
+   ],
+   [
+    "Linux",
+    "Linux kernel",
+    "Linux programming",
+    "Linux/Unix"
+   ],
+   [
+    "Docker",
+    "docker-compose"
+   ],
+   [
+    "DocuSign"
+   ],
+   [
+    "DOM"
+   ],
+   [
+    "Domo"
+   ],
+   [
+    "DoubleClick"
+   ],
+   [
+    "DPDK"
+   ],
+   [
+    "dplyr"
+   ],
+   [
+    {
+     "match": "(^|\\W)NAT($|\\W)"
+    }
+   ],
+   [
+    "Dreamweaver"
+   ],
+   [
+    "Drools"
+   ],
+   [
+    "Drupal"
+   ],
+   [
+    "DTLS"
+   ],
+   [
+    "Dynamo DB",
+    "DynamoDB"
+   ],
+   [
+    {
+     "match": "(^|\\W)ECS($|\\W)"
+    }
+   ],
+   [
+    "ElastiCache"
+   ],
+   [
+    "Elasticsearch"
+   ],
+   [
+    "Lookr"
+   ],
+   [
+    "MadCap Flare"
+   ],
+   [
+    "mobile technologies"
+   ],
+   [
+    {
+     "match": "(^|\\W)IDL($|\\W)"
+    }
+   ],
+   [
+    "Ember",
+    "Ember.js"
+   ],
+   [
+    "ES6"
+   ],
+   [
+    {
+     "match": "(^|\\W)IKE($|\\W)"
+    }
+   ],
+   [
+    {
+     "match": "(^|\\W)IPC($|\\W)"
+    }
+   ],
+   [
+    "Keras"
+   ],
+   [
+    "Ext.js"
+   ],
+   [
+    "Pig"
+   ],
+   [
+    "Facebook Ads",
+    "Facebook Ads Manager"
+   ],
+   [
+    "Falcon"
+   ],
+   [
+    "FastAPI"
+   ],
+   [
+    "FFmpeg"
+   ],
+   [
+    "Figma"
+   ],
+   [
+    "Lambda"
+   ],
+   [
+    "FinancialForce"
+   ],
+   [
+    "Firefox"
+   ],
+   [
+    "firewall"
+   ],
+   [
+    "Flask"
+   ],
+   [
+    "Flexbox"
+   ],
+   [
+    "Flink"
+   ],
+   [
+    "Flutter"
+   ],
+   [
+    "Flux"
+   ],
+   [
+    "Gant Chart"
+   ],
+   [
+    "Galois"
+   ],
+   [
+    "GCloud"
+   ],
+   [
+    "GCP"
+   ],
+   [
+    "GCS"
+   ],
+   [
+    "Ghelo"
+   ],
+   [
+    "GIMP"
+   ],
+   [
+    "Git",
+    "GitHub",
+    "GitLab"
+   ],
+   [
+    "GNUstep"
+   ],
+   [
+    "platform tools"
+   ],
+   [
+    "GoCD"
+   ],
+   [
+    "Google Ads"
+   ],
+   [
+    "Google Colab",
+    "Google Colaboratory",
+    "Colaboratory"
+   ],
+   [
+    "Google Analytics",
+    "Google Tag Manager"
+   ],
+   [
+    "Google Data Studio"
+   ],
+   [
+    "Google Cloud",
+    "Google Cloud Platform"
+   ],
+   [
+    "PHPUnit"
+   ],
+   [
+    "Gradle"
+   ],
+   [
+    "Grape"
+   ],
+   [
+    "React",
+    "React developer",
+    "React JS",
+    "React Native",
+    "React.js",
+    "ReactJS",
+    "ReactNative"
+   ],
+   [
+    "GraphQL"
+   ],
+   [
+    "GRE"
+   ],
+   [
+    "GSuite"
+   ],
+   [
+    "GTM/VPC peering"
+   ],
+   [
+    "Gulp"
+   ],
+   [
+    "GWT"
+   ],
+   [
+    "HBase"
+   ],
+   [
+    "HCI"
+   ],
+   [
+    "Heap Analytics"
+   ],
+   [
+    "HelloSign Integration Ecosystem"
+   ],
+   [
+    "Heroku"
+   ],
+   [
+    "Hibernate"
+   ],
+   [
+    "Hive"
+   ],
+   [
+    "Hotjar"
+   ],
+   [
+    "HubSpot"
+   ],
+   [
+    "customer-facing marketing tools"
+   ],
+   [
+    "framework templates"
+   ],
+   [
+    "IaaS"
+   ],
+   [
+    {
+     "match": "(^|\\W)IDE($|\\W)"
+    }
+   ],
+   [
+    "ImageMagick"
+   ],
+   [
+    "Informatica Intelligent Cloud Services"
+   ],
+   [
+    "cloud technologies"
+   ],
+   [
+    "Instapage"
+   ],
+   [
+    "Intuit"
+   ],
+   [
+    {
+     "match": "(^|\\W)Gate($|\\W)"
+    }
+   ],
+   [
+    "iPaaS"
+   ],
+   [
+    "typical design tools"
+   ],
+   [
+    "Jest"
+   ],
+   [
+    "Jetson"
+   ],
+   [
+    "Jetty"
+   ],
+   [
+    "Jinja2"
+   ],
+   [
+    "Jira"
+   ],
+   [
+    "Joomla"
+   ],
+   [
+    "jQuery"
+   ],
+   [
+    "JSON"
+   ],
+   [
+    "JSP"
+   ],
+   [
+    "JSUnit"
+   ],
+   [
+    "JUnit"
+   ],
+   [
+    "Jupyter Notebook"
+   ],
+   [
+    "JVM"
+   ],
+   [
+    "K8s"
+   ],
+   [
+    "Kinect"
+   ],
+   [
+    "Kissmetrics"
+   ],
+   [
+    "Komodo",
+    "Komodo Healthcare Map",
+    "Komodo's data and algorithms"
+   ],
+   [
+    "Kube Flow",
+    "Kubeflow"
+   ],
+   [
+    "LabVIEW"
+   ],
+   [
+    {
+     "match": "(^|\\W)LAMP($|\\W)"
+    }
+   ],
+   [
+    "short video platforms"
+   ],
+   [
+    "Lightning"
+   ],
+   [
+    "LinkedIn Ads"
+   ],
+   [
+    "Big Data technologies"
+   ],
+   [
+    "Lucene"
+   ],
+   [
+    "MailChimp"
+   ],
+   [
+    "Mandriva"
+   ],
+   [
+    "MantisBT"
+   ],
+   [
+    "Map Reduce",
+    "MapReduce"
+   ],
+   [
+    "Mercurial"
+   ],
+   [
+    "MessageBird"
+   ],
+   [
+    "Miro"
+   ],
+   [
+    "MobX"
+   ],
+   [
+    "mock-ups",
+    "Mockito",
+    "mockups"
+   ],
+   [
+    "Moment.js"
+   ],
+   [
+    {
+     "match": "(^|\\W)MOO($|\\W)"
+    }
+   ],
+   [
+    "Mural"
+   ],
+   [
+    "MVC"
+   ],
+   [
+    "MVP"
+   ],
+   [
+    "MVVM"
+   ],
+   [
+    "Nagios"
+   ],
+   [
+    "Next JS",
+    "Next.js",
+    "NextJS"
+   ],
+   [
+    "Nexus"
+   ],
+   [
+    "Node",
+    "Node.js",
+    "NodeJS"
+   ],
+   [
+    "NoSQL"
+   ],
+   [
+    "NPM"
+   ],
+   [
+    "NumPy"
+   ],
+   [
+    "Nuxt JS",
+    "Nuxt.js",
+    "NuxtJS"
+   ],
+   [
+    "NVMe-Express"
+   ],
+   [
+    "NXT-G"
+   ],
+   [
+    "OAuth",
+    "OAuth2"
+   ],
+   [
+    {
+     "match": "(^|\\W)OLAP($|\\W)"
+    }
+   ],
+   [
+    "OpenID"
+   ],
+   [
+    "OpenMPI"
+   ],
+   [
+    "OpenStack"
+   ],
+   [
+    "Oracle",
+    "Oracle developer",
+    "Oracle SQL Developer",
+    "Oracle finance"
+   ],
+   [
+    "Outlook"
+   ],
+   [
+    "P4 Language"
+   ],
+   [
+    "PaaS"
+   ],
+   [
+    "KPI",
+    "KPIs",
+    "KPI metrics"
+   ],
+   [
+    "Pantheon"
+   ],
+   [
+    "Parquet"
+   ],
+   [
+    "Passenger"
+   ],
+   [
+    "Pentaho"
+   ],
+   [
+    "Pivotal Tracker"
+   ],
+   [
+    "Pixlr"
+   ],
+   [
+    "Plotly Dash"
+   ],
+   [
+    "PMBOK"
+   ],
+   [
+    "reverse proxy"
+   ],
+   [
+    "data lake"
+   ],
+   [
+    "Polaris Office"
+   ],
+   [
+    "Polymer"
+   ],
+   [
+    "Poplog"
+   ],
+   [
+    "PostCSS"
+   ],
+   [
+    "Postgres",
+    "PostgreSQL",
+    "PostgresSQL"
+   ],
+   [
+    "data warehouse"
+   ],
+   [
+    "PRINCE2"
+   ],
+   [
+    "Prism"
+   ],
+   [
+    "website management tools"
+   ],
+   [
+    "Rabbit MQ",
+    "RabbitMQ"
+   ],
+   [
+    "Rackspace Cloud"
+   ],
+   [
+    "Radius"
+   ],
+   [
+    "Rainbow"
+   ],
+   [
+    "Rancid"
+   ],
+   [
+    "Rational Rose"
+   ],
+   [
+    "Ray"
+   ],
+   [
+    {
+     "match": "(^|\\W)RC($|\\W)"
+    }
+   ],
+   [
+    "RDP"
+   ],
+   [
+    "Redis"
+   ],
+   [
+    {
+     "match": "(^|\\W)Excel($|\\W)"
+    }
+   ],
+   [
+    "RoboCopy"
+   ],
+   [
+    "Robomongo"
+   ],
+   [
+    {
+     "match": "(^|\\W)ROS($|\\W)"
+    }
+   ],
+   [
+    "RSpec"
+   ],
+   [
+    "consumer decision frameworks"
+   ],
+   [
+    "Salesforce",
+    "Salesforce App Exchange",
+    "Salesforce CRM",
+    "Salesforce developer"
+   ],
+   [
+    "Samepage"
+   ],
+   [
+    {
+     "match": "(^|\\W)SAP($|\\W)"
+    },
+    "SAP products",
+    "SAP tools"
+   ],
+   [
+    {
+     "match": "(^|\\W)SASS($|\\W)"
+    }
+   ],
+   [
+    {
+     "match": "(^|\\W)SAS($|\\W)"
+    },
+    "SAS Macros",
+    "SAS Stat"
+   ],
+   [
+    "Selenium"
+   ],
+   [
+    "Serverless"
+   ],
+   [
+    "Servlets"
+   ],
+   [
+    "Shadow"
+   ],
+   [
+    "SignalR"
+   ],
+   [
+    "Simian"
+   ],
+   [
+    "sitemap"
+   ],
+   [
+    "Slack"
+   ],
+   [
+    "Slim"
+   ],
+   [
+    "SmartOS"
+   ],
+   [
+    "Smartsheet",
+    "Smartsheets"
+   ],
+   [
+    "Snowflake"
+   ],
+   [
+    {
+     "match": "(^|\\W)SOAP($|\\W)"
+    }
+   ],
+   [
+    "SOQL/SOSL"
+   ],
+   [
+    "Source Code"
+   ],
+   [
+    "Spanner"
+   ],
+   [
+    "Spark"
+   ],
+   [
+    "SpecFlow"
+   ],
+   [
+    "spectral"
+   ],
+   [
+    "SPOP"
+   ],
+   [
+    "SQLAlchemy"
+   ],
+   [
+    "SQLite"
+   ],
+   [
+    {
+     "match": "(^|\\W)SRE($|\\W)"
+    }
+   ],
+   [
+    "interactive tools"
+   ],
+   [
+    {
+     "match": "(^|\\W)SSI($|\\W)"
+    }
+   ],
+   [
+    "informing standards"
+   ],
+   [
+    {
+     "match": "(^|\\W)SSO($|\\W)"
+    }
+   ],
+   [
+    "Stash"
+   ],
+   [
+    "StatusPage"
+   ],
+   [
+    "Studio3"
+   ],
+   [
+    "stylesheet"
+   ],
+   [
+    "Sublime Text"
+   ],
+   [
+    "SunOS"
+   ],
+   [
+    "SurveyMonkey"
+   ],
+   [
+    "SVN"
+   ],
+   [
+    "Swing"
+   ],
+   [
+    "Symfony"
+   ],
+   [
+    "T-SQL"
+   ],
+   [
+    "TCL"
+   ],
+   [
+    "ethernet"
+   ],
+   [
+    "TensorFlow"
+   ],
+   [
+    "Terraform"
+   ],
+   [
+    "text editor"
+   ],
+   [
+    "Theano"
+   ],
+   [
+    "Timelion"
+   ],
+   [
+    "Tornado"
+   ],
+   [
+    "torsion"
+   ],
+   [
+    "Twig"
+   ],
+   [
+    "Ubuntu"
+   ],
+   [
+    "UDF"
+   ],
+   [
+    "UDP"
+   ],
+   [
+    "Umbraco"
+   ],
+   [
+    "Unbounce"
+   ],
+   [
+    "Unigraphics"
+   ],
+   [
+    "Unix",
+    "Unix programming"
+   ],
+   [
+    "Uno Platform"
+   ],
+   [
+    "Vault"
+   ],
+   [
+    "Vauxhall"
+   ],
+   [
+    "VCP"
+   ],
+   [
+    "Vertica"
+   ],
+   [
+    "Vertx"
+   ],
+   [
+    "VHDL"
+   ],
+   [
+    "vi",
+    "vi/vim",
+    "vim",
+    "vim/vi"
+   ],
+   [
+    "Visual FoxPro"
+   ],
+   [
+    "Visual Studio"
+   ],
+   [
+    "Visualforce"
+   ],
+   [
+    "VLAN"
+   ],
+   [
+    "VMware"
+   ],
+   [
+    "VPC"
+   ],
+   [
+    "VRFs"
+   ],
+   [
+    "VRML"
+   ],
+   [
+    "VRRP"
+   ],
+   [
+    "Vue",
+    "Vue.js",
+    "VueJS"
+   ],
+   [
+    "Walkme"
+   ],
+   [
+    "WCAG",
+    "WCAG 2.1 compliance standards"
+   ],
+   [
+    "WCF"
+   ],
+   [
+    "Weave Flux"
+   ],
+   [
+    "Web API"
+   ],
+   [
+    "Webflow"
+   ],
+   [
+    "Wix"
+   ],
+   [
+    "web based software applications"
+   ],
+   [
+    "ERP system",
+    "ERP"
+   ],
+   [
+    "WebDriverIO"
+   ],
+   [
+    "WebKit"
+   ],
+   [
+    "Webpack"
+   ],
+   [
+    "WebRTC"
+   ],
+   [
+    "SDLC",
+    "system development life cycle",
+    "software development life cycle"
+   ],
+   [
+    "ISO 26262",
+    "ISO standards"
+   ],
+   [
+    "Websockets"
+   ],
+   [
+    "WebSphere"
+   ],
+   [
+    "Whatfix"
+   ],
+   [
+    "MISRA"
+   ],
+   [
+    "Windows PowerShell",
+    "PowerShell"
+   ],
+   [
+    "WinForm"
+   ],
+   [
+    "Word Press"
+   ],
+   [
+    "WPF"
+   ],
+   [
+    "WSDL"
+   ],
+   [
+    "WSGI"
+   ],
+   [
+    "Xamarin"
+   ],
+   [
+    "Service Level Agreements",
+    "service management products"
+   ],
+   [
+    "Xaraya"
+   ],
+   [
+    "XDP"
+   ],
+   [
+    "proxy"
+   ],
+   [
+    "YouTube Ads"
+   ],
+   [
+    "YUI"
+   ],
+   [
+    "Zapier"
+   ],
+   [
+    "Zend Framework"
+   ],
+   [
+    "Zendesk"
+   ],
+   [
+    "ZeroMQ"
+   ],
+   [
+    "Zikula"
+   ],
+   [
+    "Zuora"
+   ],
+   [
+    "Squarespace"
+   ],
+   [
+    "Caffe",
+    "Caffe2"
+   ],
+   [
+    "BI tools"
+   ],
+   [
+    "Generally Accepted Accounting Principles (GAAP)",
+    "Generally Accepted Accounting Principles",
+    "GAAP",
+    "GAAP standards"
+   ],
+   [
+    "WaterCAD"
+   ],
+   [
+    "MSI"
+   ],
+   [
+    {
+     "match": "(^|\\W)SCI($|\\W)"
+    }
+   ],
+   [
+    {
+     "match": "(^|\\W)SOX($|\\W)"
+    },
+    "SOX-controlled processes",
+    "SOX compliance"
+   ],
+   [
+    "Civil 3D"
+   ],
+   [
+    "NMR"
+   ],
+   [
+    "Netsuite"
+   ],
+   [
+    "SolidWorks"
+   ],
+   [
+    "ICPR"
+   ],
+   [
+    "HMI integration"
+   ],
+   [
+    "IAR Workbench"
+   ],
+   [
+    "A/R Aging report"
+   ],
+   [
+    "Applied Epic software"
+   ],
+   [
+    "Commercial Lines Insurance CSR"
+   ],
+   [
+    "Personal Lines CSR"
+   ],
+   [
+    "Unity"
+   ],
+   [
+    "Creo"
+   ],
+   [
+    "RASTAR"
+   ],
+   [
+    "BNU"
+   ],
+   [
+    "Windchill"
+   ],
+   [
+    "Revit"
+   ],
+   [
+    "Plant 3D"
+   ],
+   [
+    "Navisworks"
+   ],
+   [
+    "FloTHERM"
+   ],
+   [
+    "ICEPAK"
+   ],
+   [
+    "PCIe"
+   ],
+   [
+    "Teamcenter"
+   ],
+   [
+    "AS 9100"
+   ],
+   [
+    "ISO 13399"
+   ],
+   [
+    "I2C"
+   ],
+   [
+    "SPI"
+   ],
+   [
+    "Altium"
+   ],
+   [
+    "DO-254"
+   ],
+   [
+    "DO-178C"
+   ],
+   [
+    "DO-160"
+   ],
+   [
+    "FPGA"
+   ],
+   [
+    "PCBAs"
+   ],
+   [
+    "Zigbee"
+   ],
+   [
+    "KiCad"
+   ],
+   [
+    "UART"
+   ],
+   [
+    "USBLab"
+   ],
+   [
+    "Velocify"
+   ],
+   [
+    "MEDDPICC"
+   ],
+   [
+    "Salesloft"
+   ],
+   [
+    "SharePoint"
+   ],
+   [
+    "FigJam"
+   ],
+   [
+    "Mapbox"
+   ],
+   [
+    "Productboard"
+   ],
+   [
+    "Power Automate"
+   ],
+   [
+    "Rockwell Automation"
+   ],
+   [
+    "UL508A"
+   ],
+   [
+    "NFPA 79"
+   ],
+   [
+    "Factory Talk ME"
+   ],
+   [
+    "Plant PAX"
+   ],
+   [
+    "Studio 5000"
+   ],
+   [
+    "Wonderware"
+   ],
+   [
+    "Ignition"
+   ],
+   [
+    "ServiceNow"
+   ],
+   [
+    "Infor Syteline"
+   ],
+   [
+    "Essbase"
+   ],
+   [
+    "Hyperion"
+   ],
+   [
+    "Teradata"
+   ],
+   [
+    "Think Folio"
+   ],
+   [
+    "Markit"
+   ],
+   [
+    "Kanerai"
+   ],
+   [
+    "Camtasia"
+   ],
+   [
+    "WellSaid"
+   ],
+   [
+    "Microsoft Dynamics NAV"
+   ],
+   [
+    "Business Central"
+   ],
+   [
+    "Adaptive Insight"
+   ],
+   [
+    "ARGUS"
+   ],
+   [
+    "Sage Intacct"
+   ],
+   [
+    "ProCore"
+   ],
+   [
+    "BuildOps"
+   ],
+   [
+    "Zoominfo"
+   ],
+   [
+    "CCaaS"
+   ],
+   [
+    "ClickFunnels"
+   ],
+   [
+    "ActiveCampaign"
+   ],
+   [
+    "AdRoll"
+   ],
+   [
+    "HYROS"
+   ],
+   [
+    "AffiliatePro"
+   ],
+   [
+    "GoHighLevel"
+   ],
+   [
+    "6Sense"
+   ],
+   [
+    "Pardot"
+   ],
+   [
+    "ClickUp"
+   ],
+   [
+    "Airtable"
+   ],
+   [
+    "Pytorch"
+   ],
+   [
+    "Yotpo"
+   ],
+   [
+    "ONNX"
+   ],
+   [
+    "Shopify Plus"
+   ],
+   [
+    "NetSuite ERP"
+   ],
+   [
+    "Qlik"
+   ],
+   [
+    "Microsoft Dynamics D365"
+   ],
+   [
+    "Sage X3"
+   ],
+   [
+    "QuickBooks"
+   ],
+   [
+    "Lucidchart"
+   ],
+   [
+    "IBM Blueworks Live"
+   ],
+   [
+    "Mavim"
+   ],
+   [
+    "Visio"
+   ],
+   [
+    "Appian"
+   ],
+   [
+    "Camunda"
+   ],
+   [
+    "Pega"
+   ],
+   [
+    "LeaseWave"
+   ],
+   [
+    "Maximo"
+   ],
+   [
+    "Viva Engage"
+   ],
+   [
+    "FM Survey/Clarvue"
+   ],
+   [
+    "MealSuite"
+   ],
+   [
+    "Unidash"
+   ],
+   [
+    "ONESOURCE"
+   ],
+   [
+    "CCH"
+   ],
+   [
+    "CorpTax"
+   ],
+   [
+    "Vertex"
+   ],
+   [
+    "Longview"
+   ],
+   [
+    "SurePrep"
+   ],
+   [
+    "SuraLink"
+   ],
+   [
+    "Stibo"
+   ],
+   [
+    "Salsify"
+   ],
+   [
+    "inRiver"
+   ],
+   [
+    "bioprocess"
+   ],
+   [
+    "bioreactor"
+   ],
+   [
+    "bioreactors"
+   ],
+   [
+    "NADCAP"
+   ],
+   [
+    "MATLAB"
+   ],
+   [
+    "Matplotlib"
+   ],
+   [
+    {
+     "match": "(^|\\W)CAD($|\\W)"
+    },
+    "CAD software"
+   ],
+   [
+    "Cadence Allegro",
+    "Allegro"
+   ],
+   [
+    "Fusion"
+   ],
+   [
+    "containerization"
+   ],
+   [
+    "Open Source"
+   ],
+   [
+    "REST APIs",
+    "Rest API"
+   ],
+   [
+    "CI/CD",
+    {
+     "match": "(^|\\W)CI($|\\W)"
+    },
+    "CICD",
+    "continuous integration",
+    "continuous integration and deployment",
+    "continuous deployment"
+   ]
+  ]
+ },
+ "resumeScoreKeywords": [
+  [
+   "automated testing",
+   "automated tests",
+   "automation of processes",
+   "automation solutions",
+   "automation tools"
+  ],
+  [
+   "account-level risks"
+  ],
+  [
+   "asset allocation"
+  ],
+  [
+   "AWS security"
+  ],
+  [
+   "algorithm design",
+   "algorithm development"
+  ],
+  [
+   "ad buying",
+   "ad features",
+   "ad technology",
+   "AdTech"
+  ],
+  [
+   "advanced analytics",
+   "advanced analytics platforms",
+   "advanced analytics solutions"
+  ],
+  [
+   "mathematics"
+  ],
+  [
+   "financial reporting"
+  ],
+  [
+   "business analysis"
+  ],
+  [
+   "business analytics"
+  ],
+  [
+   "business case",
+   "business case development"
+  ],
+  [
+   "Business Intelligence",
+   "business intelligence technologies"
+  ],
+  [
+   "B2B product solutions",
+   "B2B sales",
+   "B2B technology"
+  ],
+  [
+   "B2C sales"
+  ],
+  [
+   "back end",
+   "back-end",
+   "back-end data display",
+   "back-end framework",
+   "back-end programming language",
+   "backend"
+  ],
+  [
+   "batch data",
+   "batch data ingestion",
+   "batch process"
+  ],
+  [
+   "brand management"
+  ],
+  [
+   "branding/website design"
+  ],
+  [
+   "biddable auction advertising"
+  ],
+  [
+   "building codes and standards"
+  ],
+  [
+   "capacity planning"
+  ],
+  [
+   "capital markets"
+  ],
+  [
+   "cash flow management"
+  ],
+  [
+   "caching"
+  ],
+  [
+   "campaign creation",
+   "campaign management",
+   "campaign optimizations",
+   "campaign performance",
+   "campaign plans"
+  ],
+  [
+   "color theory"
+  ],
+  [
+   "commercial operations"
+  ],
+  [
+   "computational analytics"
+  ],
+  [
+   "computational biology"
+  ],
+  [
+   "computer architecture"
+  ],
+  [
+   "computer vision",
+   "computer vision models"
+  ],
+  [
+   "concept diagrams"
+  ],
+  [
+   "configuration management"
+  ],
+  [
+   "connectivity technologies"
+  ],
+  [
+   "construction management"
+  ],
+  [
+   "content creation",
+   "content development"
+  ],
+  [
+   "content marketing"
+  ],
+  [
+   "contingency plan"
+  ],
+  [
+   "Conversion Rate Optimization",
+   "CRO (Conversion Rate Optimization)"
+  ],
+  [
+   "corporate finance"
+  ],
+  [
+   "correction protocol"
+  ],
+  [
+   "cost accounting"
+  ],
+  [
+   "create report",
+   "create web pages"
+  ],
+  [
+   "creative production"
+  ],
+  [
+   "crypto"
+  ],
+  [
+   "cryptocurrency"
+  ],
+  [
+   "cryptography"
+  ],
+  [
+   "current web trends"
+  ],
+  [
+   "data analytics"
+  ],
+  [
+   "data and analysis"
+  ],
+  [
+   "data architecture"
+  ],
+  [
+   "data consolidation"
+  ],
+  [
+   "data engineer"
+  ],
+  [
+   "data ingestion"
+  ],
+  [
+   "data mining"
+  ],
+  [
+   "data modeling"
+  ],
+  [
+   "data models"
+  ],
+  [
+   "data pipeline"
+  ],
+  [
+   "data presentation"
+  ],
+  [
+   "data reporting"
+  ],
+  [
+   "data science"
+  ],
+  [
+   "data sheets"
+  ],
+  [
+   "data solutions"
+  ],
+  [
+   "data storytelling"
+  ],
+  [
+   "data strategy"
+  ],
+  [
+   "data structure",
+   "data structures"
+  ],
+  [
+   "data validation exercises"
+  ],
+  [
+   "data visualization",
+   "data visualization tools"
+  ],
+  [
+   "data-informed techniques"
+  ],
+  [
+   "data-powered products"
+  ],
+  [
+   "database",
+   "database administration",
+   "database architecture",
+   "database design"
+  ],
+  [
+   "decision trees"
+  ],
+  [
+   "GSIs"
+  ],
+  [
+   "deep learning"
+  ],
+  [
+   "demand forecasting"
+  ],
+  [
+   "demand fulfillment"
+  ],
+  [
+   "demand generation"
+  ],
+  [
+   "derivatives"
+  ],
+  [
+   "descriptive / predictive models",
+   "descriptive and predictive models",
+   "descriptive models",
+   "Descriptive/Predictive Models"
+  ],
+  [
+   "design guides and prototypes",
+   "design patterns",
+   "design review",
+   "design tools and workflows"
+  ],
+  [
+   "SQL analytics"
+  ],
+  [
+   "developer relations"
+  ],
+  [
+   "development life cycle"
+  ],
+  [
+   "device drivers"
+  ],
+  [
+   "digital campaigns"
+  ],
+  [
+   "digital content"
+  ],
+  [
+   "digital marketing"
+  ],
+  [
+   "digital products"
+  ],
+  [
+   "digital strategy"
+  ],
+  [
+   "digital transformation program"
+  ],
+  [
+   "direct mail marketing"
+  ],
+  [
+   "discounted cash flow"
+  ],
+  [
+   "discovery assumption mapping"
+  ],
+  [
+   "distributed and parallel systems"
+  ],
+  [
+   "distributed applications"
+  ],
+  [
+   "distributed products"
+  ],
+  [
+   "distributed storage"
+  ],
+  [
+   "distributed system"
+  ],
+  [
+   "distribution channels"
+  ],
+  [
+   "distribution strategy"
+  ],
+  [
+   "dynamic web page design"
+  ],
+  [
+   "dynamically-generated segments"
+  ],
+  [
+   "e-commerce",
+   "e-commerce platforms"
+  ],
+  [
+   "econometric modeling",
+   "econometrics"
+  ],
+  [
+   "edge computing"
+  ],
+  [
+   "emerging/ground-breaking technologies"
+  ],
+  [
+   "supply chain planning"
+  ],
+  [
+   "end to end process"
+  ],
+  [
+   "end-to-end"
+  ],
+  [
+   "energy management"
+  ],
+  [
+   "enterprise SaaS",
+   "enterprise sales",
+   "enterprise software",
+   "enterprise software startup",
+   "enterprise solutions"
+  ],
+  [
+   "environmental engineering"
+  ],
+  [
+   "epidemiology"
+  ],
+  [
+   "error detection"
+  ],
+  [
+   "event budget tracker",
+   "event coordination",
+   "event marketing"
+  ],
+  [
+   "evergreen campaigns"
+  ],
+  [
+   "experimental design",
+   "experimental test"
+  ],
+  [
+   "firmware"
+  ],
+  [
+   "forecasting"
+  ],
+  [
+   "functional programing",
+   "functional programming"
+  ],
+  [
+   "gaming"
+  ],
+  [
+   "SEO"
+  ],
+  [
+   "generating pipeline"
+  ],
+  [
+   "genetic algorithms"
+  ],
+  [
+   "geospatial analysis"
+  ],
+  [
+   "global design system"
+  ],
+  [
+   "grid edge technologies"
+  ],
+  [
+   "hazardous materials handling"
+  ],
+  [
+   "heap dump analysis"
+  ],
+  [
+   "human centered design"
+  ],
+  [
+   "hypothesis driven outcomes"
+  ],
+  [
+   "incident response"
+  ],
+  [
+   "information architecture"
+  ],
+  [
+   "information security"
+  ],
+  [
+   "infrastructure management"
+  ],
+  [
+   "advertising proposals",
+   "advertising strategy"
+  ],
+  [
+   "integration test",
+   "integration testing"
+  ],
+  [
+   "interior design or architecture"
+  ],
+  [
+   "intrusion detection prevention"
+  ],
+  [
+   "inventory control",
+   "inventory selections"
+  ],
+  [
+   "IP creation/tracking",
+   "IP forwarding",
+   "IP management",
+   "IP networking"
+  ],
+  [
+   "clustering"
+  ],
+  [
+   "IT operations"
+  ],
+  [
+   "account management",
+   "account manager",
+   "account strategies",
+   "account strategy"
+  ],
+  [
+   "advertising performance metrics"
+  ],
+  [
+   "key accounts"
+  ],
+  [
+   "key buyer personas"
+  ],
+  [
+   "key customer benefits"
+  ],
+  [
+   "key customer programs"
+  ],
+  [
+   "key performance indicators",
+   "key performance metrics"
+  ],
+  [
+   "keyword research",
+   "keyword targeting",
+   "keyword/audience research"
+  ],
+  [
+   "laddering techniques"
+  ],
+  [
+   "lease"
+  ],
+  [
+   "legal advice",
+   "legal research"
+  ],
+  [
+   "leveraged buyout"
+  ],
+  [
+   "lifecycle marketing"
+  ],
+  [
+   "load changes"
+  ],
+  [
+   "logistics coordination",
+   "logistics management"
+  ],
+  [
+   "machine design"
+  ],
+  [
+   "machine learning",
+   "machine learning algorithm",
+   "machine learning engineer",
+   "machine learning languages and packages",
+   "machine learning model",
+   "ML"
+  ],
+  [
+   "ai",
+   "artificial intelligence"
+  ],
+  [
+   "advertising campaign management",
+   "advertising campaigns"
+  ],
+  [
+   "account reconciliation"
+  ],
+  [
+   "SCRUM Master"
+  ],
+  [
+   "malware analysis"
+  ],
+  [
+   "manage accounts"
+  ],
+  [
+   "manage monthly budget",
+   "manage monthly budget of $XX"
+  ],
+  [
+   "PR campaigns"
+  ],
+  [
+   "press page"
+  ],
+  [
+   "manufacturing operations"
+  ],
+  [
+   "market & competitive analysis"
+  ],
+  [
+   "market analysis"
+  ],
+  [
+   "market research",
+   "market research & analysis"
+  ],
+  [
+   "market segmentation"
+  ],
+  [
+   "marketing automation",
+   "marketing automation workflows"
+  ],
+  [
+   "marketing campaigns"
+  ],
+  [
+   "marketing design"
+  ],
+  [
+   "marketing management"
+  ],
+  [
+   "marketing mix models"
+  ],
+  [
+   "marketing operations"
+  ],
+  [
+   "marketing planning",
+   "marketing plans"
+  ],
+  [
+   "marketing technology",
+   "marketing technology solutions"
+  ],
+  [
+   "mechanical design"
+  ],
+  [
+   "media analytics"
+  ],
+  [
+   "media buying"
+  ],
+  [
+   "media management"
+  ],
+  [
+   "medical coding"
+  ],
+  [
+   "merchandising"
+  ],
+  [
+   "mergers & acquisitions"
+  ],
+  [
+   "metadata management"
+  ],
+  [
+   "microservices",
+   "micro-services"
+  ],
+  [
+   "minimal viable product"
+  ],
+  [
+   "mobile app"
+  ],
+  [
+   "mobile development"
+  ],
+  [
+   "mobile device management"
+  ],
+  [
+   "mobile game development"
+  ],
+  [
+   "mobile marketing"
+  ],
+  [
+   "mobile software development"
+  ],
+  [
+   "mobile web"
+  ],
+  [
+   "multi-stage projects"
+  ],
+  [
+   "public relations"
+  ],
+  [
+   "multi-tenant",
+   "multi-threaded"
+  ],
+  [
+   "multichanneldigital marketing"
+  ],
+  [
+   "multivariate regression",
+   "multivariate testing"
+  ],
+  [
+   "risk management"
+  ],
+  [
+   "network configuration"
+  ],
+  [
+   "natural language processing",
+   "NLP"
+  ],
+  [
+   "network administration"
+  ],
+  [
+   "network and information security"
+  ],
+  [
+   "network architecture"
+  ],
+  [
+   "network engineer"
+  ],
+  [
+   "network programming"
+  ],
+  [
+   "network security",
+   "network/socket"
+  ],
+  [
+   "new product marketing"
+  ],
+  [
+   "non-relational databases"
+  ],
+  [
+   "nonprofit fundraising"
+  ],
+  [
+   "user stories"
+  ],
+  [
+   "value proposition"
+  ],
+  [
+   "user interaction",
+   "user interaction design"
+  ],
+  [
+   "Office365 administration"
+  ],
+  [
+   "visual design"
+  ],
+  [
+   "online advertising"
+  ],
+  [
+   "operational improvements"
+  ],
+  [
+   "operational metrics"
+  ],
+  [
+   "optimize asset efficiency"
+  ],
+  [
+   "order processing"
+  ],
+  [
+   "OS development"
+  ],
+  [
+   "outsourcing management"
+  ],
+  [
+   "P&L management"
+  ],
+  [
+   "paid search"
+  ],
+  [
+   "paid social",
+   "paid social media",
+   "paid social media advertising"
+  ],
+  [
+   "patent law"
+  ],
+  [
+   "PCB assembly",
+   "PCB design"
+  ],
+  [
+   "visual brand"
+  ],
+  [
+   "pharmaceutical research"
+  ],
+  [
+   "outside sales"
+  ],
+  [
+   "physical therapy"
+  ],
+  [
+   "platform services"
+  ],
+  [
+   "IPv4/IPv6",
+   "IPv6"
+  ],
+  [
+   "policy development"
+  ],
+  [
+   "portfolio management"
+  ],
+  [
+   "post-launch optimizations"
+  ],
+  [
+   "prediction algorithms"
+  ],
+  [
+   "predictive analytics"
+  ],
+  [
+   "predictive intelligence"
+  ],
+  [
+   "predictive model",
+   "predictive models"
+  ],
+  [
+   "presales"
+  ],
+  [
+   "product and release planning sessions",
+   "product analytics"
+  ],
+  [
+   "product delivery"
+  ],
+  [
+   "product demonstration",
+   "product demos"
+  ],
+  [
+   "product design",
+   "product development process"
+  ],
+  [
+   "product ecosystem"
+  ],
+  [
+   "product enhancement"
+  ],
+  [
+   "product features"
+  ],
+  [
+   "product implementation"
+  ],
+  [
+   "product improvements"
+  ],
+  [
+   "product launch",
+   "product launch plan"
+  ],
+  [
+   "product life-cycle",
+   "product lifecycle",
+   "product lifecycle management"
+  ],
+  [
+   "product management",
+   "product manager"
+  ],
+  [
+   "product marketing",
+   "product or program management"
+  ],
+  [
+   "product pipeline",
+   "product pipeline management"
+  ],
+  [
+   "product requirement document"
+  ],
+  [
+   "product spec",
+   "product specs"
+  ],
+  [
+   "product-oriented quantitative analysis"
+  ],
+  [
+   "production agency/vendor management"
+  ],
+  [
+   "production defects"
+  ],
+  [
+   "production support"
+  ],
+  [
+   "project finance"
+  ],
+  [
+   "project manager"
+  ],
+  [
+   "project management",
+   "project management tools"
+  ],
+  [
+   "project plans"
+  ],
+  [
+   "project risks"
+  ],
+  [
+   "project/release management"
+  ],
+  [
+   "property management"
+  ],
+  [
+   "prototypes"
+  ],
+  [
+   "regression"
+  ],
+  [
+   "resolve dependencies"
+  ],
+  [
+   "typography"
+  ],
+  [
+   "enzyme"
+  ],
+  [
+   "Root Cause Analysis"
+  ],
+  [
+   "LDAP"
+  ],
+  [
+   "Sales Enablement assets"
+  ],
+  [
+   "sales pipeline"
+  ],
+  [
+   "telemarketing"
+  ],
+  [
+   "serialization"
+  ],
+  [
+   "service delivery"
+  ],
+  [
+   "service desk"
+  ],
+  [
+   "session management"
+  ],
+  [
+   "fintech"
+  ],
+  [
+   "user feedback"
+  ],
+  [
+   "standard business processes"
+  ],
+  [
+   "standard practices"
+  ],
+  [
+   "state management"
+  ],
+  [
+   "strategic growth projects",
+   "strategic learning management system",
+   "strategic planning",
+   "strategic projects"
+  ],
+  [
+   "performance management"
+  ],
+  [
+   "subscription management"
+  ],
+  [
+   "system integration"
+  ],
+  [
+   "task automation"
+  ],
+  [
+   "draft contacts"
+  ],
+  [
+   "technical architecture"
+  ],
+  [
+   "technical functionality"
+  ],
+  [
+   "technical implementation methods"
+  ],
+  [
+   "technical product management"
+  ],
+  [
+   "technical reporting"
+  ],
+  [
+   "trade off"
+  ],
+  [
+   "trade show"
+  ],
+  [
+   "theorem"
+  ],
+  [
+   "thread dump analysis"
+  ],
+  [
+   "threads"
+  ],
+  [
+   "ticketing"
+  ],
+  [
+   "timeline planning"
+  ],
+  [
+   "theming"
+  ],
+  [
+   "technology trends and architectures"
+  ],
+  [
+   "CFA (Chartered Financial Analyst)"
+  ],
+  [
+   "trace route"
+  ],
+  [
+   "technical support"
+  ],
+  [
+   "Twitter Ads"
+  ],
+  [
+   "TWS"
+  ],
+  [
+   "unit and integration testing",
+   "unit test"
+  ],
+  [
+   "usability issues"
+  ],
+  [
+   "usability studies"
+  ],
+  [
+   "usage statistics"
+  ],
+  [
+   "user features"
+  ],
+  [
+   "advising clients"
+  ],
+  [
+   "PRDs"
+  ],
+  [
+   "user interface",
+   "user interface design"
+  ],
+  [
+   "user persona"
+  ],
+  [
+   "user requirements"
+  ],
+  [
+   "user research"
+  ],
+  [
+   "user scenarios"
+  ],
+  [
+   "acceptance criteria"
+  ],
+  [
+   "user story writing"
+  ],
+  [
+   "user test",
+   "user testing plans",
+   "user testing sessions"
+  ],
+  [
+   "user-centered design",
+   "user-centered design techniques"
+  ],
+  [
+   "UX design",
+   "UX design methodologies",
+   "UX design principles",
+   "UX design processes"
+  ],
+  [
+   "UX patterns",
+   "UX research",
+   "UX/Design language style libraries"
+  ],
+  [
+   "UI/UX design",
+   "UX/UI"
+  ],
+  [
+   "video editing"
+  ],
+  [
+   "video marketing",
+   "video production"
+  ],
+  [
+   "art direction"
+  ],
+  [
+   "architectural direction"
+  ],
+  [
+   "web hosting"
+  ],
+  [
+   "web infrastructure"
+  ],
+  [
+   "web performance"
+  ],
+  [
+   "web projects"
+  ],
+  [
+   "web rollout"
+  ],
+  [
+   "web security"
+  ],
+  [
+   "website content display"
+  ],
+  [
+   "website hosting"
+  ],
+  [
+   "website infrastructure"
+  ],
+  [
+   "LAN/WAN"
+  ],
+  [
+   "website navigation optimization"
+  ],
+  [
+   "website performance",
+   "website performance optimization"
+  ],
+  [
+   "writing modules"
+  ],
+  [
+   "wire frame",
+   "wireframe",
+   "wireframes"
+  ],
+  [
+   "LTV"
+  ],
+  [
+   "IoT"
+  ],
+  [
+   "technical maintenance"
+  ],
+  [
+   "accessibility techniques"
+  ],
+  [
+   "call center experience"
+  ],
+  [
+   "claims management"
+  ],
+  [
+   "cleaning procedures"
+  ],
+  [
+   "client acquisition"
+  ],
+  [
+   "troubleshooting"
+  ],
+  [
+   "compensation analysis"
+  ],
+  [
+   "competitive analysis",
+   "competitive intelligence"
+  ],
+  [
+   "compliance",
+   "compliance management"
+  ],
+  [
+   "consumer behavior principles"
+  ],
+  [
+   "BGP",
+   "border gateway protocol"
+  ],
+  [
+   "consumer psychology"
+  ],
+  [
+   "contract management"
+  ],
+  [
+   "contractual agreements"
+  ],
+  [
+   "critical analysis"
+  ],
+  [
+   "customer analysis"
+  ],
+  [
+   "customer analytics"
+  ],
+  [
+   "customer demographic"
+  ],
+  [
+   "customer features"
+  ],
+  [
+   "customer journey"
+  ],
+  [
+   "customer retention"
+  ],
+  [
+   {
+    "match": "(^|\\W)IST($|\\W)"
+   }
+  ],
+  [
+   "customer stories"
+  ],
+  [
+   "customer success metrics"
+  ],
+  [
+   "customer surveys"
+  ],
+  [
+   "customer value"
+  ],
+  [
+   "manage components"
+  ],
+  [
+   "feature backlog",
+   "feature delivery and tradeoffs",
+   "feature roadmapping"
+  ],
+  [
+   "franchising"
+  ],
+  [
+   "fraud detection",
+   "fraud detection model"
+  ],
+  [
+   "front end",
+   "front end design",
+   "front end technologies",
+   "front-end",
+   "front-end development",
+   "front-end systems",
+   "front-end web technologies",
+   "frontend"
+  ],
+  [
+   "full stack",
+   "full stack development",
+   "full stack software engineer",
+   "full-stack",
+   "full-stack software engineering",
+   "fullstack",
+   "fullstack development",
+   "fullstack software engineer"
+  ],
+  [
+   "functional QA"
+  ],
+  [
+   "game developer",
+   "game development"
+  ],
+  [
+   "business management"
+  ],
+  [
+   "business models"
+  ],
+  [
+   "business objectives"
+  ],
+  [
+   "business operation analytics"
+  ],
+  [
+   "business performance"
+  ],
+  [
+   "business reports"
+  ],
+  [
+   "business reviews"
+  ],
+  [
+   "business strategies",
+   "business strategy"
+  ],
+  [
+   "growth and lifecycle marketing",
+   "growth hacker",
+   "growth hacking",
+   "growth marketing strategy",
+   "growth strategy"
+  ],
+  [
+   "hosting environment"
+  ],
+  [
+   "intermodal logistics"
+  ],
+  [
+   "international business"
+  ],
+  [
+   "intellectual property"
+  ],
+  [
+   "helpdesk support"
+  ],
+  [
+   "lean experiments"
+  ],
+  [
+   "lean startup"
+  ],
+  [
+   "practical A/B testing"
+  ],
+  [
+   "customer engagement"
+  ],
+  [
+   "customer needs"
+  ],
+  [
+   "customer relationship management"
+  ],
+  [
+   "iterative development",
+   "iterative development process",
+   "iterative user research"
+  ],
+  [
+   "API",
+   "API development",
+   "API's"
+  ],
+  [
+   "change management",
+   "change management programs"
+  ],
+  [
+   "chemical engineering",
+   "chemical process engineering"
+  ],
+  [
+   "cloud app adoption"
+  ],
+  [
+   "cloud computing"
+  ],
+  [
+   "cloud data services"
+  ],
+  [
+   "cloud infrastructure"
+  ],
+  [
+   "cold calling"
+  ],
+  [
+   "cookies"
+  ],
+  [
+   "copywriting"
+  ],
+  [
+   "CRM",
+   "CRM pipeline"
+  ],
+  [
+   "DNS",
+   "DNS management",
+   "DNS routing"
+  ],
+  [
+   "electrical circuits"
+  ],
+  [
+   "electro-mechanical",
+   "embedded networking"
+  ],
+  [
+   "embedded language"
+  ],
+  [
+   "embedded software engineer",
+   "embedded software testing",
+   "embedded systems"
+  ],
+  [
+   "business workflow redesign experience"
+  ],
+  [
+   "ETL",
+   "ETL data",
+   "ETL data integration",
+   "ETL processes"
+  ],
+  [
+   "extreme programming"
+  ],
+  [
+   "financial analysis",
+   "financial planning"
+  ],
+  [
+   "FPGA development"
+  ],
+  [
+   "GPU",
+   "GPU programming"
+  ],
+  [
+   "graphic design",
+   "graphics design"
+  ],
+  [
+   "HV and LV vehicle systems"
+  ],
+  [
+   "HVAC"
+  ],
+  [
+   "hybrid cloud"
+  ],
+  [
+   "infrastructure-as-code"
+  ],
+  [
+   "iOS",
+   "iOS developer",
+   "iOS development"
+  ],
+  [
+   "iPhone"
+  ],
+  [
+   "landing page optimization"
+  ],
+  [
+   "load balancing"
+  ],
+  [
+   "page speed optimization"
+  ],
+  [
+   "propensity modeling",
+   "propensity models"
+  ],
+  [
+   "Rapid Prototyping"
+  ],
+  [
+   "Refactoring"
+  ],
+  [
+   "Responsive Application",
+   "Responsive Design",
+   "Responsive Development"
+  ],
+  [
+   "Retail Merchandising"
+  ],
+  [
+   "RKT"
+  ],
+  [
+   "SaaS",
+   "SaaS (Software as a Service)",
+   "SaaS attribution modeling",
+   "SaaS models outcome-based models",
+   "SaaS product",
+   "SaaS sales"
+  ],
+  [
+   "SEM"
+  ],
+  [
+   "server administration"
+  ],
+  [
+   "server-side scripting"
+  ],
+  [
+   "spec",
+   "specification",
+   "specification development",
+   "specs"
+  ],
+  [
+   "SSH"
+  ],
+  [
+   "SSL"
+  ],
+  [
+   "statistics"
+  ],
+  [
+   "tag management"
+  ],
+  [
+   "TCP",
+   "TCP/IP"
+  ],
+  [
+   "TDD",
+   "test-driven development",
+   "test-driven-development"
+  ],
+  [
+   "test & quality",
+   "test automation",
+   "test development",
+   "test driven development",
+   "test infrastructure",
+   "test plan"
+  ],
+  [
+   "UI design",
+   "UI design and development",
+   "UI developer",
+   "UI engineering",
+   "UI standards"
+  ],
+  [
+   "uptime"
+  ],
+  [
+   "vector graphics"
+  ],
+  [
+   "version control",
+   "version control system",
+   "version repository"
+  ],
+  [
+   "warehouse management"
+  ],
+  [
+   "web accessibility",
+   "web accessibility standards"
+  ],
+  [
+   "web app development",
+   "web application development",
+   "scaling web applications",
+   "scaling web apps"
+  ],
+  [
+   "web architecture"
+  ],
+  [
+   "web design",
+   "web developer",
+   "web development"
+  ],
+  [
+   "web production"
+  ],
+  [
+   "web services"
+  ],
+  [
+   "web standards"
+  ],
+  [
+   "web3"
+  ],
+  [
+   "website application"
+  ],
+  [
+   "website development"
+  ],
+  [
+   "website technology"
+  ],
+  [
+   "whitepapers"
+  ],
+  [
+   "SG&A analysis"
+  ],
+  [
+   "hardware issues"
+  ],
+  [
+   "FP&A"
+  ],
+  [
+   "ladder logic"
+  ],
+  [
+   "MCU development"
+  ],
+  [
+   "MCU programming"
+  ],
+  [
+   "ROI analysis"
+  ],
+  [
+   "COGS mapping"
+  ],
+  [
+   "P&L"
+  ],
+  [
+   "cut sheet review"
+  ],
+  [
+   "x86"
+  ],
+  [
+   "sales development"
+  ],
+  [
+   "fermentation"
+  ],
+  [
+   "batch Records"
+  ],
+  [
+   "baterial Characterization"
+  ],
+  [
+   "technical transfer"
+  ],
+  [
+   "CNC Programmer"
+  ],
+  [
+   "GTM",
+   "GTM programs",
+   "GTM strategy",
+   "go to market",
+   "go-to-market",
+   "go-to-market strategy",
+   "go to market strategy"
+  ],
+  [
+   "financial markets"
+  ],
+  [
+   "Reference Architecture"
+  ],
+  [
+   "tech support"
+  ],
+  [
+   "point cloud processing"
+  ],
+  [
+   "PMP Certification",
+   "PMP"
+  ],
+  [
+   "process improvement"
+  ],
+  [
+   "code review"
+  ],
+  [
+   "pre-sales"
+  ],
+  [
+   "quality assurance"
+  ],
+  [
+   "quality controls"
+  ],
+  [
+   "technical writing"
+  ],
+  [
+   "gather input"
+  ],
+  [
+   "electrical systems"
+  ],
+  [
+   "PE license"
+  ],
+  [
+   "DevOps"
+  ],
+  [
+   "operating systems"
+  ],
+  [
+   "ROI evaluation"
+  ],
+  [
+   "optimizing share gains"
+  ],
+  [
+   "annual planning process"
+  ],
+  [
+   "maximze cash flow"
+  ],
+  [
+   "review budgets"
+  ],
+  [
+   "ad hoc modeling"
+  ],
+  [
+   "EAC analysis"
+  ],
+  [
+   "backlog review coordination"
+  ],
+  [
+   "internal controls"
+  ],
+  [
+   "forecasting cash conversions"
+  ],
+  [
+   "capital expenditure"
+  ],
+  [
+   "EDR"
+  ],
+  [
+   {
+    "match": "(^|\\W)NIST($|\\W)"
+   }
+  ],
+  [
+   {
+    "match": "(^|\\W)SIEM($|\\W)"
+   }
+  ],
+  [
+   {
+    "match": "(^|\\W)SOC($|\\W)"
+   }
+  ],
+  [
+   "Python"
+  ],
+  [
+   "Ada"
+  ],
+  [
+   {
+    "match": "(^|\\W)ABAP($|\\W)"
+   }
+  ],
+  [
+   {
+    "match": "(^|\\W)ABCL($|\\W)"
+   }
+  ],
+  [
+   "ActionScript"
+  ],
+  [
+   "ALGOL"
+  ],
+  [
+   {
+    "match": "(^|\\W)APL($|\\W)"
+   }
+  ],
+  [
+   "AppleScript"
+  ],
+  [
+   "Assembly",
+   "Assembly Language"
+  ],
+  [
+   {
+    "match": "(^|\\W)AWK($|\\W)"
+   }
+  ],
+  [
+   "Bash"
+  ],
+  [
+   "BBC Basic"
+  ],
+  [
+   "BeanShell"
+  ],
+  [
+   "UML (Unified Modeling Language)"
+  ],
+  [
+   "C#",
+   "C# Developer"
+  ],
+  [
+   "C++",
+   "C/C++"
+  ],
+  [
+   "Cecil"
+  ],
+  [
+   "Cilk"
+  ],
+  [
+   "Clojure"
+  ],
+  [
+   "COBOL"
+  ],
+  [
+   "Component Pascal"
+  ],
+  [
+   "Concurrent Pascal"
+  ],
+  [
+   "Coral"
+  ],
+  [
+   "Curry"
+  ],
+  [
+   "Dart"
+  ],
+  [
+   "DASL"
+  ],
+  [
+   "Dataflow/Beam"
+  ],
+  [
+   "Delphi"
+  ],
+  [
+   "Eiffel"
+  ],
+  [
+   "Erlang",
+   "Erlang and Elixir"
+  ],
+  [
+   "Fortran"
+  ],
+  [
+   "F#",
+   "F-Script"
+  ],
+  [
+   "Fril"
+  ],
+  [
+   "Frink"
+  ],
+  [
+   "Golang",
+   "Go Lang",
+   "Go.",
+   "Go,",
+   "Go;",
+   "Go:",
+   "Go!",
+   "Go?"
+  ],
+  [
+   "Groovy"
+  ],
+  [
+   "Haskell"
+  ],
+  [
+   {
+    "match": "(^|\\W)HLS($|\\W)"
+   }
+  ],
+  [
+   {
+    "match": "(^|\\W)HOS($|\\W)"
+   }
+  ],
+  [
+   "HyperTalk"
+  ],
+  [
+   {
+    "match": "(^|\\W)ICI($|\\W)"
+   }
+  ],
+  [
+   {
+    "match": "(^|\\W)INIL($|\\W)"
+   }
+  ],
+  [
+   "INTERCAL"
+  ],
+  [
+   "Jack (Java)"
+  ],
+  [
+   "Java",
+   "Java developer",
+   "Java Enterprise Edition",
+   "JavaBeans"
+  ],
+  [
+   "JavaScript",
+   "JS",
+   "JavaScript developer",
+   "JavaScript/ES6"
+  ],
+  [
+   "HTML",
+   "HTML5",
+   "HTML5 App"
+  ],
+  [
+   "Kotlin"
+  ],
+  [
+   "Limbo"
+  ],
+  [
+   {
+    "match": "(^|\\W)LISP($|\\W)"
+   }
+  ],
+  [
+   "Lua"
+  ],
+  [
+   "Maker language"
+  ],
+  [
+   "MetaQuotes Language"
+  ],
+  [
+   "Perl"
+  ],
+  [
+   "PHP",
+   "PHP developer"
+  ],
+  [
+   "YAML",
+   "Yarn"
+  ],
+  [
+   "PL/C"
+  ],
+  [
+   "PL/I"
+  ],
+  [
+   "PL/SQL"
+  ],
+  [
+   "Prolog"
+  ],
+  [
+   "Pandas"
+  ],
+  [
+   {
+    "match": "(^|\\W)R($|\\W)"
+   },
+   "R programming"
+  ],
+  [
+   "Ruby",
+   "Ruby on Rails"
+  ],
+  [
+   "Rust"
+  ],
+  [
+   "SQL",
+   "SQL Developer",
+   "SQL Querying",
+   "SQL Server",
+   "SQL-Like Scripting Language"
+  ],
+  [
+   "Scala"
+  ],
+  [
+   "Shell Script",
+   "Shell Scripting",
+   "Unix Shell"
+  ],
+  [
+   "Swift"
+  ],
+  [
+   "TSQL",
+   "Transact-SQL"
+  ],
+  [
+   "TypeScript",
+   "Type Script"
+  ],
+  [
+   "VB.NET"
+  ],
+  [
+   "VBScript"
+  ],
+  [
+   "XAML"
+  ],
+  [
+   "XPath"
+  ],
+  [
+   "XSL",
+   "XSLT"
+  ],
+  [
+   "XML"
+  ],
+  [
+   "pCASTL"
+  ],
+  [
+   "interpersonal skills"
+  ],
+  [
+   "logos"
+  ],
+  [
+   "responsiveness"
+  ],
+  [
+   "Lean Six Sigma",
+   "Six Sigma"
+  ],
+  [
+   "cross functional",
+   "cross functional collaboration",
+   "cross-functional",
+   "cross-functional collaboration",
+   "cross-functionally"
+  ],
+  [
+   "customer empathy"
+  ],
+  [
+   "early employee",
+   "early stage startups"
+  ],
+  [
+   "easy-to-understand concepts"
+  ],
+  [
+   "emergency response"
+  ],
+  [
+   "employee engagement"
+  ],
+  [
+   "fast paced environment"
+  ],
+  [
+   "founder"
+  ],
+  [
+   "goal oriented"
+  ],
+  [
+   "group working session"
+  ],
+  [
+   "inductive reasoning"
+  ],
+  [
+   "inpatient care"
+  ],
+  [
+   "learnability"
+  ],
+  [
+   "multimodal interactions"
+  ],
+  [
+   "people management"
+  ],
+  [
+   "personal training"
+  ],
+  [
+   "Philanthropy"
+  ],
+  [
+   "sales communications"
+  ],
+  [
+   "staff supervision"
+  ],
+  [
+   "stress tolerance"
+  ],
+  [
+   "team development"
+  ],
+  [
+   "tentpole"
+  ],
+  [
+   "relationship building"
+  ],
+  [
+   "active listening"
+  ],
+  [
+   "attention to detail"
+  ],
+  [
+   "conflict resolution"
+  ],
+  [
+   "critical thinking"
+  ],
+  [
+   "customer focus"
+  ],
+  [
+   "decision making",
+   "decision-making"
+  ],
+  [
+   "emotional intelligence"
+  ],
+  [
+   "goal setting"
+  ],
+  [
+   "growth mindset"
+  ],
+  [
+   "listening skills"
+  ],
+  [
+   "organizational skills"
+  ],
+  [
+   "stress management"
+  ],
+  [
+   "task management"
+  ],
+  [
+   "analytical thinking"
+  ],
+  [
+   "communication skills"
+  ],
+  [
+   "conflict management"
+  ],
+  [
+   "customer service"
+  ],
+  [
+   "detail-oriented"
+  ],
+  [
+   "emotional regulation"
+  ],
+  [
+   "goal orientation"
+  ],
+  [
+   "innovative thinking"
+  ],
+  [
+   "problem-solving"
+  ],
+  [
+   "team player"
+  ],
+  [
+   "active learning"
+  ],
+  [
+   "adaptable mindset"
+  ],
+  [
+   "agility"
+  ],
+  [
+   "big picture thinking"
+  ],
+  [
+   "cultural competence"
+  ],
+  [
+   "effective communication"
+  ],
+  [
+   "entrepreneurial mindset"
+  ],
+  [
+   "ethical judgment"
+  ],
+  [
+   "fostering innovation"
+  ],
+  [
+   "goal alignment"
+  ],
+  [
+   "goal-oriented"
+  ],
+  [
+   "influencing others"
+  ],
+  [
+   "innovative mindset"
+  ],
+  [
+   "interpersonal communication"
+  ],
+  [
+   "logical reasoning"
+  ],
+  [
+   "managing ambiguity"
+  ],
+  [
+   "motivating others"
+  ],
+  [
+   "multicultural awareness"
+  ],
+  [
+   "adaptive communication"
+  ],
+  [
+   "active facilitation"
+  ],
+  [
+   "assertive leadership"
+  ],
+  [
+   "audience engagement"
+  ],
+  [
+   "boundary setting"
+  ],
+  [
+   "career counseling"
+  ],
+  [
+   "change advocacy"
+  ],
+  [
+   "client empathy"
+  ],
+  [
+   "coaching and mentoring"
+  ],
+  [
+   "collaborative leadership"
+  ],
+  [
+   "conflict de-escalation"
+  ],
+  [
+   "creative facilitation"
+  ],
+  [
+   "cultural adaptability"
+  ],
+  [
+   "customer-centric approach"
+  ],
+  [
+   "decision facilitation"
+  ],
+  [
+   "diplomatic communication"
+  ],
+  [
+   "effective mentoring"
+  ],
+  [
+   "emotional adaptability"
+  ],
+  [
+   "engagement strategies"
+  ],
+  [
+   "ethical leadership"
+  ],
+  [
+   "flexible problem-solving"
+  ],
+  [
+   "inclusive facilitation"
+  ],
+  [
+   "influence without authority"
+  ],
+  [
+   "integrated thinking"
+  ],
+  [
+   "interpersonal adaptability"
+  ],
+  [
+   "leadership versatility"
+  ],
+  [
+   "meeting facilitation"
+  ],
+  [
+   "motivational interviewing"
+  ],
+  [
+   "narrative building"
+  ],
+  [
+   "needs assessment"
+  ],
+  [
+   "networking with purpose"
+  ],
+  [
+   "participative leadership"
+  ],
+  [
+   "peer coaching"
+  ],
+  [
+   "persuasive communication"
+  ],
+  [
+   "problem identification"
+  ],
+  [
+   "process facilitation"
+  ],
+  [
+   "reflective listening"
+  ],
+  [
+   "relationship cultivation"
+  ],
+  [
+   "resilience training"
+  ],
+  [
+   "results-focused coaching"
+  ],
+  [
+   "risk communication"
+  ],
+  [
+   "self-reflection"
+  ],
+  [
+   "situational coaching"
+  ],
+  [
+   "strategic facilitation"
+  ],
+  [
+   "supportive leadership"
+  ],
+  [
+   "team empowerment"
+  ],
+  [
+   "values-based leadership"
+  ],
+  [
+   "vision communication"
+  ],
+  [
+   "workplace mediation"
+  ],
+  [
+   "network building"
+  ],
+  [
+   "open-mindedness"
+  ],
+  [
+   "organizational awareness"
+  ],
+  [
+   "organizational leadership"
+  ],
+  [
+   "perspective taking"
+  ],
+  [
+   "personal accountability"
+  ],
+  [
+   "presentation skills"
+  ],
+  [
+   "prioritization"
+  ],
+  [
+   "resolving conflicts"
+  ],
+  [
+   "risk-taking"
+  ],
+  [
+   "self-confidence"
+  ],
+  [
+   "self-discipline"
+  ],
+  [
+   "situational awareness"
+  ],
+  [
+   "strategic mindset"
+  ],
+  [
+   "stress resilience"
+  ],
+  [
+   "strong work ethic"
+  ],
+  [
+   "sustainability mindset"
+  ],
+  [
+   "taking initiative"
+  ],
+  [
+   "team building"
+  ],
+  [
+   "thought leadership"
+  ],
+  [
+   "time optimization"
+  ],
+  [
+   "transformation"
+  ],
+  [
+   "trust building"
+  ],
+  [
+   "valuing diversity"
+  ],
+  [
+   "verbal communication"
+  ],
+  [
+   "visionary thinking"
+  ],
+  [
+   "volunteer management"
+  ],
+  [
+   "wellness advocacy"
+  ],
+  [
+   "writing skills"
+  ],
+  [
+   "active collaboration"
+  ],
+  [
+   "adaptive leadership"
+  ],
+  [
+   "affective communication"
+  ],
+  [
+   "authentic leadership"
+  ],
+  [
+   "behavioral adaptability"
+  ],
+  [
+   "boundary management"
+  ],
+  [
+   "client-focused communication"
+  ],
+  [
+   "collaborative problem solving"
+  ],
+  [
+   "conflict prevention"
+  ],
+  [
+   "creative problem solving"
+  ],
+  [
+   "cultural intelligence"
+  ],
+  [
+   "customer advocacy"
+  ],
+  [
+   "data-informed decision making",
+   "data-informed decision-making"
+  ],
+  [
+   "decisive leadership"
+  ],
+  [
+   "dignified communication"
+  ],
+  [
+   "empathy-driven leadership"
+  ],
+  [
+   "engagement optimization"
+  ],
+  [
+   "ethical decision making",
+   "ethical decision-making"
+  ],
+  [
+   "feedback assimilation"
+  ],
+  [
+   "goal-centric planning"
+  ],
+  [
+   "holistic thinking"
+  ],
+  [
+   "inclusive decision making",
+   "inclusive decision-making"
+  ],
+  [
+   "inspirational leadership"
+  ],
+  [
+   "intuitive problem solving"
+  ],
+  [
+   "leadership coaching"
+  ],
+  [
+   "learning agility"
+  ],
+  [
+   "meaningful engagement"
+  ],
+  [
+   "mental resilience"
+  ],
+  [
+   "mindful decision making",
+   "mindful decision-making"
+  ],
+  [
+   "motivational leadership"
+  ],
+  [
+   "multicultural engagement"
+  ],
+  [
+   "negotiation facilitation"
+  ],
+  [
+   "networked thinking"
+  ],
+  [
+   "open-minded leadership"
+  ],
+  [
+   "organizational communication"
+  ],
+  [
+   "participatory decision making",
+   "participatory decision-making"
+  ],
+  [
+   "persuasive leadership"
+  ],
+  [
+   "positive reinforcement"
+  ],
+  [
+   "process optimization"
+  ],
+  [
+   "proactive problem solving"
+  ],
+  [
+   "relationship management"
+  ],
+  [
+   "resilience coaching"
+  ],
+  [
+   "results-oriented leadership"
+  ],
+  [
+   "self-directed learning"
+  ],
+  [
+   "self-management"
+  ],
+  [
+   "situational leadership"
+  ],
+  [
+   "solution-oriented thinking"
+  ],
+  [
+   "stakeholder collaboration"
+  ],
+  [
+   "strategic communication"
+  ],
+  [
+   "stress navigation"
+  ],
+  [
+   "supportive communication"
+  ],
+  [
+   "synergistic thinking"
+  ],
+  [
+   "talent development"
+  ],
+  [
+   "team collaboration"
+  ],
+  [
+   "team cohesion"
+  ],
+  [
+   "team engagement"
+  ],
+  [
+   "team facilitation"
+  ],
+  [
+   "transformational leadership"
+  ],
+  [
+   "transparent communication"
+  ],
+  [
+   "trust cultivation"
+  ],
+  [
+   "user-centered thinking"
+  ],
+  [
+   "values-driven leadership"
+  ],
+  [
+   "verbal persuasion"
+  ],
+  [
+   "visionary leadership"
+  ],
+  [
+   "work-life integration"
+  ],
+  [
+   "workplace flexibility"
+  ],
+  [
+   "workplace inclusion"
+  ],
+  [
+   "adaptive thinking"
+  ],
+  [
+   "balanced communication"
+  ],
+  [
+   "client relationship building"
+  ],
+  [
+   "community building"
+  ],
+  [
+   "conflict management facilitation"
+  ],
+  [
+   "constructive feedback"
+  ],
+  [
+   "empathy in conflict resolution"
+  ],
+  [
+   "goal-driven collaboration"
+  ],
+  [
+   "inclusive communication"
+  ],
+  [
+   "performance feedback"
+  ],
+  [
+   "evaluate risks"
+  ],
+  [
+   "ethics"
+  ],
+  [
+   "user empathy"
+  ],
+  [
+   "transformative results"
+  ],
+  [
+   "digital-minded"
+  ],
+  [
+   "deductive reasoning"
+  ],
+  [
+   "multi-tasking capabilities"
+  ],
+  [
+   "client satisfaction"
+  ],
+  [
+   "humble attitude"
+  ],
+  [
+   "verbal and written communication skills"
+  ],
+  [
+   "written and verbal communication skills"
+  ],
+  [
+   "PeopleSoft"
+  ],
+  [
+   "Axure",
+   "Axure RP"
+  ],
+  [
+   "Coveo"
+  ],
+  [
+   "Tableau"
+  ],
+  [
+   "Mathematica"
+  ],
+  [
+   "Looker"
+  ],
+  [
+   "Sprout Social"
+  ],
+  [
+   "SketchUp",
+   "Sketch-Up"
+  ],
+  [
+   "LangChain"
+  ],
+  [
+   "CMake"
+  ],
+  [
+   "Adobe AEM",
+   "Adobe Experience Manager"
+  ],
+  [
+   "Adobe Analytics"
+  ],
+  [
+   "Adobe Creative Cloud",
+   "Adobe Creative Suite"
+  ],
+  [
+   "Adobe Illustrator",
+   "Illustrator"
+  ],
+  [
+   "Adobe Photoshop",
+   "Photoshop"
+  ],
+  [
+   "Adobe Suite"
+  ],
+  [
+   "Adobe XD"
+  ],
+  [
+   "Adobe InDesign",
+   "InDesign"
+  ],
+  [
+   "Agora"
+  ],
+  [
+   "Aha"
+  ],
+  [
+   "Airflow"
+  ],
+  [
+   "AJAX"
+  ],
+  [
+   {
+    "match": "(^|\\W)ALF($|\\W)"
+   }
+  ],
+  [
+   "Algolia"
+  ],
+  [
+   "Angular",
+   "Angular.js",
+   "AngularJS"
+  ],
+  [
+   "Ansible"
+  ],
+  [
+   "Apache"
+  ],
+  [
+   "Apache Airflow"
+  ],
+  [
+   "Apache Camel"
+  ],
+  [
+   "Apache Druid"
+  ],
+  [
+   "Apache Flink"
+  ],
+  [
+   "Apache Kafka"
+  ],
+  [
+   "Apache Solr"
+  ],
+  [
+   "Apache Spark"
+  ],
+  [
+   "Apigee"
+  ],
+  [
+   "Cypress",
+   "Cypress.io"
+  ],
+  [
+   "Arduino"
+  ],
+  [
+   "Asana"
+  ],
+  [
+   "Atlassian"
+  ],
+  [
+   "AutoCAD"
+  ],
+  [
+   "AutoIt"
+  ],
+  [
+   "Autopilot"
+  ],
+  [
+   "AUTOSAR"
+  ],
+  [
+   "Azure"
+  ],
+  [
+   "AzureDB"
+  ],
+  [
+   "Balsamiq"
+  ],
+  [
+   "BigQuery"
+  ],
+  [
+   "Bitbucket"
+  ],
+  [
+   "Blazor"
+  ],
+  [
+   "Bootstrap"
+  ],
+  [
+   "BrightEdge"
+  ],
+  [
+   "Browserify"
+  ],
+  [
+   "Buffer"
+  ],
+  [
+   "Bugzilla"
+  ],
+  [
+   "Cisco ASAs",
+   "Cisco ASA",
+   {
+    "match": "(^|\\W)ASA($|\\W)"
+   }
+  ],
+  [
+   "Beam"
+  ],
+  [
+   "CloudWatch"
+  ],
+  [
+   "Cron"
+  ],
+  [
+   "Dynatrace"
+  ],
+  [
+   "Eclipse"
+  ],
+  [
+   "Elastic Search"
+  ],
+  [
+   "Electron"
+  ],
+  [
+   "Emacs"
+  ],
+  [
+   "Firebase"
+  ],
+  [
+   "Fledge"
+  ],
+  [
+   "Genymotion"
+  ],
+  [
+   "Grafana"
+  ],
+  [
+   "Greenfield"
+  ],
+  [
+   "Hadoop"
+  ],
+  [
+   "Helm"
+  ],
+  [
+   "Honeywell"
+  ],
+  [
+   "Infrastructure as code"
+  ],
+  [
+   "ISACA"
+  ],
+  [
+   {
+    "match": "(^|\\W)ISO($|\\W)"
+   }
+  ],
+  [
+   "JWT"
+  ],
+  [
+   "Kibana"
+  ],
+  [
+   "Kubernetes"
+  ],
+  [
+   "Laravel"
+  ],
+  [
+   "MariaDB"
+  ],
+  [
+   "Maven"
+  ],
+  [
+   "Mesos"
+  ],
+  [
+   "MongoDB"
+  ],
+  [
+   {
+    "match": "(^|\\W)MUI($|\\W)"
+   }
+  ],
+  [
+   "Nginx"
+  ],
+  [
+   "Nuxeo"
+  ],
+  [
+   "OData"
+  ],
+  [
+   "OpenAPI"
+  ],
+  [
+   "OpenCV"
+  ],
+  [
+   "Mocha"
+  ],
+  [
+   "PCAP"
+  ],
+  [
+   "PCI"
+  ],
+  [
+   "Pinterest"
+  ],
+  [
+   "Postman"
+  ],
+  [
+   "PowerBI",
+   "Power BI",
+   "Microsoft PowerBI"
+  ],
+  [
+   "Prometheus"
+  ],
+  [
+   "Protractor"
+  ],
+  [
+   "Puppet"
+  ],
+  [
+   "Agile",
+   "Agile methodologies",
+   "Agile methods",
+   "Agile planning",
+   "Agile scrum team",
+   "Agile software development",
+   "Agile tools and processes",
+   "Agile work processes and tools"
+  ],
+  [
+   "Redux"
+  ],
+  [
+   "component libraries"
+  ],
+  [
+   "Schematics"
+  ],
+  [
+   "Semantic"
+  ],
+  [
+   "RubyOnRails"
+  ],
+  [
+   "Solr"
+  ],
+  [
+   "Splunk"
+  ],
+  [
+   "Spring"
+  ],
+  [
+   "desktop and mobile app frameworks"
+  ],
+  [
+   "Svelte"
+  ],
+  [
+   "Swagger"
+  ],
+  [
+   "enablement framework"
+  ],
+  [
+   "UNIX"
+  ],
+  [
+   "WordPress"
+  ],
+  [
+   "CakePHP"
+  ],
+  [
+   "Canva"
+  ],
+  [
+   "Cassandra"
+  ],
+  [
+   "CATIA"
+  ],
+  [
+   "CCPA"
+  ],
+  [
+   "CDN"
+  ],
+  [
+   "Celery"
+  ],
+  [
+   "Chart"
+  ],
+  [
+   "CGI"
+  ],
+  [
+   "MySQL"
+  ],
+  [
+   "Debian"
+  ],
+  [
+   "Chuck"
+  ],
+  [
+   "Chyrp"
+  ],
+  [
+   {
+    "match": "(^|\\W)ICE($|\\W)"
+   }
+  ],
+  [
+   "CIFS and Citrix"
+  ],
+  [
+   "CircleCI"
+  ],
+  [
+   "Cisco technologies"
+  ],
+  [
+   "Citrix"
+  ],
+  [
+   "Cleo"
+  ],
+  [
+   "CLIST"
+  ],
+  [
+   "ICMP"
+  ],
+  [
+   "JBoss"
+  ],
+  [
+   "CentOS"
+  ],
+  [
+   "Jenkins"
+  ],
+  [
+   "CloudFormation"
+  ],
+  [
+   "CloudFront"
+  ],
+  [
+   "CloudSearch"
+  ],
+  [
+   "macOS"
+  ],
+  [
+   "digital adoption platform"
+  ],
+  [
+   "CMS",
+   "content management",
+   "content management system",
+   "Content Management Systems (CMS)"
+  ],
+  [
+   "Cobra"
+  ],
+  [
+   "CockroachDB"
+  ],
+  [
+   "Cocoa"
+  ],
+  [
+   "auditing standards"
+  ],
+  [
+   "CodeIgniter"
+  ],
+  [
+   "CodePipeline"
+  ],
+  [
+   "Codeship"
+  ],
+  [
+   "Cognos"
+  ],
+  [
+   "Kafka"
+  ],
+  [
+   "ColdFusion"
+  ],
+  [
+   "command line",
+   {
+    "match": "(^|\\W)CLI($|\\W)"
+   }
+  ],
+  [
+   "Concur"
+  ],
+  [
+   "Confluence"
+  ],
+  [
+   "Conjoint"
+  ],
+  [
+   "Kanban"
+  ],
+  [
+   "Kensho"
+  ],
+  [
+   "CouchDB"
+  ],
+  [
+   "Coupa"
+  ],
+  [
+   "CPQ"
+  ],
+  [
+   "Crazy Egg",
+   "CrazyEgg"
+  ],
+  [
+   "cronjobs"
+  ],
+  [
+   {
+    "match": "(^|\\W)CTE($|\\W)"
+   }
+  ],
+  [
+   "CUDA"
+  ],
+  [
+   "cURL"
+  ],
+  [
+   "Data Studio"
+  ],
+  [
+   "Databricks"
+  ],
+  [
+   "Datadog"
+  ],
+  [
+   "Dataflow"
+  ],
+  [
+   "Dataproc"
+  ],
+  [
+   "Datorama"
+  ],
+  [
+   "DCF"
+  ],
+  [
+   "DDD"
+  ],
+  [
+   "DDS"
+  ],
+  [
+   "debugger"
+  ],
+  [
+   "Dibol"
+  ],
+  [
+   "Django"
+  ],
+  [
+   "Linux",
+   "Linux kernel",
+   "Linux programming",
+   "Linux/Unix"
+  ],
+  [
+   "Docker",
+   "docker-compose"
+  ],
+  [
+   "DocuSign"
+  ],
+  [
+   "DOM"
+  ],
+  [
+   "Domo"
+  ],
+  [
+   "DoubleClick"
+  ],
+  [
+   "DPDK"
+  ],
+  [
+   "dplyr"
+  ],
+  [
+   {
+    "match": "(^|\\W)NAT($|\\W)"
+   }
+  ],
+  [
+   "Dreamweaver"
+  ],
+  [
+   "Drools"
+  ],
+  [
+   "Drupal"
+  ],
+  [
+   "DTLS"
+  ],
+  [
+   "Dynamo DB",
+   "DynamoDB"
+  ],
+  [
+   {
+    "match": "(^|\\W)ECS($|\\W)"
+   }
+  ],
+  [
+   "ElastiCache"
+  ],
+  [
+   "Elasticsearch"
+  ],
+  [
+   "Lookr"
+  ],
+  [
+   "MadCap Flare"
+  ],
+  [
+   "mobile technologies"
+  ],
+  [
+   {
+    "match": "(^|\\W)IDL($|\\W)"
+   }
+  ],
+  [
+   "Ember",
+   "Ember.js"
+  ],
+  [
+   "ES6"
+  ],
+  [
+   {
+    "match": "(^|\\W)IKE($|\\W)"
+   }
+  ],
+  [
+   {
+    "match": "(^|\\W)IPC($|\\W)"
+   }
+  ],
+  [
+   "Keras"
+  ],
+  [
+   "Ext.js"
+  ],
+  [
+   "Pig"
+  ],
+  [
+   "Facebook Ads",
+   "Facebook Ads Manager"
+  ],
+  [
+   "Falcon"
+  ],
+  [
+   "FastAPI"
+  ],
+  [
+   "FFmpeg"
+  ],
+  [
+   "Figma"
+  ],
+  [
+   "Lambda"
+  ],
+  [
+   "FinancialForce"
+  ],
+  [
+   "Firefox"
+  ],
+  [
+   "firewall"
+  ],
+  [
+   "Flask"
+  ],
+  [
+   "Flexbox"
+  ],
+  [
+   "Flink"
+  ],
+  [
+   "Flutter"
+  ],
+  [
+   "Flux"
+  ],
+  [
+   "Gant Chart"
+  ],
+  [
+   "Galois"
+  ],
+  [
+   "GCloud"
+  ],
+  [
+   "GCP"
+  ],
+  [
+   "GCS"
+  ],
+  [
+   "Ghelo"
+  ],
+  [
+   "GIMP"
+  ],
+  [
+   "Git",
+   "GitHub",
+   "GitLab"
+  ],
+  [
+   "GNUstep"
+  ],
+  [
+   "platform tools"
+  ],
+  [
+   "GoCD"
+  ],
+  [
+   "Google Ads"
+  ],
+  [
+   "Google Colab",
+   "Google Colaboratory",
+   "Colaboratory"
+  ],
+  [
+   "Google Analytics",
+   "Google Tag Manager"
+  ],
+  [
+   "Google Data Studio"
+  ],
+  [
+   "Google Cloud",
+   "Google Cloud Platform"
+  ],
+  [
+   "PHPUnit"
+  ],
+  [
+   "Gradle"
+  ],
+  [
+   "Grape"
+  ],
+  [
+   "React",
+   "React developer",
+   "React JS",
+   "React Native",
+   "React.js",
+   "ReactJS",
+   "ReactNative"
+  ],
+  [
+   "GraphQL"
+  ],
+  [
+   "GRE"
+  ],
+  [
+   "GSuite"
+  ],
+  [
+   "GTM/VPC peering"
+  ],
+  [
+   "Gulp"
+  ],
+  [
+   "GWT"
+  ],
+  [
+   "HBase"
+  ],
+  [
+   "HCI"
+  ],
+  [
+   "Heap Analytics"
+  ],
+  [
+   "HelloSign Integration Ecosystem"
+  ],
+  [
+   "Heroku"
+  ],
+  [
+   "Hibernate"
+  ],
+  [
+   "Hive"
+  ],
+  [
+   "Hotjar"
+  ],
+  [
+   "HubSpot"
+  ],
+  [
+   "customer-facing marketing tools"
+  ],
+  [
+   "framework templates"
+  ],
+  [
+   "IaaS"
+  ],
+  [
+   {
+    "match": "(^|\\W)IDE($|\\W)"
+   }
+  ],
+  [
+   "ImageMagick"
+  ],
+  [
+   "Informatica Intelligent Cloud Services"
+  ],
+  [
+   "cloud technologies"
+  ],
+  [
+   "Instapage"
+  ],
+  [
+   "Intuit"
+  ],
+  [
+   {
+    "match": "(^|\\W)Gate($|\\W)"
+   }
+  ],
+  [
+   "iPaaS"
+  ],
+  [
+   "typical design tools"
+  ],
+  [
+   "Jest"
+  ],
+  [
+   "Jetson"
+  ],
+  [
+   "Jetty"
+  ],
+  [
+   "Jinja2"
+  ],
+  [
+   "Jira"
+  ],
+  [
+   "Joomla"
+  ],
+  [
+   "jQuery"
+  ],
+  [
+   "JSON"
+  ],
+  [
+   "JSP"
+  ],
+  [
+   "JSUnit"
+  ],
+  [
+   "JUnit"
+  ],
+  [
+   "Jupyter Notebook"
+  ],
+  [
+   "JVM"
+  ],
+  [
+   "K8s"
+  ],
+  [
+   "Kinect"
+  ],
+  [
+   "Kissmetrics"
+  ],
+  [
+   "Komodo",
+   "Komodo Healthcare Map",
+   "Komodo's data and algorithms"
+  ],
+  [
+   "Kube Flow",
+   "Kubeflow"
+  ],
+  [
+   "LabVIEW"
+  ],
+  [
+   {
+    "match": "(^|\\W)LAMP($|\\W)"
+   }
+  ],
+  [
+   "short video platforms"
+  ],
+  [
+   "Lightning"
+  ],
+  [
+   "LinkedIn Ads"
+  ],
+  [
+   "Big Data technologies"
+  ],
+  [
+   "Lucene"
+  ],
+  [
+   "MailChimp"
+  ],
+  [
+   "Mandriva"
+  ],
+  [
+   "MantisBT"
+  ],
+  [
+   "Map Reduce",
+   "MapReduce"
+  ],
+  [
+   "Mercurial"
+  ],
+  [
+   "MessageBird"
+  ],
+  [
+   "Miro"
+  ],
+  [
+   "MobX"
+  ],
+  [
+   "mock-ups",
+   "Mockito",
+   "mockups"
+  ],
+  [
+   "Moment.js"
+  ],
+  [
+   {
+    "match": "(^|\\W)MOO($|\\W)"
+   }
+  ],
+  [
+   "Mural"
+  ],
+  [
+   "MVC"
+  ],
+  [
+   "MVP"
+  ],
+  [
+   "MVVM"
+  ],
+  [
+   "Nagios"
+  ],
+  [
+   "Next JS",
+   "Next.js",
+   "NextJS"
+  ],
+  [
+   "Nexus"
+  ],
+  [
+   "Node",
+   "Node.js",
+   "NodeJS"
+  ],
+  [
+   "NoSQL"
+  ],
+  [
+   "NPM"
+  ],
+  [
+   "NumPy"
+  ],
+  [
+   "Nuxt JS",
+   "Nuxt.js",
+   "NuxtJS"
+  ],
+  [
+   "NVMe-Express"
+  ],
+  [
+   "NXT-G"
+  ],
+  [
+   "OAuth",
+   "OAuth2"
+  ],
+  [
+   {
+    "match": "(^|\\W)OLAP($|\\W)"
+   }
+  ],
+  [
+   "OpenID"
+  ],
+  [
+   "OpenMPI"
+  ],
+  [
+   "OpenStack"
+  ],
+  [
+   "Oracle",
+   "Oracle developer",
+   "Oracle SQL Developer",
+   "Oracle finance"
+  ],
+  [
+   "Outlook"
+  ],
+  [
+   "P4 Language"
+  ],
+  [
+   "PaaS"
+  ],
+  [
+   "KPI",
+   "KPIs",
+   "KPI metrics"
+  ],
+  [
+   "Pantheon"
+  ],
+  [
+   "Parquet"
+  ],
+  [
+   "Passenger"
+  ],
+  [
+   "Pentaho"
+  ],
+  [
+   "Pivotal Tracker"
+  ],
+  [
+   "Pixlr"
+  ],
+  [
+   "Plotly Dash"
+  ],
+  [
+   "PMBOK"
+  ],
+  [
+   "reverse proxy"
+  ],
+  [
+   "data lake"
+  ],
+  [
+   "Polaris Office"
+  ],
+  [
+   "Polymer"
+  ],
+  [
+   "Poplog"
+  ],
+  [
+   "PostCSS"
+  ],
+  [
+   "Postgres",
+   "PostgreSQL",
+   "PostgresSQL"
+  ],
+  [
+   "data warehouse"
+  ],
+  [
+   "PRINCE2"
+  ],
+  [
+   "Prism"
+  ],
+  [
+   "website management tools"
+  ],
+  [
+   "Rabbit MQ",
+   "RabbitMQ"
+  ],
+  [
+   "Rackspace Cloud"
+  ],
+  [
+   "Radius"
+  ],
+  [
+   "Rainbow"
+  ],
+  [
+   "Rancid"
+  ],
+  [
+   "Rational Rose"
+  ],
+  [
+   "Ray"
+  ],
+  [
+   {
+    "match": "(^|\\W)RC($|\\W)"
+   }
+  ],
+  [
+   "RDP"
+  ],
+  [
+   "Redis"
+  ],
+  [
+   {
+    "match": "(^|\\W)Excel($|\\W)"
+   }
+  ],
+  [
+   "RoboCopy"
+  ],
+  [
+   "Robomongo"
+  ],
+  [
+   {
+    "match": "(^|\\W)ROS($|\\W)"
+   }
+  ],
+  [
+   "RSpec"
+  ],
+  [
+   "consumer decision frameworks"
+  ],
+  [
+   "Salesforce",
+   "Salesforce App Exchange",
+   "Salesforce CRM",
+   "Salesforce developer"
+  ],
+  [
+   "Samepage"
+  ],
+  [
+   {
+    "match": "(^|\\W)SAP($|\\W)"
+   },
+   "SAP products",
+   "SAP tools"
+  ],
+  [
+   {
+    "match": "(^|\\W)SASS($|\\W)"
+   }
+  ],
+  [
+   {
+    "match": "(^|\\W)SAS($|\\W)"
+   },
+   "SAS Macros",
+   "SAS Stat"
+  ],
+  [
+   "Selenium"
+  ],
+  [
+   "Serverless"
+  ],
+  [
+   "Servlets"
+  ],
+  [
+   "Shadow"
+  ],
+  [
+   "SignalR"
+  ],
+  [
+   "Simian"
+  ],
+  [
+   "sitemap"
+  ],
+  [
+   "Slack"
+  ],
+  [
+   "Slim"
+  ],
+  [
+   "SmartOS"
+  ],
+  [
+   "Smartsheet",
+   "Smartsheets"
+  ],
+  [
+   "Snowflake"
+  ],
+  [
+   {
+    "match": "(^|\\W)SOAP($|\\W)"
+   }
+  ],
+  [
+   "SOQL/SOSL"
+  ],
+  [
+   "Source Code"
+  ],
+  [
+   "Spanner"
+  ],
+  [
+   "Spark"
+  ],
+  [
+   "SpecFlow"
+  ],
+  [
+   "spectral"
+  ],
+  [
+   "SPOP"
+  ],
+  [
+   "SQLAlchemy"
+  ],
+  [
+   "SQLite"
+  ],
+  [
+   {
+    "match": "(^|\\W)SRE($|\\W)"
+   }
+  ],
+  [
+   "interactive tools"
+  ],
+  [
+   {
+    "match": "(^|\\W)SSI($|\\W)"
+   }
+  ],
+  [
+   "informing standards"
+  ],
+  [
+   {
+    "match": "(^|\\W)SSO($|\\W)"
+   }
+  ],
+  [
+   "Stash"
+  ],
+  [
+   "StatusPage"
+  ],
+  [
+   "Studio3"
+  ],
+  [
+   "stylesheet"
+  ],
+  [
+   "Sublime Text"
+  ],
+  [
+   "SunOS"
+  ],
+  [
+   "SurveyMonkey"
+  ],
+  [
+   "SVN"
+  ],
+  [
+   "Swing"
+  ],
+  [
+   "Symfony"
+  ],
+  [
+   "T-SQL"
+  ],
+  [
+   "TCL"
+  ],
+  [
+   "ethernet"
+  ],
+  [
+   "TensorFlow"
+  ],
+  [
+   "Terraform"
+  ],
+  [
+   "text editor"
+  ],
+  [
+   "Theano"
+  ],
+  [
+   "Timelion"
+  ],
+  [
+   "Tornado"
+  ],
+  [
+   "torsion"
+  ],
+  [
+   "Twig"
+  ],
+  [
+   "Ubuntu"
+  ],
+  [
+   "UDF"
+  ],
+  [
+   "UDP"
+  ],
+  [
+   "Umbraco"
+  ],
+  [
+   "Unbounce"
+  ],
+  [
+   "Unigraphics"
+  ],
+  [
+   "Unix",
+   "Unix programming"
+  ],
+  [
+   "Uno Platform"
+  ],
+  [
+   "Vault"
+  ],
+  [
+   "Vauxhall"
+  ],
+  [
+   "VCP"
+  ],
+  [
+   "Vertica"
+  ],
+  [
+   "Vertx"
+  ],
+  [
+   "VHDL"
+  ],
+  [
+   "vi",
+   "vi/vim",
+   "vim",
+   "vim/vi"
+  ],
+  [
+   "Visual FoxPro"
+  ],
+  [
+   "Visual Studio"
+  ],
+  [
+   "Visualforce"
+  ],
+  [
+   "VLAN"
+  ],
+  [
+   "VMware"
+  ],
+  [
+   "VPC"
+  ],
+  [
+   "VRFs"
+  ],
+  [
+   "VRML"
+  ],
+  [
+   "VRRP"
+  ],
+  [
+   "Vue",
+   "Vue.js",
+   "VueJS"
+  ],
+  [
+   "Walkme"
+  ],
+  [
+   "WCAG",
+   "WCAG 2.1 compliance standards"
+  ],
+  [
+   "WCF"
+  ],
+  [
+   "Weave Flux"
+  ],
+  [
+   "Web API"
+  ],
+  [
+   "Webflow"
+  ],
+  [
+   "Wix"
+  ],
+  [
+   "web based software applications"
+  ],
+  [
+   "ERP system",
+   "ERP"
+  ],
+  [
+   "WebDriverIO"
+  ],
+  [
+   "WebKit"
+  ],
+  [
+   "Webpack"
+  ],
+  [
+   "WebRTC"
+  ],
+  [
+   "SDLC",
+   "system development life cycle",
+   "software development life cycle"
+  ],
+  [
+   "ISO 26262",
+   "ISO standards"
+  ],
+  [
+   "Websockets"
+  ],
+  [
+   "WebSphere"
+  ],
+  [
+   "Whatfix"
+  ],
+  [
+   "MISRA"
+  ],
+  [
+   "Windows PowerShell",
+   "PowerShell"
+  ],
+  [
+   "WinForm"
+  ],
+  [
+   "Word Press"
+  ],
+  [
+   "WPF"
+  ],
+  [
+   "WSDL"
+  ],
+  [
+   "WSGI"
+  ],
+  [
+   "Xamarin"
+  ],
+  [
+   "Service Level Agreements",
+   "service management products"
+  ],
+  [
+   "Xaraya"
+  ],
+  [
+   "XDP"
+  ],
+  [
+   "proxy"
+  ],
+  [
+   "YouTube Ads"
+  ],
+  [
+   "YUI"
+  ],
+  [
+   "Zapier"
+  ],
+  [
+   "Zend Framework"
+  ],
+  [
+   "Zendesk"
+  ],
+  [
+   "ZeroMQ"
+  ],
+  [
+   "Zikula"
+  ],
+  [
+   "Zuora"
+  ],
+  [
+   "Squarespace"
+  ],
+  [
+   "Caffe",
+   "Caffe2"
+  ],
+  [
+   "BI tools"
+  ],
+  [
+   "Generally Accepted Accounting Principles (GAAP)",
+   "Generally Accepted Accounting Principles",
+   "GAAP",
+   "GAAP standards"
+  ],
+  [
+   "WaterCAD"
+  ],
+  [
+   "MSI"
+  ],
+  [
+   {
+    "match": "(^|\\W)SCI($|\\W)"
+   }
+  ],
+  [
+   {
+    "match": "(^|\\W)SOX($|\\W)"
+   },
+   "SOX-controlled processes",
+   "SOX compliance"
+  ],
+  [
+   "Civil 3D"
+  ],
+  [
+   "NMR"
+  ],
+  [
+   "Netsuite"
+  ],
+  [
+   "SolidWorks"
+  ],
+  [
+   "ICPR"
+  ],
+  [
+   "HMI integration"
+  ],
+  [
+   "IAR Workbench"
+  ],
+  [
+   "A/R Aging report"
+  ],
+  [
+   "Applied Epic software"
+  ],
+  [
+   "Commercial Lines Insurance CSR"
+  ],
+  [
+   "Personal Lines CSR"
+  ],
+  [
+   "Unity"
+  ],
+  [
+   "Creo"
+  ],
+  [
+   "RASTAR"
+  ],
+  [
+   "BNU"
+  ],
+  [
+   "Windchill"
+  ],
+  [
+   "Revit"
+  ],
+  [
+   "Plant 3D"
+  ],
+  [
+   "Navisworks"
+  ],
+  [
+   "FloTHERM"
+  ],
+  [
+   "ICEPAK"
+  ],
+  [
+   "PCIe"
+  ],
+  [
+   "Teamcenter"
+  ],
+  [
+   "AS 9100"
+  ],
+  [
+   "ISO 13399"
+  ],
+  [
+   "I2C"
+  ],
+  [
+   "SPI"
+  ],
+  [
+   "Altium"
+  ],
+  [
+   "DO-254"
+  ],
+  [
+   "DO-178C"
+  ],
+  [
+   "DO-160"
+  ],
+  [
+   "FPGA"
+  ],
+  [
+   "PCBAs"
+  ],
+  [
+   "Zigbee"
+  ],
+  [
+   "KiCad"
+  ],
+  [
+   "UART"
+  ],
+  [
+   "USBLab"
+  ],
+  [
+   "Velocify"
+  ],
+  [
+   "MEDDPICC"
+  ],
+  [
+   "Salesloft"
+  ],
+  [
+   "SharePoint"
+  ],
+  [
+   "FigJam"
+  ],
+  [
+   "Mapbox"
+  ],
+  [
+   "Productboard"
+  ],
+  [
+   "Power Automate"
+  ],
+  [
+   "Rockwell Automation"
+  ],
+  [
+   "UL508A"
+  ],
+  [
+   "NFPA 79"
+  ],
+  [
+   "Factory Talk ME"
+  ],
+  [
+   "Plant PAX"
+  ],
+  [
+   "Studio 5000"
+  ],
+  [
+   "Wonderware"
+  ],
+  [
+   "Ignition"
+  ],
+  [
+   "ServiceNow"
+  ],
+  [
+   "Infor Syteline"
+  ],
+  [
+   "Essbase"
+  ],
+  [
+   "Hyperion"
+  ],
+  [
+   "Teradata"
+  ],
+  [
+   "Think Folio"
+  ],
+  [
+   "Markit"
+  ],
+  [
+   "Kanerai"
+  ],
+  [
+   "Camtasia"
+  ],
+  [
+   "WellSaid"
+  ],
+  [
+   "Microsoft Dynamics NAV"
+  ],
+  [
+   "Business Central"
+  ],
+  [
+   "Adaptive Insight"
+  ],
+  [
+   "ARGUS"
+  ],
+  [
+   "Sage Intacct"
+  ],
+  [
+   "ProCore"
+  ],
+  [
+   "BuildOps"
+  ],
+  [
+   "Zoominfo"
+  ],
+  [
+   "CCaaS"
+  ],
+  [
+   "ClickFunnels"
+  ],
+  [
+   "ActiveCampaign"
+  ],
+  [
+   "AdRoll"
+  ],
+  [
+   "HYROS"
+  ],
+  [
+   "AffiliatePro"
+  ],
+  [
+   "GoHighLevel"
+  ],
+  [
+   "6Sense"
+  ],
+  [
+   "Pardot"
+  ],
+  [
+   "ClickUp"
+  ],
+  [
+   "Airtable"
+  ],
+  [
+   "Pytorch"
+  ],
+  [
+   "Yotpo"
+  ],
+  [
+   "ONNX"
+  ],
+  [
+   "Shopify Plus"
+  ],
+  [
+   "NetSuite ERP"
+  ],
+  [
+   "Qlik"
+  ],
+  [
+   "Microsoft Dynamics D365"
+  ],
+  [
+   "Sage X3"
+  ],
+  [
+   "QuickBooks"
+  ],
+  [
+   "Lucidchart"
+  ],
+  [
+   "IBM Blueworks Live"
+  ],
+  [
+   "Mavim"
+  ],
+  [
+   "Visio"
+  ],
+  [
+   "Appian"
+  ],
+  [
+   "Camunda"
+  ],
+  [
+   "Pega"
+  ],
+  [
+   "LeaseWave"
+  ],
+  [
+   "Maximo"
+  ],
+  [
+   "Viva Engage"
+  ],
+  [
+   "FM Survey/Clarvue"
+  ],
+  [
+   "MealSuite"
+  ],
+  [
+   "Unidash"
+  ],
+  [
+   "ONESOURCE"
+  ],
+  [
+   "CCH"
+  ],
+  [
+   "CorpTax"
+  ],
+  [
+   "Vertex"
+  ],
+  [
+   "Longview"
+  ],
+  [
+   "SurePrep"
+  ],
+  [
+   "SuraLink"
+  ],
+  [
+   "Stibo"
+  ],
+  [
+   "Salsify"
+  ],
+  [
+   "inRiver"
+  ],
+  [
+   "bioprocess"
+  ],
+  [
+   "bioreactor"
+  ],
+  [
+   "bioreactors"
+  ],
+  [
+   "NADCAP"
+  ],
+  [
+   "MATLAB"
+  ],
+  [
+   "Matplotlib"
+  ],
+  [
+   {
+    "match": "(^|\\W)CAD($|\\W)"
+   },
+   "CAD software"
+  ],
+  [
+   "Cadence Allegro",
+   "Allegro"
+  ],
+  [
+   "Fusion"
+  ],
+  [
+   "containerization"
+  ],
+  [
+   "Open Source"
+  ],
+  [
+   "REST APIs",
+   "Rest API"
+  ],
+  [
+   "CI/CD",
+   {
+    "match": "(^|\\W)CI($|\\W)"
+   },
+   "CICD",
+   "continuous integration",
+   "continuous integration and deployment",
+   "continuous deployment"
+  ]
+ ],
+ "ResumeScores": {
+  "ADP": {
+   "urls": [
+    "*://recruiting.adp.com/srccar/public/*",
+    "*://myjobs.adp.com/*/cx/*"
+   ],
+   "banners": [
+    {
+     "containerPath": [
+      ".//div[contains(@class, \"jobdetails-container\")]//div[contains(@class, \"card-container\")]",
+      ".//cx-job-details-section"
+     ],
+     "containerMethod": "prepend"
+    }
+   ],
+   "jobTitlePath": [
+    ".//span[contains(@class, \"jobTitle\") and contains(@class, \"job-detail-title\")]",
+    ".//div[@class=\"title-title vdl-col-md-12\"]"
+   ],
+   "jobDescriptionPath": [
+    ".//div[contains(@class, \"jobdetails-container\")]//div[contains(@class, \"card-container\")]",
+    ".//cx-job-details-section//ancestor::div[contains(@class, \"details-main-section\")]"
+   ],
+   "jobLocationPath": [
+    ".//div[contains(@class, \"jobdetails-container\")]//span[contains(@class, \"resultLocationLink\")]//span[contains(@class, \"resultfootervalue\")]",
+    ".//div[@id=\"cx-detail-single-loc\"]"
+   ],
+   "jobCompanyNamePath": [
+    ".//div[contains(@class, \"logopic\")]/img/@alt",
+    ".//img[@class=\"logo\"]/@alt"
+   ]
+  },
+  "ADP2": {
+   "urls": [
+    "*://workforcenow.adp.com/mascsr/*/*/recruitment/*"
+   ],
+   "banners": [
+    {
+     "containerPath": ".//div[@class=\"job-description-data-item\"]",
+     "containerMethod": "insertBefore"
+    }
+   ],
+   "jobTitlePath": [
+    ".//h2[@class=\"job-description-title\"]"
+   ],
+   "jobDescriptionPath": [
+    ".//div[@class=\"job-description-data-item\"]"
+   ],
+   "jobLocationPath": [
+    ".//label[@class=\"job-description-location-item\"]"
+   ]
+  },
+  "Amazon": {
+   "urls": [
+    "*://*.amazon.jobs/*/jobs/*"
+   ],
+   "banners": [
+    {
+     "containerPath": ".//div[@id=\"job-detail-body\"]/div[contains(@class, \"row\")]/div[contains(@class, \"col-\")]/div[contains(@class, \"content\")]",
+     "containerMethod": "prepend"
+    }
+   ],
+   "jobTitlePath": ".//div[contains(@class, \"apply-header\")]//h1[contains(@class, \"title\")]",
+   "jobDescriptionPath": ".//div[@id=\"job-detail-body\"]/div[contains(@class, \"row\")]/div[contains(@class, \"col-\")]/div[contains(@class, \"content\")]",
+   "jobLocationPath": ".//div[contains(@class, \"location-icon\")]/ul/li",
+   "jobCompanyNamePath": "\"Amazon\""
+  },
+  "Apple": {
+   "urls": [
+    "*://jobs.apple.com/*/details/*"
+   ],
+   "banners": [
+    {
+     "containerPath": [
+      ".//div[contains(@class, \"job-details\")]/div[@itemprop=\"description\"]",
+      ".//div[@id=\"jobdetails-wrapper\"]//section"
+     ],
+     "containerMethod": "prepend",
+     "bannerClassName": "mx-auto w-full max-w-3xl flex items-center justify-start text-center text-md my-12 p-0 border-2 border-[#eceff5] whitespace-nowrap leading-normal rounded-2xl text-[#3f525b] bg-white overflow-hidden hover:shadow-md focus:outline-none transition ease-in-out duration-150"
+    }
+   ],
+   "jobTitlePath": [
+    ".//div[@id=\"job-details-header\"]/h1[@itemprop=\"title\"]",
+    ".//h1[@id=\"jobdetails-postingtitle\"]"
+   ],
+   "jobDescriptionPath": [
+    ".//div[contains(@class, \"job-details\")]/div[@itemprop=\"description\"]",
+    ".//div[@id=\"jobdetails-wrapper\"]//section"
+   ],
+   "jobLocationPath": [
+    ".//div[@id=\"job-location-name\"]",
+    ".//label[@id=\"jobdetails-joblocation\"]"
+   ],
+   "jobCompanyNamePath": "\"Apple\""
+  },
+  "AshbyHQ": {
+   "urls": [
+    "*://jobs.ashbyhq.com/*/*"
+   ],
+   "banners": [
+    {
+     "containerPath": ".//div[@id=\"overview\"]",
+     "containerMethod": "prepend"
+    }
+   ],
+   "jobTitlePath": ".//h1[contains(@class, \"_title_\") and contains(@class, \"ashby-job-posting-heading\")]",
+   "jobDescriptionPath": ".//div[@id=\"overview\"]/div[contains(@class, \"descriptionText\")]",
+   "jobLocationPath": ".//div[contains(@class, \"ashby-job-posting-left-pane\")]//h2[contains(@class, \"_heading_\") and contains(., \"Location\")]//following-sibling::p",
+   "jobCompanyNamePath": ".//img[contains(@class, \"_navLogoWordmarkImage_\")]/@alt"
+  },
+  "Avature": {
+   "urls": [
+    "*://*.avature.net/careers/JobDetail/*",
+    "*://*.avature.net/*/careers/JobDetail/*",
+    "*://www.bain.com/careers/find-a-role/position/?jobid=*",
+    "*://careers.bain.com/jobs/*"
+   ],
+   "banners": [
+    {
+     "containerPath": [
+      ".//main[@id=\"main\"]//section[contains(@class, \"section--details\") or contains(@class, \"js_views\")]",
+      ".//h3[contains(., \"Description & Requirements\")]/parent::*"
+     ],
+     "containerMethod": "prepend"
+    }
+   ],
+   "jobTitlePath": ".//div[contains(@class, \"banner--main\")]//h2[contains(@class, \"banner\") and contains(@class, \"title\")]",
+   "jobDescriptionPath": ".//main[@id=\"main\"]//section[contains(@class, \"section--details\") or contains(@class, \"js_views\")]",
+   "jobLocationPath": [
+    ".//main[@id=\"main\"]//section[contains(@class, \"section--details\") or contains(@class, \"js_views\")]//i[@class=\"fa fa-globe\"]/parent::p/strong",
+    "substring-after(.//div[contains(@class, \"article__content__view__field__value\")]//*[contains(., \"Location\")]/following-sibling::text(), \":\")",
+    ".//div[contains(@class, \"article__content__view__field__value\")]//*[contains(., \"Location\")]/following-sibling::text()",
+    ".//div[contains(@class, \"article__content__view__field__value\")]//*[contains(., \"Location\")]/parent::*"
+   ],
+   "jobCompanyNamePath": [
+    ".//meta[@property=\"og:site_name\" and @content=\"Bain\"]/@content",
+    ".//span[contains(@class, \"logo\") and contains(@class, \"footer\")]",
+    ".//a[contains(@class, \"header\") and contains(@class, \"logo\")]/h1"
+   ]
+  },
+  "BambooHR": {
+   "urls": [
+    "*://*.bamboohr.com/careers*"
+   ],
+   "banners": [
+    {
+     "containerPath": ".//body[not(descendant::a[@href=\"/careers\"]/button/span[contains(., \"See all Job Openings\")])]//div[@id=\"descriptionWrapper\"]/parent::*/parent::*",
+     "containerMethod": "prepend"
+    }
+   ],
+   "jobTitlePath": [
+    ".//div[contains(@class, \"fab-CardContent\")]/div[contains(@class, \"MuiBox-root\")]/div/h2",
+    ".//meta[@property=\"og:title\"]/@content"
+   ],
+   "jobDescriptionPath": ".//div[@id=\"descriptionWrapper\"]",
+   "jobLocationPath": ".//div[contains(@class, \"MuiBox-root\")]/div[contains(@class, \"MuiBox-root\")]/p[contains(., \"Location\")]/following-sibling::p",
+   "jobCompanyNamePath": [
+    ".//header/a[@href=\"/careers\"]/img/@alt",
+    ".//meta[@property=\"og:site_name\"]/@content"
+   ]
+  },
+  "BrassRing": {
+   "urls": [
+    "*://*/TGnewUI/Search/Home/*"
+   ],
+   "banners": [
+    {
+     "containerPath": ".//div[contains(@class, \"jobDetailsLiner\") and contains(@class, \"mainDetails\")]/div[contains(@class, \"questionClass\")]",
+     "containerMethod": "prepend"
+    }
+   ],
+   "jobTitlePath": ".//h1[contains(@class, \"jobtitleInJobDetails\")]",
+   "jobDescriptionPath": ".//div[contains(@class, \"jobDetailsLiner\") and contains(@class, \"mainDetails\")]/div[contains(@class, \"questionClass\")]",
+   "jobLocationPath": ".//h1[contains(@class, \"jobtitleInJobDetails\")]/parent::*/parent::*/following-sibling::div/p",
+   "jobCompanyNamePath": [
+    ".//meta[@content=\"job details page\"]/@name",
+    ".//meta[@content=\"search openings page\"]/@name",
+    ".//div[@configurable-image=\"primaryHeaderLogo\"]/@alttxt"
+   ]
+  },
+  "BreezyHR": {
+   "urls": [
+    "*://*.breezy.hr/p/*"
+   ],
+   "banners": [
+    {
+     "containerPath": ".//div[@id=\"description\"]//div[contains(@class, \"description\")]",
+     "containerMethod": "prepend"
+    }
+   ],
+   "jobTitlePath": ".//div[@id=\"heroBackgroundColor\"]//h1",
+   "jobDescriptionPath": ".//div[@id=\"description\"]//div[contains(@class, \"description\")]",
+   "jobLocationPath": ".//div[@id=\"heroBackgroundColor\"]//li[contains(@class, \"location\")]/span",
+   "jobCompanyNamePath": [
+    ".//div[contains(@class, \"header\")]//a[contains(@class, \"brand\")]/h1",
+    ".//div[contains(@class, \"header\")]//a[contains(@class, \"brand\")]/img/@alt"
+   ]
+  },
+  "Coinbase": {
+   "urls": [
+    "*://*.coinbase.com/careers/*"
+   ],
+   "banners": [
+    {
+     "containerPath": ".//div[contains(@class, \"Listing__JobDescription\")]",
+     "containerMethod": "prepend"
+    }
+   ],
+   "jobTitlePath": [
+    ".//h1[contains(@class, \"Listing__Title\")]"
+   ],
+   "jobDescriptionPath": [
+    ".//div[contains(@class, \"Listing__JobDescription\")]"
+   ],
+   "jobLocationPath": [
+    ".//div[contains(@class, \"Listing__JobLocation\")]"
+   ],
+   "jobCompanyNamePath": "\"Coinbase\""
+  },
+  "Comeet": {
+   "urls": [
+    "*://*.comeet.com/jobs/*/*/*/*"
+   ],
+   "banners": [
+    {
+     "containerPath": ".//div[contains(@class, \"careerCard\")]//div[contains(@class, \"positionInfo\")]",
+     "containerMethod": "prepend"
+    }
+   ],
+   "jobTitlePath": [
+    ".//h2[contains(@class, \"positionName\")]",
+    ".//div[contains(@class, \"careerHeroHeader\")]/h1/span[1]",
+    ".//title"
+   ],
+   "jobDescriptionPath": [
+    ".//div[contains(@class, \"careerCard\")]//div[contains(@class, \"positionInfo\")]"
+   ],
+   "jobLocationPath": [
+    ".//li[@ng-if=\"position.location\"]",
+    ".//*[contains(@ng-if, \"position.location\")]"
+   ],
+   "jobCompanyNamePath": [
+    "substring-after(.//*[@ng-hide=\"company.logos.medium.url\"], \"@\")",
+    ".//h2[@ng-hide=\"company.logos.medium.url\"]",
+    ".//*[@ng-hide=\"company.logos.medium.url\"]",
+    ".//div[contains(@class, \"careerHeroHeader\")]/h1/span[2]",
+    ".//title"
+   ]
+  },
+  "Cursor": {
+   "urls": [
+    "*://cursor.com/careers/*"
+   ],
+   "pathsExcluded": [
+    [
+     ".//div[contains(@class, \"fieldEntry\")]"
+    ]
+   ],
+   "banners": [
+    {
+     "containerPath": ".//form[contains(@class, \"space-y-v1\") and not(ancestor-or-self::*[@hidden or contains(concat(\" \", normalize-space(@class), \" \"), \" hidden \") or contains(translate(@style, \"ABCDEFGHIJKLMNOPQRSTUVWXYZ\", \"abcdefghijklmnopqrstuvwxyz\"), \"display: none\") or contains(translate(@style, \"ABCDEFGHIJKLMNOPQRSTUVWXYZ\", \"abcdefghijklmnopqrstuvwxyz\"), \"display:none\")])]",
+     "containerMethod": "prepend"
+    }
+   ],
+   "jobTitlePath": ".//h1[not(ancestor-or-self::*[@hidden or contains(concat(\" \", normalize-space(@class), \" \"), \" hidden \") or contains(translate(@style, \"ABCDEFGHIJKLMNOPQRSTUVWXYZ\", \"abcdefghijklmnopqrstuvwxyz\"), \"display: none\") or contains(translate(@style, \"ABCDEFGHIJKLMNOPQRSTUVWXYZ\", \"abcdefghijklmnopqrstuvwxyz\"), \"display:none\")])]",
+   "jobDescriptionPath": [
+    ".//div[contains(@class, \"prose\") and not(ancestor-or-self::*[@hidden or contains(concat(\" \", normalize-space(@class), \" \"), \" hidden \") or contains(translate(@style, \"ABCDEFGHIJKLMNOPQRSTUVWXYZ\", \"abcdefghijklmnopqrstuvwxyz\"), \"display: none\") or contains(translate(@style, \"ABCDEFGHIJKLMNOPQRSTUVWXYZ\", \"abcdefghijklmnopqrstuvwxyz\"), \"display:none\")])]",
+    ".//main[contains(@class, \"section--longform\") and not(ancestor-or-self::*[@hidden or contains(concat(\" \", normalize-space(@class), \" \"), \" hidden \") or contains(translate(@style, \"ABCDEFGHIJKLMNOPQRSTUVWXYZ\", \"abcdefghijklmnopqrstuvwxyz\"), \"display: none\") or contains(translate(@style, \"ABCDEFGHIJKLMNOPQRSTUVWXYZ\", \"abcdefghijklmnopqrstuvwxyz\"), \"display:none\")])]//section[contains(@class, \"container\")]"
+   ],
+   "jobLocationPath": ".//h1[not(ancestor-or-self::*[@hidden or contains(concat(\" \", normalize-space(@class), \" \"), \" hidden \") or contains(translate(@style, \"ABCDEFGHIJKLMNOPQRSTUVWXYZ\", \"abcdefghijklmnopqrstuvwxyz\"), \"display: none\") or contains(translate(@style, \"ABCDEFGHIJKLMNOPQRSTUVWXYZ\", \"abcdefghijklmnopqrstuvwxyz\"), \"display:none\")])]/following-sibling::p[1]",
+   "jobCompanyNamePath": ".//meta[@property=\"og:site_name\"]/@content"
+  },
+  "DayforceHCM": {
+   "urls": [
+    "*://jobs.dayforcehcm.com/*/CANDIDATEPORTAL/jobs/*"
+   ],
+   "urlsExcluded": [
+    "*://jobs.dayforcehcm.com/*/CANDIDATEPORTAL/jobs/*/apply*"
+   ],
+   "banners": [
+    {
+     "containerPath": ".//*[@test-id=\"job-detail-title\"]/ancestor::div[contains(@class, \"ant-card-head\")]",
+     "containerMethod": "insertAfter"
+    }
+   ],
+   "jobTitlePath": ".//*[@test-id=\"job-detail-title\"]",
+   "jobDescriptionPath": [
+    ".//div[contains(@class, \"ant-card-body\")]",
+    ".//*[contains(text(), \"Job Description\")]/parent::*/parent::*"
+   ],
+   "jobLocationPath": [
+    ".//*[@test-id=\"job-detail-location-list\"]"
+   ],
+   "jobCompanyNamePath": [
+    ".//header//img[contains(@class, \"logo\")]/@alt",
+    ".//header//a[contains(@href, \"/\")]"
+   ]
+  },
+  "Eightfold": {
+   "urls": [
+    "*://*.eightfold.ai/careers/apply?*",
+    "*://*.eightfold.ai/careers/job/*",
+    "*://*.eightfold.ai/careers/search*",
+    "*://*.eightfold.ai/careers?*"
+   ],
+   "banners": [
+    {
+     "containerPath": ".//div[contains(@class, \"position-job-description-column\")]",
+     "containerMethod": "prepend"
+    }
+   ],
+   "jobTitlePath": [
+    ".//h1[contains(@class, \"job-title\")]",
+    ".//h1[contains(@class, \"position-title\")]"
+   ],
+   "jobDescriptionPath": [
+    ".//div[contains(@class, \"position-job-description-column\")]"
+   ],
+   "jobLocationPath": [
+    ".//div[@data-test-id=\"work-location-option-pill\"]"
+   ],
+   "jobCompanyNamePath": [
+    "substring-after(.//meta[(@name=\"description\" or @name=\"og:description\" or @name=\"og:title\") and starts-with(@content, \"Careers at \")]/@content, \"Careers at \")",
+    ".//title"
+   ]
+  },
+  "FreshTeam": {
+   "urls": [
+    "*://*.freshteam.com/jobs/*"
+   ],
+   "banners": [
+    {
+     "containerPath": ".//div[contains(@class, \"job-details\")]//div[contains(@class, \"job-details-content\")]/div",
+     "containerMethod": "prepend"
+    }
+   ],
+   "jobTitlePath": ".//div[contains(@class, \"job-details\")]//div[contains(@class, \"job-details-header\")]//h1[contains(@class, \"brand-color\")]",
+   "jobDescriptionPath": ".//div[contains(@class, \"job-details\")]//div[contains(@class, \"job-details-content\")]/div",
+   "jobLocationPath": ".//div[contains(@class, \"job-details\")]//div[contains(@class, \"job-details-header\")]//h1[contains(@class, \"brand-color\")]/following-sibling::div/text()",
+   "jobCompanyNamePath": ".//header//h4[contains(@class, \"brand-text\")]"
+  },
+  "Google": {
+   "urls": [
+    "*://*.google.com/about/careers/applications/jobs/results/*",
+    "*://*.google.com/about/careers/applications/apply/*"
+   ],
+   "banners": [
+    {
+     "containerPath": [
+      ".//a[@id=\"apply-action-button\"]//ancestor::span[@jsslot]//h3[contains(., \"About the job\")]"
+     ],
+     "containerMethod": "insertAfter"
+    }
+   ],
+   "jobTitlePath": [
+    ".//a[@id=\"apply-action-button\"]//ancestor::span[@jsslot]/h2",
+    ".//h1[starts-with(., \"Welcome, \")]/following-sibling::div"
+   ],
+   "jobDescriptionPath": ".//a[@id=\"apply-action-button\"]//ancestor::span[@jsslot]",
+   "jobLocationPath": ".//a[@id=\"apply-action-button\"]//ancestor::span[@jsslot]/div/div[2]/span[2]",
+   "jobCompanyNamePath": "\"Google\""
+  },
+  "GovernmentJobs": {
+   "urls": [
+    "*://*.governmentjobs.com/jobs/*",
+    "*://*.governmentjobs.com/careers/*/jobs/*"
+   ],
+   "banners": [
+    {
+     "containerPath": ".//div[contains(@class, \"job-details-content\")]",
+     "containerMethod": "prepend"
+    }
+   ],
+   "jobTitlePath": ".//h1[contains(@class, \"job-header-title\")]",
+   "jobDescriptionPath": ".//div[contains(@class, \"job-details-content\")]",
+   "jobCompanyNamePath": ".//*[@id=\"employer-label-id\"]/ancestor::*[contains(@class, \"span4\")]/following-sibling::*[contains(@class, \"span8\")]",
+   "jobLocationPath": ".//*[@id=\"location-label-id\"]/ancestor::*[contains(@class, \"span4\")]/following-sibling::*[contains(@class, \"span8\")]"
+  },
+  "Greenhouse": {
+   "urls": [
+    "*://boards.eu.greenhouse.io/*",
+    "*://boards.greenhouse.io/*",
+    "*://job-boards.eu.greenhouse.io/*",
+    "*://job-boards.greenhouse.io/*",
+    "*://*/**gh_jid**",
+    "*://jobs.dropbox.com/listing/*/apply*"
+   ],
+   "urlsExcluded": [
+    "*://boards.greenhouse.io/*/confirmation"
+   ],
+   "pathsExcluded": [
+    [
+     ".//div[starts-with(@class, \"filters\")]"
+    ]
+   ],
+   "embeddedPaths": [
+    [
+     ".//*[@id=\"main\" and descendant::div[@class=\"page-positions__content\"]]"
+    ],
+    [
+     ".//script[contains(@src, \".greenhouse.io/embed/job_board/js\")]"
+    ],
+    [
+     ".//iframe[@id=\"grnhse_iframe\"]"
+    ]
+   ],
+   "banners": [
+    {
+     "containerPath": [
+      ".//div[@id=\"app_body\"]//div[@id=\"content\"]"
+     ],
+     "containerMethod": "prepend"
+    },
+    {
+     "containerPath": [
+      ".//div[contains(@class, \"job__description\") or contains(@class, \"job-description\")]"
+     ],
+     "containerMethod": "prepend"
+    },
+    {
+     "containerPath": [
+      ".//*[@id=\"main\" and descendant::div[@class=\"page-positions__content\"]]//div[@class=\"page-header\"]/div[@class=\"container\"]"
+     ]
+    },
+    {
+     "containerPath": [
+      ".//ion-content/main/ng-component/section/article/markdown//div[@class=\"content-intro\"]"
+     ],
+     "containerMethod": "insertAfter"
+    }
+   ],
+   "jobTitlePath": [
+    ".//div[@id=\"app_body\"]//h1[@class=\"app-title\"]",
+    ".//div[contains(@class, \"job__title\")]/h1",
+    ".//div[@class=\"section-body\"]/h1",
+    ".//header/h1",
+    ".//div[@data-job-id]//h1[1]"
+   ],
+   "jobDescriptionPath": [
+    ".//div[@id=\"app_body\"]//div[@id=\"content\"]",
+    ".//div[contains(@class, \"job__description\") or contains(@class, \"job-description\")]",
+    ".//*[@id=\"main\"]//div[@class=\"page-positions__content\"]",
+    ".//ion-content/main/ng-component/section/article/markdown[descendant::div[@class=\"content-intro\"]]",
+    ".//div[@data-job-id]"
+   ],
+   "jobLocationPath": [
+    ".//div[@id=\"app_body\"]//div[@class=\"location\"]",
+    ".//div[contains(@class, \"job__title\")]/p[contains(@class, \"body--metadata\")]",
+    ".//div[@class=\"job__location\"]/div",
+    ".//div[@class=\"meta\"]/p[1]",
+    ".//p[@class=\"location\"]",
+    ".//div[@data-job-id]//h1/following-sibling::div/div[2]//span"
+   ],
+   "jobCompanyNamePath": [
+    "substring(normalize-space(.//div[@id=\"app_body\"]//span[@class=\"company-name\"]/text()), 4)",
+    "substring-after(.//meta[(@property=\"og:site_name\" or @name=\"application-name\") and starts-with(@content, \"Careers at \")]/@content, \"Careers at \")",
+    ".//meta[@property=\"og:site_name\" or @name=\"application-name\"]/@content",
+    "substring-before(.//a[@class=\"logo\"]/img[contains(@alt, \" Logo\")]/@alt, \" Logo\")",
+    "substring-before(.//div[@class=\"image-container\"]/img[contains(@alt, \" Logo\")]/@alt, \" Logo\")",
+    ".//a[@class=\"logo\"]/img/@alt",
+    ".//div[@class=\"image-container\"]/img/@alt"
+   ]
+  },
+  "ICIMS": {
+   "urls": [
+    "*://*.icims.com/jobs/*/job*",
+    "*://*.jibeapply.com/jobs/*"
+   ],
+   "banners": [
+    {
+     "containerPath": ".//div[contains(@class, \"iCIMS_JobsTable\")]",
+     "containerMethod": "insertAfter"
+    },
+    {
+     "containerPath": ".//section[contains(@class, \"main-description-section\")]",
+     "containerMethod": "prepend"
+    }
+   ],
+   "jobTitlePath": ".//div[contains(@class, \"iCIMS_JobsTable\")]//div[contains(@class, \"title\")]/h1",
+   "jobDescriptionPath": ".//div[contains(@class, \"iCIMS_JobContent\")]",
+   "jobLocationPath": [
+    ".//dt[contains(., \"Location\")]/following-sibling::dd",
+    ".//span[contains(@class, \"field-label\") and contains(., \"Location\")]/following-sibling::span"
+   ],
+   "jobCompanyNamePath": ".//div[contains(@class, \"header-logo\")]/a/img/@alt"
+  },
+  "IBM": {
+   "urls": [
+    "*://careers.ibm.com/job/*",
+    "*://careers.ibm.com/apply/join/?job=*"
+   ],
+   "banners": [
+    {
+     "containerPath": ".//div[@class=\"jd-description\"]",
+     "containerMethod": "prepend"
+    }
+   ],
+   "jobTitlePath": [
+    ".//h1[@class=\"title-heading-left\"]/p"
+   ],
+   "jobDescriptionPath": [
+    ".//div[@class=\"jd-description\"]"
+   ],
+   "jobLocationPath": [
+    ".//div[contains(@class, \"ejd_list_subheading\")]/ul/li[1]"
+   ],
+   "jobCompanyNamePath": "\"IBM\""
+  },
+  "Indeed": {
+   "urls": [
+    "*://*.indeed.com/m/basecamp/viewjob*",
+    "*://*.indeed.com/viewjob*",
+    "*://*.indeed.com/jobs?*",
+    "*://*.indeed.com/*.html?vjk=*",
+    "*://smartapply.indeed.com/beta/indeedapply/form/*"
+   ],
+   "banners": [
+    {
+     "containerPath": [
+      ".//div[@id=\"jobDescriptionText\"]"
+     ],
+     "containerMethod": "prepend"
+    },
+    {
+     "containerPath": [
+      ".//div[contains(@class, \"ia-JobDescription\")]"
+     ],
+     "containerMethod": "prepend"
+    }
+   ],
+   "jobTitlePath": [
+    ".//h2[@data-testid=\"jobsearch-JobInfoHeader-title\"]/span/text()",
+    ".//h1[@id=\"ia-JobInfoCard-header-title\"]/text()",
+    ".//h1[@id=\"ia-JobHeader-title\"]/text()"
+   ],
+   "jobDescriptionPath": [
+    ".//div[@id=\"jobDescriptionText\"]",
+    ".//div[contains(@class, \"ia-JobDescription\")]"
+   ],
+   "jobLocationPath": [
+    ".//div[@data-testid=\"inlineHeader-companyLocation\"]",
+    ".//aside[@data-testid=\"JobInfoCard-wrapper\"]//span[contains(@class, \"e1wnkr790\")]"
+   ],
+   "jobCompanyNamePath": [
+    ".//div[@data-testid=\"inlineHeader-companyName\"]//a/text()",
+    ".//aside[@data-testid=\"JobInfoCard-wrapper\"]//span[contains(@class, \"e1wnkr790\")]"
+   ],
+   "jobInfoExtractors": {
+    "title": {
+     "path": ".//script[contains(text(),'window._initialData') and contains(text(),'jobInfo')]/text()",
+     "match": "\\\\\"jobTitle\\\\\":\\\\\"((?:[^\"\\\\]|\\\\.)*?)\\\\\"",
+     "template": "{{1}}"
+    },
+    "companyName": {
+     "path": ".//script[contains(text(),'window._initialData') and contains(text(),'jobInfo')]/text()",
+     "match": "\\\\\"jobCompany\\\\\":\\\\\"((?:[^\"\\\\]|\\\\.)*?)\\\\\"",
+     "template": "{{1}}"
+    },
+    "location": {
+     "path": ".//script[contains(text(),'window._initialData') and contains(text(),'jobInfo')]/text()",
+     "match": "\\\\\"jobLocation\\\\\":\\\\\"((?:[^\"\\\\]|\\\\.)*?)\\\\\"",
+     "template": "{{1}}"
+    },
+    "url": {
+     "path": ".//script[contains(text(),'window._initialData') and contains(text(),'jobInfo')]/text()",
+     "match": "\\\\\"jk\\\\\":\\\\\"([0-9a-f]{8,})\\\\\"",
+     "template": "https://www.indeed.com/viewjob?jk={{1}}"
+    }
+   }
+  },
+  "JazzHR": {
+   "urls": [
+    "*://*.applytojob.com/apply/*/*"
+   ],
+   "banners": [
+    {
+     "containerPath": ".//div[@id=\"job-description\"]",
+     "containerMethod": "prepend"
+    }
+   ],
+   "jobTitlePath": ".//div[contains(@class, \"job-header\")]//h1",
+   "jobDescriptionPath": ".//div[@id=\"job-description\"]",
+   "jobLocationPath": ".//div[contains(@class, \"job-header\")]//div[@title=\"Location\"]",
+   "jobCompanyNamePath": [
+    "substring-after(.//meta[@property=\"og:title\"]/@content, \" - \")",
+    "substring-after(.//title, \" - \")",
+    ".//meta[@property=\"og:title\"]/@content",
+    ".//title"
+   ]
+  },
+  "JobScore": {
+   "urls": [
+    "*://careers.jobscore.com/careers/*/jobs/*"
+   ],
+   "banners": [
+    {
+     "containerPath": ".//div[contains(@class, \"js-section-job-description\")]//ancestor::div[contains(@class, \"js-row\")]",
+     "containerMethod": "prepend"
+    }
+   ],
+   "jobTitlePath": ".//h1[contains(@class, \"js-title\")]",
+   "jobDescriptionPath": ".//div[contains(@class, \"js-section-job-description\")]",
+   "jobLocationPath": ".//div[contains(@class, \"js-section-job-location\")]",
+   "jobCompanyNamePath": [
+    ".//div[contains(@class, \"header__logo\")]//a[@rel=\"home\"]/img/@alt",
+    ".//title"
+   ]
+  },
+  "Jobvite": {
+   "urls": [
+    "*://jobs.jobvite.com/*/apply*",
+    "*://jobs.jobvite.com/*/job/*"
+   ],
+   "banners": [
+    {
+     "containerPath": ".//div[contains(@class, \"jv-job-detail-description\")]",
+     "containerMethod": "prepend"
+    }
+   ],
+   "jobTitlePath": [
+    ".//h2[contains(@class, \"jv-header\")]"
+   ],
+   "jobDescriptionPath": ".//div[contains(@class, \"jv-job-detail-description\")]",
+   "jobLocationPath": [
+    ".//h3[contains(@class, \"jv-job-detail-location\")]",
+    ".//h2[contains(@class, \"jv-header\")]/following-sibling::p/span[contains(@class, \"jv-inline-separator\")]/following-sibling::text()",
+    ".//h2[contains(@class, \"jv-header\")]/following-sibling::p"
+   ],
+   "jobCompanyNamePath": [
+    ".//header//h1[contains(@class, \"jv-logo\")]/a/img/@alt",
+    ".//header//h1[contains(@class, \"jv-logo\")]/a"
+   ]
+  },
+  "Lever": {
+   "urls": [
+    "*://jobs.lever.co/*/*",
+    "*://jobs.eu.lever.co/*/*"
+   ],
+   "banners": [
+    {
+     "containerPath": ".//div[@data-qa=\"job-description\"]",
+     "containerMethod": "prepend"
+    },
+    {
+     "containerPath": ".//form[@id=\"application-form\"]//div[contains(@class, \"section\") and contains(@class, \"application-form\")]",
+     "containerMethod": "prepend"
+    }
+   ],
+   "jobTitlePath": [
+    ".//div[contains(@class, \"posting-header\")]/div[contains(@class, \"posting-headline\")]/h2",
+    ".//div[contains(@class, \"posting-header\")]/h2"
+   ],
+   "jobDescriptionPath": [
+    ".//div[@data-qa=\"job-description\"]/parent::*",
+    ".//meta[@name=\"twitter:description\" or @property=\"og:description\"]/@content"
+   ],
+   "jobLocationPath": [
+    ".//div[contains(@class, \"posting-header\")]/div[contains(@class, \"posting-headline\")]/div[contains(@class, \"posting-categories\")]/div[contains(@class, \"posting-category\") and contains(@class, \"location\")]",
+    ".//div[contains(@class, \"posting-categories\")]/div[contains(@class, \"location\")]"
+   ],
+   "jobCompanyNamePath": "substring(.//div[contains(@class, \"main-footer-text\")]/p/a[contains(., \" Home Page\")]/text(), 1, string-length(.//div[contains(@class, \"main-footer-text\")]/p/a[contains(., \" Home Page\")]/text()) - 10)"
+  },
+  "LinkedIn": {
+   "urls": [
+    "*://*.linkedin.com/jobs/collections/*",
+    "*://*.linkedin.com/jobs/search/*",
+    "*://*.linkedin.com/jobs/search-results/*",
+    "*://*.linkedin.com/jobs/view/*"
+   ],
+   "banners": [
+    {
+     "containerPath": ".//div[contains(@class, \"jobs-unified-top-card\")]//div[contains(@class, \"jobs-unified-top-card__primary-description\")]/parent::*"
+    },
+    {
+     "containerPath": ".//div[contains(@class, \"decorated-job-posting__details\") and descendant::div[contains(@class, \"description__text\")]]",
+     "containerMethod": "prepend"
+    },
+    {
+     "containerPath": ".//div[starts-with(@componentkey, \"JobDetails_AboutTheJob\")]",
+     "containerMethod": "prepend"
+    }
+   ],
+   "jobTitlePath": [
+    ".//div[@class=\"job-details-jobs-unified-top-card__title-container\"]/a/h2",
+    ".//a[@data-tracking-control-name=\"public_jobs_topcard-title\"]//h2[contains(@class, \"topcard__title\")]",
+    ".//h1[contains(@class, \"topcard__title\")]",
+    ".//div[contains(@class, \"job-details-jobs-unified-top-card__job-title\")]/h1",
+    ".//div[@data-testid=\"lazy-column\"]//div[starts-with(@aria-label, \"Company,\")]/parent::a/parent::div/following-sibling::div[1]//div[@data-display-contents=\"true\"]/p",
+    ".//div[@data-testid=\"lazy-column\"]//div[starts-with(@aria-label, \"Company,\")]/ancestor::div[2]/following-sibling::div[1]//div[@data-display-contents=\"true\"]/p"
+   ],
+   "jobDescriptionPath": [
+    ".//div[contains(@class, \"jobs-description-content__text\")]",
+    ".//div[contains(@class, \"decorated-job-posting__details\")]//div[contains(@class, \"description__text\")]/section/div",
+    ".//div[contains(@class, \"decorated-job-posting__details\")]//div[contains(@class, \"description__text\")]",
+    ".//div[starts-with(@componentkey, \"JobDetails_AboutTheJob\")]//span[@data-testid=\"expandable-text-box\"]"
+   ],
+   "jobLocationPath": [
+    ".//div[@class=\"job-details-jobs-unified-top-card__title-container\"]/div[contains(@class, \"truncate\")]/span[2]",
+    ".//h4[contains(@class, \"top-card-layout__second-subline\")]//a[@data-tracking-control-name=\"public_jobs_topcard-org-name\"]/parent::span[contains(@class, \"topcard__flavor\")]/following-sibling::span[contains(@class, \"topcard__flavor\")]",
+    "(.//div[contains(@class, \"job-details-jobs-unified-top-card__tertiary-description-container\")]//span[contains(@class, \"tvm__text\")])[1]",
+    ".//div[@data-testid=\"lazy-column\"]//div[starts-with(@aria-label, \"Company,\")]/ancestor::div[2]/p[contains(., \"·\")]/span[1]",
+    ".//div[@data-testid=\"lazy-column\"]//div[starts-with(@aria-label, \"Company,\")]/ancestor::div[3]/p[contains(., \"·\")]/span[1]"
+   ],
+   "jobCompanyNamePath": [
+    ".//div[@class=\"job-details-jobs-unified-top-card__title-container\"]/div[contains(@class, \"truncate\")]/span[1]",
+    ".//h4[contains(@class, \"top-card-layout__second-subline\")]//a[@data-tracking-control-name=\"public_jobs_topcard-org-name\"]",
+    ".//div[contains(@class, \"job-details-jobs-unified-top-card__company-name\")]/a",
+    ".//div[@data-testid=\"lazy-column\"]//div[starts-with(@aria-label, \"Company,\")]//p/a"
+   ]
+  },
+  "Mechanize": {
+   "urls": [
+    "*://*.mechanize.work/apply/*"
+   ],
+   "pathsExcluded": [
+    [
+     ".//div[contains(@class, \"job-board\")]"
+    ],
+    [
+     ".//div[contains(@class, \"confirmation\")]"
+    ]
+   ],
+   "banners": [
+    {
+     "containerPath": ".//form[@id=\"apply-form\"]",
+     "containerMethod": "prepend"
+    }
+   ],
+   "jobTitlePath": ".//title",
+   "jobDescriptionPath": ".//div[@id=\"maincontent\"]",
+   "jobLocationPath": ".//form[@id=\"apply-form\"]//text()[contains(., \"·\")]/..",
+   "jobCompanyNamePath": ".//meta[@property=\"og:site_name\"]/@content"
+  },
+  "Meta": {
+   "urls": [
+    "*://*.facebookcareers.com/jobs/*",
+    "*://*.facebookcareers.com/v2/jobs/*",
+    "*://*.metacareers.com/jobs/*",
+    "*://*.metacareers.com/v2/jobs/*"
+   ],
+   "banners": [
+    {
+     "containerPath": ".//div[@id=\"careersContentContainer\"]//div[contains(@class, \"_3gel\")]",
+     "containerMethod": "prepend"
+    }
+   ],
+   "jobTitlePath": ".//div[@id=\"careersContentContainer\"]//div[contains(@class, \"_8ww0\")]",
+   "jobDescriptionPath": ".//div[@id=\"careersContentContainer\"]//div[contains(@class, \"_3gel\")]",
+   "jobLocationPath": ".//div[@id=\"careersContentContainer\"]//span[contains(@class, \"_8lfp\")]",
+   "jobCompanyNamePath": "\"Meta\""
+  },
+  "Netflix": {
+   "urls": [
+    "*://explore.jobs.netflix.net/careers*"
+   ],
+   "banners": [
+    {
+     "containerPath": ".//div[contains(@class, \"position-job-description\")]",
+     "containerMethod": "prepend"
+    }
+   ],
+   "jobTitlePath": [
+    ".//h1[@class=\"position-title\"]",
+    ".//div[contains(@class, \"jobCartPositionName\")]"
+   ],
+   "jobDescriptionPath": [
+    ".//div[contains(@class, \"position-job-description\")]"
+   ],
+   "jobLocationPath": [
+    ".//p[@class=\"position-location\"]",
+    ".//div[contains(@class, \"jobCartPositionName\")]/following-sibling::span"
+   ],
+   "jobCompanyNamePath": "\"Netflix\""
+  },
+  "Okta": {
+   "urls": [
+    "*://www.okta.com/company/careers/*/*"
+   ],
+   "banners": [
+    {
+     "containerPath": ".//div[@class=\"Job\"]//article[@class=\"Job__content\"]",
+     "containerMethod": "prepend"
+    }
+   ],
+   "jobTitlePath": ".//div[@class=\"Job\"]//h1[@class=\"mb-1\"]",
+   "jobDescriptionPath": ".//div[@class=\"Job\"]//article[@class=\"Job__content\"]",
+   "jobLocationPath": ".//div[@class=\"Job\"]//h1[@class=\"mb-1\"]/following-sibling::div[1]",
+   "jobCompanyNamePath": "\"Okta\""
+  },
+  "OracleCloud": {
+   "urls": [
+    "*://*.oraclecloud.com/*/CandidateExperience/*/sites/*/*/preview/*",
+    "*://*.oraclecloud.com/*/CandidateExperience/*/sites/*/job/*",
+    "*://*/*/sites/*/jobs/preview/*/apply/*"
+   ],
+   "banners": [
+    {
+     "containerPath": ".//div[@class=\"job-details__section\"]",
+     "containerMethod": "prepend"
+    }
+   ],
+   "jobTitlePath": [
+    ".//h1[contains(@class, \"job-details__title\")]",
+    ".//div[@class=\"app-header__current-page-title\" and @aria-describedby=\"job-details-apply-flow-dropdown\"]"
+   ],
+   "jobDescriptionPath": ".//div[@class=\"job-details__section\"]//ancestor::div[@class=\"cc-section__content\"]",
+   "jobLocationPath": ".//span[contains(@data-bind, \"primaryLocation\")]",
+   "jobCompanyNamePath": [
+    ".//meta[@property=\"og:site_name\"]/@content",
+    ".//h2[contains(@class, \"talent-community-tile__title\")]"
+   ]
+  },
+  "Paylocity": {
+   "urls": [
+    "*://*.paylocity.com/recruiting/*",
+    "*://*.paylocity.com/Recruiting/*"
+   ],
+   "banners": [
+    {
+     "containerPath": ".//div[@class=\"job-preview-details\"]",
+     "containerMethod": "prepend"
+    }
+   ],
+   "jobTitlePath": [
+    ".//span[contains(@class, \"job-preview-title\")]",
+    ".//div[contains(@class, \"ats-form-subheading\")]//span[contains(@class, \"job-apply-title\")]"
+   ],
+   "jobCompanyNamePath": [
+    ".//h2[@id=\"LayoutLogoName\"]"
+   ],
+   "jobDescriptionPath": [
+    ".//div[@class=\"job-preview-details\"]",
+    ".//meta[@property=\"og:description\"]/@content"
+   ],
+   "jobLocationPath": [
+    ".//div[@class=\"preview-location\"]",
+    ".//div[contains(@class, \"job-location\")]"
+   ]
+  },
+  "PhenomPeople": {
+   "embeddedPaths": [
+    [
+     ".//head[starts-with(@data-ph-id, \"ph-page-\")]",
+     ".//body[contains(@class, \"job-page\")]"
+    ]
+   ],
+   "banners": [
+    {
+     "containerPath": ".//div[@data-ph-at-id=\"jobdescription-text\"]",
+     "containerMethod": "prepend"
+    }
+   ],
+   "jobTitlePath": ".//h1[@class=\"job-title\"]",
+   "jobDescriptionPath": ".//div[@data-ph-at-id=\"jobdescription-text\"]",
+   "jobLocationPath": [
+    ".//div[@class=\"au-target city\"]",
+    ".//div[@class=\"au-target state\"]",
+    ".//div[@class=\"au-target country\"]"
+   ],
+   "jobCompanyNamePath": ".//meta[@property=\"og:site_name\"]/@content"
+  },
+  "PinpointHQ": {
+   "urls": [
+    "*://*.pinpointhq.com/*/postings/*",
+    "*://*.pinpointhq.com/postings/*"
+   ],
+   "embeddedPaths": [
+    [
+     ".//a[contains(., \"Powered by Pinpoint\")]"
+    ]
+   ],
+   "banners": [
+    {
+     "containerPath": ".//div[@class=\"external-panel__inner\"]/header",
+     "containerMethod": "insertAfter"
+    }
+   ],
+   "jobTitlePath": ".//div[@class=\"external-panel__inner\"]//h1[contains(@class, \"external-panel__title\")]",
+   "jobDescriptionPath": ".//div[@class=\"external-panel__inner\"]",
+   "jobLocationPath": ".//dd[@class=\"pinpoint-job-sidebar--location\"]",
+   "jobCompanyNamePath": ".//section[contains(@class, \"careers-hero-block\")]//a//img/@alt"
+  },
+  "Polymer": {
+   "urls": [
+    "*://jobs.polymer.co/*/*"
+   ],
+   "banners": [
+    {
+     "containerPath": ".//section[@aria-label=\"job description\"]",
+     "containerMethod": "insertBefore"
+    }
+   ],
+   "jobTitlePath": ".//main[@class=\"job-details\"]//h1[@class=\"title\"]",
+   "jobDescriptionPath": ".//section[@aria-label=\"job description\"]",
+   "jobLocationPath": ".//main[@class=\"job-details\"]//ul[@class=\"traits\"]/li[last()]",
+   "jobCompanyNamePath": ".//div[class=\"header__company\"]/h1"
+  },
+  "Recruitee": {
+   "urls": [
+    "*://*.recruitee.com/*/*"
+   ],
+   "banners": [
+    {
+     "containerPath": ".//*[contains(@class, \"job-description\")]/parent::div/parent::div/parent::div",
+     "containerMethod": "prepend"
+    }
+   ],
+   "jobTitlePath": ".//span[@data-cy=\"department-name\"]//ancestor::div/h1",
+   "jobDescriptionPath": ".//*[contains(@class, \"job-description\")]/parent::*",
+   "jobLocationPath": ".//span[contains(@class, \"job-location-city\")]/parent::*",
+   "jobCompanyNamePath": ".//a[contains(@class, \"navigation-logo\")]/img/@alt"
+  },
+  "Rippling": {
+   "urls": [
+    "*://*.rippling-ats.com/job/*/*",
+    "*://ats.rippling.com/*/jobs/*"
+   ],
+   "banners": [
+    {
+     "containerPath": ".//div[@id=\"careers-page-job\"]//div[contains(@class, \"job-content-header\")]",
+     "containerMethod": "insertAfter"
+    },
+    {
+     "containerPath": ".//div[@id=\"__next\"]/div/div/div/div/h2[@class=\"css-10i6wsd-H2Element\"]",
+     "containerMethod": "insertAfter"
+    }
+   ],
+   "jobTitlePath": [
+    ".//div[contains(@class, \"job-title-container\")]/h2",
+    ".//div[@id=\"__next\"]/div/div/div/div/h2[@class=\"css-10i6wsd-H2Element\"]",
+    "substring-after(.//title[starts-with(., \"Apply - \")], \"Apply - \")",
+    ".//title"
+   ],
+   "jobDescriptionPath": [
+    ".//div[@id=\"careers-page-job\"]//div[contains(@class, \"job-content-body\")]",
+    ".//div[@id=\"__next\"]/div/div/div/div/h2[@class=\"css-10i6wsd-H2Element\"]/following-sibling::div//div[@class=\"ATS_htmlPreview\"]"
+   ],
+   "jobLocationPath": [
+    ".//span[contains(@class, \"job-content-location\")]",
+    ".//span[@data-icon=\"LOCATION_OUTLINE\"]/following-sibling::p"
+   ],
+   "jobCompanyNamePath": [
+    "substring-after(.//meta[@property=\"og:title\" and contains(@content, \" | \")]/@content, \" | \")",
+    "substring-after(.//title, \" @ \")",
+    "substring(.//div[contains(@class, \"company-logo\")]//img[starts-with(@alt, \"Link to \")]/@alt, 9)",
+    ".//div[contains(@class, \"company-logo\")]//img/@alt",
+    ".//title"
+   ]
+  },
+  "Roblox": {
+   "urls": [
+    "*://jobs.roblox.com/careers*",
+    "*://careers.roblox.com/jobs/*"
+   ],
+   "banners": [
+    {
+     "containerPath": ".//rbx-ui-section[contains(@class, \"job-description\")]//rbx-ui-text-block",
+     "containerMethod": "prepend",
+     "bannerClassName": "mx-auto w-full max-w-3xl flex items-center justify-start text-center text-md my-12 p-0 border-2 border-[#eceff5] whitespace-nowrap leading-normal rounded-2xl text-[#3f525b] bg-white overflow-hidden hover:shadow-md focus:outline-none transition ease-in-out duration-150"
+    }
+   ],
+   "jobTitlePath": ".//rbx-ui-section-hero//h2[@class=\"heading lg-alt\"]",
+   "jobDescriptionPath": ".//rbx-ui-section[contains(@class, \"job-description\")]//rbx-ui-text-block",
+   "jobLocationPath": ".//div[@class=\"captions\"]/span[1]",
+   "jobCompanyNamePath": "\"Roblox\""
+  },
+  "SmartRecruiters": {
+   "urls": [
+    "*://jobs.smartrecruiters.com/*/*"
+   ],
+   "banners": [
+    {
+     "containerPath": ".//main[contains(@class, \"jobad-main\")]",
+     "containerMethod": "prepend"
+    }
+   ],
+   "jobTitlePath": ".//h1[contains(@class, \"job-title\")]",
+   "jobDescriptionPath": ".//main[contains(@class, \"jobad-main\")]",
+   "jobLocationPath": ".//spl-job-location/@formattedaddress",
+   "jobCompanyNamePath": ".//meta[@itemprop=\"hiringOrganization\"]/@content"
+  },
+  "SuccessFactors": {
+   "embeddedPaths": [
+    [
+     ".//link[contains(@href, \"successfactors\") or contains(@href, \"sapsf\")]",
+     ".//div[@class=\"jobDisplay\"]"
+    ],
+    [
+     ".//link[contains(@href, \"successfactors\") or contains(@href, \"sapsf\")]",
+     ".//input[@type=\"hidden\" and @id=\"career_job_req_id\" and string-length(@value) > 0]"
+    ]
+   ],
+   "banners": [
+    {
+     "containerPath": ".//div[@class=\"jobDisplay\"]//div[@class=\"job\"]",
+     "containerMethod": "insertBefore"
+    }
+   ],
+   "jobTitlePath": [
+    ".//meta[@property=\"og:title\" or @name=\"twitter:title\"]/@content",
+    ".//meta[@property=\"og:description\" or @name=\"twitter:description\"]/@content",
+    ".//div[@class=\"jobDisplay\"]//div[@class=\"job\"]//h1",
+    "substring-after(.//h1[contains(., \"Career Opportunities:\")], \"Career Opportunities: \")",
+    ".//title"
+   ],
+   "jobDescriptionPath": [
+    ".//div[@class=\"jobDisplay\"]//div[@class=\"job\"]"
+   ],
+   "jobLocationPath": [
+    ".//meta[@itemprop=\"addressLocality\"]/@content",
+    ".//meta[@itemprop=\"addressRegion\"]/@content",
+    ".//meta[@itemprop=\"addressCountry\"]/@content",
+    "substring-after(.//b[normalize-space()=\"Cities\"]/following-sibling::text()[1], \":\")",
+    "substring-after(.//b[normalize-space()=\"City\"]/following-sibling::text()[1], \":\")",
+    "substring-after(.//b[normalize-space()=\"Location\"]/following-sibling::text()[1], \":\")"
+   ],
+   "jobCompanyNamePath": [
+    "substring-after(.//title, \" @ \")",
+    ".//a[.//img[contains(@src, \"rmkcdn.successfactors.com\")]]/@title",
+    "substring(.//div[contains(@class, \"company-logo\")]//img[starts-with(@alt, \"Link to \")]/@alt, 9)",
+    ".//div[contains(@class, \"company-logo\")]//img/@alt",
+    ".//title"
+   ]
+  },
+  "Taleo": {
+   "urls": [
+    "*://*.taleo.net/*/ats/careers/*",
+    "*://*.taleo.net/careersection/*/jobdetail.ftl*"
+   ],
+   "banners": [
+    {
+     "containerPath": [
+      ".//div[@name=\"cwsJobDescription\"]",
+      ".//td[@class=\"columnfull\"]/div[@class=\"editablesection\"]"
+     ],
+     "containerMethod": "prepend"
+    }
+   ],
+   "jobTitlePath": [
+    ".//div[contains(@class, \"oracletaleocwsv2-job-description\")]/strong",
+    ".//span[@id=\"requisitionDescriptionInterface.reqTitleLinkAction.row1\"]",
+    ".//meta[@property=\"og:title\"]/@content"
+   ],
+   "jobDescriptionPath": [
+    ".//div[@name=\"cwsJobDescription\"]",
+    ".//td[@class=\"columnfull\"]/div[@class=\"editablesection\"]"
+   ],
+   "jobLocationPath": [
+    ".//div[contains(@class, \"oracletaleocwsv2-job-description\")]//span[@class=\"small\" and contains(., \"City\")]/following-sibling::strong",
+    ".//div[contains(@class, \"oracletaleocwsv2-job-description\")]//span[@class=\"small\" and contains(., \"Country\")]/following-sibling::strong",
+    ".//span[@class=\"subtitle\" and contains(., \"Location\")]//ancestor::div[@class=\"contentlinepanel\"]//span[@class=\"text\"]"
+   ],
+   "jobCompanyNamePath": [
+    ".//a[contains(@class, \"brand\")]/img/@alt",
+    ".//a[contains(@class, \"brand\")]/*[@aria-label]/@aria-label",
+    ".//div[@id=\"header\"]//img/@alt",
+    ".//li[@role=\"menuitem\"]//a"
+   ]
+  },
+  "TalNet": {
+   "urls": [
+    "*://*.tal.net/**/opp/**"
+   ],
+   "banners": [
+    {
+     "containerPath": ".//div[@id=\"vac_desc\"]/h1[@class=\"section\"]",
+     "containerMethod": "insertAfter"
+    }
+   ],
+   "jobTitlePath": ".//div[@id=\"vac_desc\"]/h1[@class=\"section\"]",
+   "jobDescriptionPath": [
+    ".//label[contains(@class, \"eform_field_label\") and child::span[starts-with(., \"Job description\")]]/following-sibling::div[1]",
+    ".//label[contains(@class, \"eform_field_label\") and child::span[starts-with(., \"Job Description\")]]/following-sibling::div[1]"
+   ],
+   "jobLocationPath": [
+    ".//label[contains(@class, \"eform_field_label\") and child::span[starts-with(., \"Location\")]]/following-sibling::div[1]",
+    ".//label[contains(@class, \"eform_field_label\") and child::span[starts-with(., \"State\")]]/following-sibling::div[1]",
+    ".//label[contains(@class, \"eform_field_label\") and child::span[starts-with(., \"City\")]]/following-sibling::div[1]",
+    ".//label[contains(@class, \"eform_field_label\") and child::span[starts-with(., \"Country\")]]/following-sibling::div[1]"
+   ],
+   "jobCompanyNamePath": [
+    "substring-before(.//div[@class=\"logo-container\"]//title[contains(., \" Logo\")], \" Logo\")",
+    ".//div[@class=\"logo-container\"]//title",
+    ".//div[@class=\"logo-container\"]/following-sibling::div[1]/a[contains(@class, \"text-muted\")]",
+    ".//div[@id=\"branding-footer\"]/div[@id=\"footer-content\"]/a[@target=\"_blank\"]"
+   ]
+  },
+  "Teamtailor": {
+   "embeddedPaths": [
+    [
+     ".//main[@data-controller=\"careersite--jobs--form-overlay\"]/section/div[starts-with(@data-controller, \"careersite\")]"
+    ]
+   ],
+   "banners": [
+    {
+     "containerPath": ".//main[@data-controller=\"careersite--jobs--form-overlay\"]/section/div[starts-with(@data-controller, \"careersite\")]",
+     "containerMethod": "prepend"
+    }
+   ],
+   "jobTitlePath": [
+    ".//h1[@data-controller=\"fit-title\"]/span"
+   ],
+   "jobDescriptionPath": [
+    ".//main[@data-controller=\"careersite--jobs--form-overlay\"]/section/div[starts-with(@data-controller, \"careersite\")]"
+   ],
+   "jobLocationPath": [
+    ".//dt[starts-with(., \"Location\")]/following-sibling::dd"
+   ],
+   "jobCompanyNamePath": [
+    ".//meta[@property=\"og:site_name\"]/@content",
+    "substring-before(.//img[contains(@alt, \" career site\")]/@alt, \" career site\")"
+   ]
+  },
+  "Tesla": {
+   "urls": [
+    "*://*.tesla.com/careers/*"
+   ],
+   "banners": [
+    {
+     "containerPath": ".//div[contains(@class, \"tds-content_container\")]/div[contains(@class, \"description\")]",
+     "containerMethod": "prepend"
+    }
+   ],
+   "jobTitlePath": [
+    ".//div[contains(@class, \"tds-content_container\")]/h1",
+    ".//form[contains(@class, \"job-application-form\")]/parent::*/h1/following-sibling::span[contains(@class, \"tds-text\")]"
+   ],
+   "jobDescriptionPath": [
+    ".//div[contains(@class, \"tds-content_container\")]/div[contains(@class, \"description\")]"
+   ],
+   "jobLocationPath": [
+    ".//tr[@class=\"tds-table-row\" and descendant::th[contains(., \"Location\")]]/td"
+   ],
+   "jobCompanyNamePath": "\"Tesla\""
+  },
+  "TriNetHire": {
+   "urls": [
+    "*://app.trinethire.com/companies/*/jobs/*"
+   ],
+   "banners": [
+    {
+     "containerPath": ".//div[@class=\"job-descr content\"]",
+     "containerMethod": "prepend"
+    }
+   ],
+   "jobTitlePath": [
+    ".//h3[@class=\"job-name\"]"
+   ],
+   "jobDescriptionPath": [
+    ".//div[@class=\"job-descr content\"]"
+   ],
+   "jobLocationPath": [
+    ".//ul[@class=\"job-meta\"]/li/span[@class=\"map-pin-icon\"]/following-sibling::text()"
+   ],
+   "jobCompanyNamePath": ".//div[@class=\"header-top\"]//a/img/@alt"
+  },
+  "Uber": {
+   "urls": [
+    "*://*.uber.com/*/*/careers/list/*",
+    "*://*.uber.com/*/careers/list/*",
+    "*://*.uber.com/careers/list/*"
+   ],
+   "pathsExcluded": [
+    [
+     ".//h2[contains(., \"Find open roles\")]"
+    ]
+   ],
+   "banners": [
+    {
+     "containerPath": ".//a[@text=\"Apply Now\"]/parent::div/following-sibling::div",
+     "containerMethod": "prepend"
+    }
+   ],
+   "jobTitlePath": ".//div[@class=\"ccb-job-details\"]//h1",
+   "jobDescriptionPath": ".//a[@text=\"Apply Now\"]/parent::div/following-sibling::div",
+   "jobLocationPath": [
+    "substring(.//div[@class=\"ccb-job-details\"]//h1/following-sibling::div/div[starts-with(., \"in \")], 4)",
+    "substring-after(.//title[contains(., \" - \")], \" - \")",
+    ".//title"
+   ],
+   "jobCompanyNamePath": "\"Uber\""
+  },
+  "Ultipro": {
+   "urls": [
+    "*://*.ultipro.com/*/JobBoard/*/OpportunityDetail*",
+    "*://*.ultipro.ca/*/JobBoard/*/OpportunityDetail*",
+    "*://*.rec.pro.ukg.net/*/JobBoard/*/OpportunityDetail*"
+   ],
+   "banners": [
+    {
+     "containerPath": ".//div[@id=\"opportunityDetailView\"]//div[@class=\"row header\"]",
+     "containerMethod": "insertAfter"
+    }
+   ],
+   "jobTitlePath": ".//span[@data-automation=\"opportunity-title\"]",
+   "jobDescriptionPath": [
+    ".//p[@class=\"opportunity-description\"]",
+    ".//h2[@data-automation=\"jog-details-title\"]/parent::*/parent::*/parent::*"
+   ],
+   "jobLocationPath": [
+    ".//div[@data-automation=\"physical-location\"]//span[@data-automation=\"city-state-zip-country-label\"]",
+    ".//span[@data-automation=\"name-and-location-id-label\"]"
+   ],
+   "jobCompanyNamePath": [
+    ".//a/img[contains(@class, \"-logo\")]/@alt"
+   ]
+  },
+  "Waymo": {
+   "urls": [
+    "*://waymo.com/joinus/*"
+   ],
+   "banners": [
+    {
+     "containerPath": ".//div[@class=\"careers-posting__description\"]",
+     "containerMethod": "insertBefore"
+    }
+   ],
+   "jobTitlePath": ".//h1[@class=\"careers-posting__title\"]",
+   "jobDescriptionPath": ".//div[@class=\"careers-posting__description\"]",
+   "jobLocationPath": ".//div[@class=\"careers-posting__locations__location\"]",
+   "jobCompanyNamePath": "\"Waymo\""
+  },
+  "WelcomeToTheJungle": {
+   "urls": [
+    "*://app.welcometothejungle.com/dashboard/jobs*",
+    "*://app.welcometothejungle.com/jobs*"
+   ],
+   "urlsExcluded": [
+    "*://app.welcometothejungle.com/jobs/batch-end*"
+   ],
+   "banners": [
+    {
+     "containerPath": ".//h2[contains(., \"Role\")]/following-sibling::div",
+     "containerMethod": "prepend"
+    }
+   ],
+   "jobTitlePath": [
+    ".//h1[@data-testid=\"job-title\"]/text()",
+    ".//h1[@data-testid=\"job-title\"]",
+    ".//h2[@data-testid=\"job-title\"]",
+    ".//h1[not(ancestor::header)]"
+   ],
+   "stripCompanyFromTitle": true,
+   "jobDescriptionPath": ".//h2[contains(., \"Role\")]/following-sibling::div",
+   "jobLocationPath": ".//div[@data-testid=\"job-location-tag\"]",
+   "jobCompanyNamePath": [
+    ".//div[@data-testid=\"company-logo\"]//img/@alt",
+    ".//h1[@data-testid=\"job-title\"]//a"
+   ]
+  },
+  "Workable": {
+   "urls": [
+    "*://apply.workable.com/*",
+    "*://jobs.workable.com/search/*?selectedJobId=*"
+   ],
+   "banners": [
+    {
+     "containerPath": ".//*[@data-ui=\"job-description\"]",
+     "containerMethod": "prepend"
+    },
+    {
+     "containerPath": ".//div[starts-with(@class, \"jobBreakdown\")]",
+     "containerMethod": "prepend"
+    }
+   ],
+   "jobTitlePath": ".//h1[@data-ui=\"job-title\"]",
+   "jobDescriptionPath": [
+    ".//div[@data-ui=\"job-description\"]/div",
+    ".//div[starts-with(@class, \"jobBreakdown\")]"
+   ],
+   "jobLocationPath": ".//span[@data-ui=\"job-location\"]",
+   "jobCompanyNamePath": ".//a[@data-ui=\"company-logo\"]/img/@alt"
+  },
+  "Workday": {
+   "urls": [
+    "*://*.myworkdayjobs.com/*/details*",
+    "*://*.myworkdaysite.com/*/details*",
+    "*://*.myworkdayjobs.com/*/*/details*",
+    "*://*.myworkdaysite.com/*/*/details*",
+    "*://*.myworkdayjobs.com/*/job/*",
+    "*://*.myworkdaysite.com/*/job/*",
+    "*://*.myworkdayjobs.com/*/*/job/*",
+    "*://*.myworkdaysite.com/*/*/job/*"
+   ],
+   "banners": [
+    {
+     "containerPath": [
+      ".//div[@data-automation-id=\"jobPostingDescription\"]"
+     ],
+     "containerMethod": "insertBefore"
+    }
+   ],
+   "jobTitlePath": ".//h2[@data-automation-id=\"jobPostingHeader\"]",
+   "jobDescriptionPath": ".//div[@aria-label=\"Job Posting Description\"]//div[@data-automation-id=\"jobPostingDescription\"]",
+   "jobLocationPath": ".//div[@aria-label=\"Job Posting Description\"]//div[@data-automation-id=\"locations\"]/dl/dd",
+   "jobCompanyNamePath": "substring(.//img[@data-automation-id=\"banner\"]/@src, 2, string-length(.//img[@data-automation-id=\"banner\"]/@src) - 15)"
+  },
+  "ByteDance": {
+   "urls": [
+    "*://jobs.bytedance.com/*/*/*/detail*",
+    "*://joinbytedance.com/search/*"
+   ],
+   "banners": [
+    {
+     "containerPath": ".//div[contains(@class, \"job-info\")]",
+     "containerMethod": "insertAfter"
+    },
+    {
+     "containerPath": ".//p[contains(@class, \"bd-title\") and (contains(., \"Job Information\") or contains(., \"Qualifications\") or contains(., \"Responsibilities\"))]/parent::*/parent::*",
+     "containerMethod": "insertBefore"
+    }
+   ],
+   "jobTitlePath": [
+    ".//div[contains(@class, \"job-title\")]",
+    ".//title"
+   ],
+   "jobDescriptionPath": [
+    ".//div[contains(@class, \"jobDetail\")]",
+    ".//p[contains(@class, \"bd-title\") and (contains(., \"Job Information\") or contains(., \"Qualifications\") or contains(., \"Responsibilities\"))]/parent::*/parent::*/parent::*"
+   ],
+   "jobLocationPath": [
+    ".//div[contains(@class, \"job-info\")]/span[contains(@class, \"infoText\")][1]",
+    ".//p[@class=\"font-[700]\" and starts-with(., \"Location\")]/parent::div/p[2]"
+   ],
+   "jobCompanyNamePath": "\"ByteDance\""
+  }
+ }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "jobapplier-e2e",
+  "private": true,
+  "type": "module",
+  "devDependencies": {
+    "playwright": "^1.61.1"
+  },
+  "dependencies": {
+    "pdfjs-dist": "^3.11.174"
+  }
+}

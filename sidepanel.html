@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>jobApplier</title>
+  <link rel="stylesheet" href="sidepanel.css">
+</head>
+<body>
+  <header>
+    <h1>jobApplier</h1>
+    <nav class="tabs">
+      <button class="tab active" data-view="apply">Apply</button>
+      <button class="tab" data-view="applications">Applications</button>
+      <button class="tab" data-view="tailor">Tailor</button>
+      <button class="tab" data-view="profile">Profile</button>
+      <button class="tab" data-view="settings">Settings</button>
+    </nav>
+  </header>
+
+  <section id="view-apply" class="view">
+    <div id="targetInfo" class="target-line">No page scanned yet.</div>
+    <div id="spendLine" class="spend-line">Spend: $0.0000 session · $0.0000 total</div>
+    <div class="btn-row">
+      <button id="scanBtn">Scan page</button>
+      <button id="autofillBtn" class="primary">Autofill</button>
+      <button id="coverBtn">Cover letter</button>
+      <button id="nextPageBtn" hidden>Fill next page ▸</button>
+    </div>
+    <label class="checkbox-row"><input type="checkbox" id="dryRun"> Dry run — map fields but don't fill</label>
+    <div id="applyOut" class="chat-window"></div>
+  </section>
+
+  <section id="view-applications" class="view" hidden>
+    <div id="appsCounts" class="apps-counts"></div>
+    <div class="apps-subtabs btn-row">
+      <button id="appsListTab" class="subtab active">Applications</button>
+      <button id="appsBreaksTab" class="subtab">Breaks</button>
+    </div>
+
+    <div id="appsListPane">
+      <div class="apps-filters">
+        <input type="search" id="appsSearch" placeholder="Search company / title / URL…" spellcheck="false">
+        <div class="btn-row">
+          <select id="appsAtsFilter"><option value="">All ATSes</option></select>
+          <select id="appsStatusFilter">
+            <option value="">Any status</option>
+            <option value="started">Started</option>
+            <option value="submitted">Submitted</option>
+          </select>
+          <select id="appsSinceFilter">
+            <option value="">Any time</option>
+            <option value="1">Today</option>
+            <option value="7">Last 7 days</option>
+            <option value="30">Last 30 days</option>
+          </select>
+        </div>
+      </div>
+      <div id="appsList" class="apps-list"></div>
+    </div>
+
+    <div id="appsBreaksPane" hidden>
+      <div class="hint">Every field that failed, hit an unimplemented path, or fell to the
+        LLM where the config should have covered it — the per-ATS backlog of which
+        <code>ats-selectors.json</code> entry rotted. Snapshots are scrubbed and local-only.
+        “Copy fix JSON” dumps everything needed to patch offline (no live form).</div>
+      <div id="breaksAgg" class="breaks-agg"></div>
+      <div id="breaksList" class="apps-list"></div>
+    </div>
+  </section>
+
+  <section id="view-tailor" class="view" hidden>
+    <div class="hint">Tailors your résumé to the scanned job by reordering and re-emphasizing
+      <strong>real</strong> content — it never invents skills, numbers, titles, or dates
+      (a fabrication check runs on every result). The employer receives the
+      <strong>regenerated</strong> PDF <strong>only</strong> for jobs you approve here;
+      every other job uploads your original PDF unchanged.</div>
+    <div class="btn-row">
+      <button id="tailorBtn" class="primary">Tailor for this job</button>
+      <button id="tailorDiffToggle" hidden>Show diff</button>
+      <span id="tailorStatus" class="status-inline"></span>
+    </div>
+    <div id="tailorJdWrap" hidden>
+      <label>Couldn't read a job description from the page — paste the full posting here,
+        then click Tailor again.</label>
+      <textarea id="tailorJdInput" placeholder="Paste the full job description…" spellcheck="false"></textarea>
+    </div>
+    <div id="tailorOut"></div>
+
+    <div id="tailorCompare" class="tailor-compare" hidden>
+      <figure id="tailorPaneLeft" class="tailor-pane">
+        <figcaption class="tailor-pane-cap">Your uploaded PDF
+          <span class="tailor-pane-sub">— rendered exactly as-is</span></figcaption>
+        <div class="tailor-canvas-wrap"><canvas id="tailorCanvasLeft"></canvas></div>
+      </figure>
+      <figure class="tailor-pane">
+        <figcaption class="tailor-pane-cap">Tailored PDF
+          <span class="tailor-pane-sub">— regenerated from your content, not your original
+            layout. This is the exact file that uploads once you approve it.</span></figcaption>
+        <div class="tailor-canvas-wrap"><canvas id="tailorCanvasRight"></canvas></div>
+      </figure>
+    </div>
+
+    <div id="tailorDiff" class="tailor-diff" hidden></div>
+    <div id="tailorMeter" class="tailor-meter" hidden></div>
+    <div id="tailorKeywords" class="tailor-keywords" hidden></div>
+    <div id="tailorFlags" class="tailor-flags" hidden></div>
+    <div id="tailorConfirm" class="tailor-confirm" hidden></div>
+
+    <div id="tailorActions" class="btn-row sticky-actions" hidden>
+      <button id="tailorApproveBtn" class="primary">Approve &amp; save</button>
+      <button id="tailorDiscardBtn">Discard</button>
+      <button id="tailorDownloadBtn" disabled>Download PDF</button>
+    </div>
+  </section>
+
+  <section id="view-profile" class="view" hidden>
+    <div class="hint">Everything stays in <code>chrome.storage.local</code>. Only per-request
+      context is sent to OpenRouter. Work-authorization and EEO answers are filled verbatim
+      from here — the AI is never asked for them.</div>
+    <div class="btn-row">
+      <button id="importResumeBtn">Import résumé (PDF)</button>
+      <input type="file" id="resumeFile" accept="application/pdf,.pdf" hidden>
+      <span id="importStatus" class="status-inline"></span>
+    </div>
+    <div class="hint">Fills the editor below from your CV (text-layer PDFs only) — review,
+      then Save. Work-authorization / EEO sections are never touched by the import.
+      The PDF itself is stored locally for form uploads.</div>
+    <div id="resumeFileLine" class="hint"></div>
+    <div id="importOut"></div>
+    <div id="profileForm"></div>
+    <div class="btn-row sticky-actions">
+      <button id="saveProfileBtn" class="primary">Save profile</button>
+      <button id="loadSampleBtn" title="Michael Scott test fixture">Load sample</button>
+      <span id="profileStatus" class="status-inline"></span>
+    </div>
+  </section>
+
+  <section id="view-settings" class="view" hidden>
+    <label>OpenRouter API key</label>
+    <input type="password" id="apiKey" placeholder="sk-or-v1-… (paste here)" autocomplete="off" spellcheck="false">
+    <label>Model</label>
+    <input type="text" id="model" placeholder="z-ai/glm-5.2" spellcheck="false">
+    <div class="hint">Thinking is always on — enforced in code for whatever model you paste,
+      not a setting.</div>
+    <label>API base URL (leave default unless testing)</label>
+    <input type="text" id="apiBase" placeholder="https://openrouter.ai/api/v1" spellcheck="false">
+
+    <hr>
+    <h2>Spend</h2>
+    <div id="spendSettingsLine" class="hint"></div>
+    <div class="btn-row"><button id="resetSpendBtn">Reset total spend counter</button></div>
+
+    <hr>
+    <h2>Reference config</h2>
+    <div class="hint">Re-extracts <code>reference/*.json</code> from the installed source
+      extension via <code>reference/refresh.js</code>, shows what changed, and reloads the
+      config from disk. Requires the one-time native-host install:
+      <code>bash scripts/native-host/install.sh</code></div>
+    <div class="btn-row"><button id="refreshCfgBtn">Refresh config from local</button></div>
+    <div id="lastRefresh" class="hint"></div>
+    <pre id="refreshOut" class="refresh-out" hidden></pre>
+  </section>
+
+  <script src="profile-schema.js"></script>
+  <script src="config-engine.js"></script>
+  <script src="ai.js"></script>
+  <script src="tracker.js"></script>
+  <script src="tailor-core.js"></script>
+  <!-- vendor/pdf.min.js + vendor/pdfmake.min.js are lazy-loaded (résumé import / tailor preview) — a MB of parse otherwise paid on every panel open -->
+  <script src="sidepanel.js"></script>
+</body>
+</html>

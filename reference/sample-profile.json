@@ -1,0 +1,224 @@
+{
+ "email": "mscott@simplify.jobs",
+ "active": true,
+ "first_name": "Michael",
+ "last_name": "Scott",
+ "birthday": "1965-03-15",
+ "created_at": "2021-11-20T00:21:57.291040",
+ "phone": "+15705558977",
+ "phone_country_code": "+1",
+ "phone_raw_number": "5705558977",
+ "scout_id": null,
+ "scout_onboarding_completed": false,
+ "location": "Scranton, PA, USA",
+ "work_auth_us": true,
+ "work_auth_ca": true,
+ "work_auth_uk": true,
+ "sponsorship": false,
+ "disability_v2": 2,
+ "veteran_v2": 2,
+ "lgbt_v2": 2,
+ "gender": 1,
+ "ethnicity": [
+  "White"
+ ],
+ "linkedin": "https://www.linkedin.com/in/mscott",
+ "github": "https://github.com/mscott",
+ "portfolio": "https://en.wikipedia.org/wiki/Michael_Scott_(The_Office)",
+ "additional_url": "https://characters.fandom.com/wiki/Michael_Scott",
+ "id": "223badfd-9549-4795-9d5a-57d39a425206",
+ "resume_path": "223badfd-9549-4795-9d5a-57d39a425206/1704468484.pdf",
+ "default_resume_id": "c553d62a-07da-4452-bfe6-d95d77852029",
+ "resume_last_uploaded": "2024-01-05T15:28:05.458866",
+ "preferences_completed": true,
+ "onboarding_completed": true,
+ "education": [
+  {
+   "education_id": "723f94e6-99b9-4d9d-87e6-3953b14a29e1",
+   "major_id": "fa3764cb-f7ac-4078-bf7e-7702fce9ba10",
+   "education_custom_name": null,
+   "major_custom_name": null,
+   "degree": 3,
+   "gpa": 4,
+   "start_month": 6,
+   "start_year": 2000,
+   "grad_month": 6,
+   "grad_year": 2002,
+   "id": "de8c89f4-2038-4554-a87c-296e63de499f",
+   "education": {
+    "name": "Stanford University",
+    "lever": "Stanford University",
+    "greenhouse": "Stanford University",
+    "description": null,
+    "logo": "https://storage.googleapis.com/simplify-imgs/college/723f94e699b94d9d87e63953b14a29e1/logo.png",
+    "id": "723f94e6-99b9-4d9d-87e6-3953b14a29e1"
+   },
+   "major": {
+    "name": "Business",
+    "id": "fa3764cb-f7ac-4078-bf7e-7702fce9ba10",
+    "greenhouse": "Business"
+   }
+  },
+  {
+   "education_id": "58d7b71c-48ee-4d08-a506-0e553f9c9181",
+   "major_id": "fa3764cb-f7ac-4078-bf7e-7702fce9ba10",
+   "education_custom_name": null,
+   "major_custom_name": null,
+   "degree": 1,
+   "gpa": 4,
+   "start_month": 8,
+   "start_year": 1995,
+   "grad_month": 7,
+   "grad_year": 1999,
+   "id": "0470db4e-d087-448d-b8c3-e88c93824a9a",
+   "education": {
+    "name": "University of Scranton",
+    "lever": "University of Scranton",
+    "greenhouse": "University of Scranton",
+    "description": null,
+    "logo": "https://storage.googleapis.com/simplify-imgs/college/58d7b71c48ee4d08a5060e553f9c9181/logo.png",
+    "id": "58d7b71c-48ee-4d08-a506-0e553f9c9181"
+   },
+   "major": {
+    "name": "Business",
+    "id": "fa3764cb-f7ac-4078-bf7e-7702fce9ba10",
+    "greenhouse": "Business"
+   }
+  }
+ ],
+ "experience": [
+  {
+   "company_id": "48a796cf-3910-47bb-8bce-f3d57f358708",
+   "location": "Scranton, PA, USA",
+   "title": "Regional Manager",
+   "type": 2,
+   "start_month": 6,
+   "start_year": 1990,
+   "currently_working": true,
+   "end_month": null,
+   "end_year": null,
+   "description": "- Winner of 3 straight “Best Salesman in Pennsylvania” awards\n- Promoted to manager of Scranton Branch after 5 successful years in sales\n- Increased glossy stock paper sales by 75% over a one month period\n- Collected approximately half of Dunder Mifflin-Scranton’s clients while in sales and as manager\n- Consistently outperformed other Dunder Mifflin branches in revenue and total sales",
+   "id": "f8effca4-0e52-4ac1-9cbc-1dca400f3538",
+   "company": {
+    "name": "Dunder Mifflin",
+    "id": "48a796cf-3910-47bb-8bce-f3d57f358708",
+    "logo": "https://storage.googleapis.com/simplify-imgs/company/default/logo.png",
+    "verified": false
+   }
+  },
+  {
+   "company_id": "e0b472c1-4c5a-440f-915d-f93c2a6efebf",
+   "location": "Chicago, IL, USA",
+   "title": "Software Engineer Intern",
+   "type": 1,
+   "start_month": 2,
+   "start_year": 2018,
+   "currently_working": false,
+   "end_month": 4,
+   "end_year": 2022,
+   "description": "Designed, developed, implemented and tested new software solutions for internal and external partners using HTML, CSS, JavaScript, and PHP, contributing to the successful completion of a major organizational project\nDeveloped extensive technical documentation to accurately and clearly explain new and existing software applications\nAssisted both colleagues and end-users with their technical inquiries, helping them to understand complex system architectures, perform troubleshooting and debugging",
+   "id": "b70e14a5-731e-454e-9351-31a93567448b",
+   "company": {
+    "name": "MEDSmart",
+    "id": "e0b472c1-4c5a-440f-915d-f93c2a6efebf",
+    "logo": "https://storage.googleapis.com/simplify-imgs/company/default/logo.png",
+    "verified": false
+   }
+  },
+  {
+   "company_id": "860b25ad-2fdb-4850-bd69-d757e2a63394",
+   "location": "Scranton, PA, USA",
+   "title": "President",
+   "type": 2,
+   "start_month": 4,
+   "start_year": 2009,
+   "currently_working": false,
+   "end_month": 5,
+   "end_year": 2009,
+   "description": "- Took brief hiatus from Dunder Mifflin to create paper company; was bought out in multi-million dollar deal\n- Outperformed local paper company, Dunder Mifflin, in sales by 80% over one month period\n- Collected 90% of Michael Scott Paper Company client base\n- Claimed 33% of Dunder Mifflin’s client base by offering lower prices and better service",
+   "id": "cedffa91-d7e4-4610-9f4d-28ecd66d89f9",
+   "company": {
+    "name": "Michael Scott Paper Company",
+    "id": "860b25ad-2fdb-4850-bd69-d757e2a63394",
+    "logo": "https://storage.googleapis.com/simplify-imgs/company/default/logo.png",
+    "verified": false
+   }
+  },
+  {
+   "company_id": "e394a2f2-4b4c-4c4f-87d0-5fb324f14af2",
+   "location": "Scranton, PA, USA",
+   "title": "Sales Representative",
+   "type": 3,
+   "start_month": 10,
+   "start_year": 2007,
+   "currently_working": false,
+   "end_month": 10,
+   "end_year": 2007,
+   "description": "- Became known as office expert on cinema and pop culture; was encouraged to write screenplays\n- Developed excellent working relationships with coworkers; including top sales person Vikram\n- Fostered a friendly environment throughout the office",
+   "id": "6b1c0954-1545-4ecb-9575-93a251712d0c",
+   "company": {
+    "name": "Lipaphedrine Diet Pill Company",
+    "id": "e394a2f2-4b4c-4c4f-87d0-5fb324f14af2",
+    "logo": "https://storage.googleapis.com/simplify-imgs/company/default/logo.png",
+    "verified": false
+   }
+  },
+  {
+   "company_id": "b01ebd14-c705-40d3-8509-55e36acf7d25",
+   "location": "Scranton, PA, USA",
+   "title": "Customer Service Consultant",
+   "type": 3,
+   "start_month": 7,
+   "start_year": 1988,
+   "currently_working": false,
+   "end_month": 6,
+   "end_year": 1990,
+   "description": "- Greeted customers and informed them of specials on products including khaki pants; increasing khaki pants revenue by 60%\n- Lead all Men’s Wearhouse stores in sales from 1989-1990\n- Promoted to assistant manager after 3 months of employment",
+   "id": "69c42270-b29d-48e9-8559-592aa79c3597",
+   "company": {
+    "name": "Men’s Wearhouse",
+    "id": "b01ebd14-c705-40d3-8509-55e36acf7d25",
+    "logo": "https://storage.googleapis.com/simplify-imgs/company/default/logo.png",
+    "verified": false
+   }
+  }
+ ],
+ "skill": [
+  {
+   "length": 1,
+   "preferred": false,
+   "skill": {
+    "name": "Adobe After Effects",
+    "description": null,
+    "id": "54567ef6-dc97-42dd-b6c4-b76187aac36a"
+   }
+  },
+  {
+   "length": 1,
+   "preferred": false,
+   "skill": {
+    "name": "Adobe Photoshop",
+    "description": null,
+    "id": "544970db-83a3-4d43-ba4f-da63d15050b6"
+   }
+  },
+  {
+   "length": 1,
+   "preferred": false,
+   "skill": {
+    "name": "Excel/Numbers/Sheets",
+    "description": null,
+    "id": "fe2da375-b10b-4a48-8695-5f46fbda8525"
+   }
+  }
+ ],
+ "language": [],
+ "project": [],
+ "user_id": "d0ed8684-8c5f-4fa6-819e-800c7ba2fc1e",
+ "subscription_status": 0,
+ "eligible_for_attribution": true,
+ "work_auth": true,
+ "resume_download": "https://www.googleapis.com/download/storage/v1/b/simplify-public-assets/o/tutorial-resume%2F1704468484.pdf?alt=media",
+ "resume_preview": "https://storage.googleapis.com/simplify-public-assets/tutorial-resume/1704468484.pdf",
+ "resume": "https://www.googleapis.com/download/storage/v1/b/simplify-public-assets/o/tutorial-resume%2F1704468484.pdf?alt=media"
+}
