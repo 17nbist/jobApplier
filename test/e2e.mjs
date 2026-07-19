@@ -205,6 +205,28 @@ try {
   check("cover letter streamed into panel", gotLetter);
   await panel.screenshot({ path: path.join(ART, "panel-cover-letter.png"), fullPage: true });
 
+  // ---- cover letter with PASTED job details (override path): the paste must replace the
+  // scraped JD in the request (mock echoes the JA-TEST-PASTED-JD marker back into the
+  // letter) and the panel must announce it's using the paste.
+  await panel.evaluate(() => {
+    document.getElementById("coverJdWrap").open = true;
+    document.getElementById("coverJdInput").value =
+      "JA-TEST-PASTED-JD: senior backend role, Ruby, payments infrastructure.";
+  });
+  await panel.click("#coverBtn");
+  await panel.waitForFunction(
+    () => [...document.querySelectorAll(".bubble")].some((b) => /JA-TEST-PASTED-JD echo/.test(b.innerText)) ||
+          [...document.querySelectorAll(".bubble.error-msg")].some((b) => /Cover letter failed/.test(b.innerText)),
+    null,
+    { timeout: 180000 },
+  );
+  const pasteEchoed = await panel.evaluate(
+    () => [...document.querySelectorAll(".bubble")].some((b) => /JA-TEST-PASTED-JD echo/.test(b.innerText)));
+  check("pasted job details reached the model request (override path)", pasteEchoed);
+  const saidUsingPaste = await panel.evaluate(
+    () => [...document.querySelectorAll(".bubble")].some((b) => /Using your pasted job details/.test(b.innerText)));
+  check("panel announced the paste override", saidUsingPaste);
+
   // ---- spend counter visible and accumulating (user requirement)
   const spendText = await panel.locator("#spendLine").innerText();
   const spendSession = Number((spendText.match(/\$([\d.]+) session/) || [])[1] || 0);

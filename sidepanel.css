@@ -48,6 +48,11 @@ button:disabled { opacity: 0.5; cursor: default; }
 
 .checkbox-row { display: flex; gap: 6px; align-items: center; color: #aab6d9; font-size: 12px; }
 
+.cover-jd > summary { cursor: pointer; color: #8b93a7; font-size: 12px; }
+.cover-jd[open] > summary { color: #aab6d9; }
+.cover-jd .hint { margin: 4px 0; }
+.cover-jd textarea { width: 100%; min-height: 70px; }
+
 .chat-window {
   flex: 1; min-height: 0; overflow-y: auto;
   background: #161a24; border: 1px solid #2b3145; border-radius: 8px;

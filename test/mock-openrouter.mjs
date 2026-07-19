@@ -192,6 +192,8 @@ function respond(req, res, body) {
       "",
       "This is a deterministic mock cover letter produced by the local test double so the",
       "streaming pipeline, thinking display, and copy button can be exercised offline.",
+      // e2e hook: proves a panel-pasted JD actually landed in this request's prompt.
+      ...(/JA-TEST-PASTED-JD/.test(user) ? ["", "Pasted job details reached the model (JA-TEST-PASTED-JD echo)."] : []),
       "",
       "Sincerely,",
       "Testy McTestface",

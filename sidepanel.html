@@ -27,6 +27,13 @@
       <button id="nextPageBtn" hidden>Fill next page ▸</button>
     </div>
     <label class="checkbox-row"><input type="checkbox" id="dryRun"> Dry run — map fields but don't fill</label>
+    <details id="coverJdWrap" class="cover-jd">
+      <summary>Job details for the cover letter (optional)</summary>
+      <div class="hint">Pasted text replaces whatever the scan reads off the page — use it when
+        the page scrape is noisy or empty. A paste left over from a different posting is
+        dropped automatically.</div>
+      <textarea id="coverJdInput" placeholder="Paste the job description / key details…" spellcheck="false"></textarea>
+    </details>
     <div id="applyOut" class="chat-window"></div>
   </section>
 

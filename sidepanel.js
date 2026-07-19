@@ -16,6 +16,7 @@ let state = { apiKey: "", model: JA_AI.DEFAULT_MODEL, apiBase: "", lastRefresh: 
 let profile = jaEmptyProfile();
 let inFlight = false;
 let lastCoverLetter = null; // { text, company, url } — job-bound; never crosses postings
+let coverJdUsedFor = null; // { url, text } — which posting last consumed the pasted job details
 let flowState = null; // { tabId, atsName, entry, pages } while a multi-page flow is active
 const els = {};
 const reportRows = new Map(); // ref -> {chipEl, valEl}
@@ -1079,8 +1080,24 @@ async function doCoverLetter() {
     // Always rescan: a stale scrape would draft the letter for the PREVIOUS job
     // after the tab navigates to a new posting.
     const { schema } = await doScan({ quiet: true });
-    const job = schema.job;
-    if (!job.description) warn("No job description found on the page — the letter will lean on the title only.");
+    const job = { ...schema.job };
+    // Pasted job details override the scraped description: on non-configured career sites
+    // the heuristic scrape sweeps nav/footer noise into the JD (or finds nothing at all).
+    // The paste is job-bound like the letter itself — the same text reused on a DIFFERENT
+    // posting is a leftover, not an instruction, and is dropped instead of leaking in.
+    let pastedJd = (els.coverJdInput.value || "").trim();
+    if (pastedJd && coverJdUsedFor && coverJdUsedFor.text === pastedJd && coverJdUsedFor.url !== (job.url || "")) {
+      els.coverJdInput.value = "";
+      pastedJd = "";
+      warn("Cleared pasted job details left over from the previous posting.");
+    }
+    if (pastedJd) {
+      job.description = pastedJd;
+      note("Using your pasted job details instead of the page scrape.");
+    } else if (!job.description) {
+      els.coverJdWrap.open = true;
+      warn("No job description found on the page — paste it into “Job details” above for a stronger letter, or continue with title only.");
+    }
     note(`Drafting cover letter for ${job.title || "this role"} @ ${job.company || "?"}…`);
     const out = bubble("");
     const think = startThinking(null, { onContent: (c) => { out.innerText = c || ""; } });
@@ -1090,6 +1107,7 @@ async function doCoverLetter() {
     // Job-bound: doAutofill only uploads/writes this letter on the posting it was
     // drafted for (company/url match) — never onto a different application.
     lastCoverLetter = { text: res.content, company: job.company || "", url: job.url || "" };
+    if (pastedJd) coverJdUsedFor = { url: job.url || "", text: pastedJd };
     const copy = document.createElement("button");
     copy.className = "copy-btn";
     copy.innerText = "Copy letter";
@@ -1879,6 +1897,7 @@ async function doRefreshConfig() {
 document.addEventListener("DOMContentLoaded", async () => {
   for (const id of [
     "targetInfo", "spendLine", "scanBtn", "autofillBtn", "coverBtn", "nextPageBtn", "dryRun", "applyOut",
+    "coverJdWrap", "coverJdInput",
     "appsCounts", "appsListTab", "appsBreaksTab", "appsListPane", "appsBreaksPane",
     "appsSearch", "appsAtsFilter", "appsStatusFilter", "appsSinceFilter", "appsList",
     "breaksAgg", "breaksList",
