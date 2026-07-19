@@ -255,7 +255,7 @@ const JA_AI = (() => {
     "Rules:",
     "1. A value must be clearly derivable from the profile. If it is not, use null. Never guess, never fabricate.",
     "2. If a field has an options list, the value MUST be one of the options, copied character-for-character (or null).",
-    "3. Respect implied formats (placeholder/description), e.g. phone with or without country code.",
+    "3. Respect implied formats (placeholder/description), e.g. phone with or without country code. If the field list also contains a separate country-code / dial-code selector, the phone number field gets ONLY the national number — no +44/+1 prefix (the selector already supplies it).",
     "4. Open-ended essay questions (\"why do you want…\", \"describe a time…\") get null — they are handled separately.",
     "5. Fields about work authorization, visas, sponsorship, or demographics never appear in your input; if you believe you see one anyway, return null for it.",
     "6. Output ONLY a JSON object, no markdown fences, no commentary:",
@@ -303,20 +303,67 @@ const JA_AI = (() => {
     return { mappings: parsed.mappings, reasoning: res.reasoning, usage: res.usage };
   }
 
+  // ---- split phone widgets ------------------------------------------------------------
+  // A dial-code selector (🇬🇧 +44 ▾) beside a national-number input: the model sees only a
+  // flat field list and tends to stuff the full international number into the number box,
+  // double-prefixing what the selector already supplies ("+44" selected AND "+44 74…"
+  // typed). Prompt rule 3 asks for the national number; this is the deterministic
+  // guarantee behind it. Repair, not rejection — the digits are right, the prefix is
+  // redundant. Only fires when a dial-code sibling was actually scraped AND the profile's
+  // phone_country_code confirms the prefix; anything less confident is left alone.
+  const DIAL_CODE_RE = /(country|dial(?:l?ing)?|phone|intl|international)[\s_.-]{0,3}code|\bprefix\b/i;
+  const PHONE_RE = /phone|mobile|cell|telephone/i;
+
+  const fieldHay = (f) => `${f.label || ""} ${f.name || ""} ${f.id || ""} ${f.autocomplete || ""}`;
+
+  function isDialCodeField(f) {
+    if (DIAL_CODE_RE.test(fieldHay(f))) return true;
+    if (f.kind !== "select" && f.kind !== "combobox") return false;
+    // A selector whose options are dial codes ("+44", "UK (+44)"). A residence Country
+    // dropdown lists plain country names, so it never matches.
+    return (f.options || []).filter((o) => /\+\d{1,3}\b/.test(String(o))).length >= 3;
+  }
+
+  function isNationalPhoneField(f) {
+    if (isDialCodeField(f)) return false;
+    if (/\bext(ension)?\b/i.test(fieldHay(f))) return false;
+    return f.type === "tel" || PHONE_RE.test(fieldHay(f));
+  }
+
+  // "+44 7448 444192" / "0044744…" / "447448444192" → "7448444192" for cc "+44".
+  // null = no confident strip (leave the model's value untouched).
+  function stripDialCode(value, cc) {
+    const ccDigits = String(cc || "").replace(/\D+/g, "");
+    if (!ccDigits) return null;
+    let digits = String(value).replace(/\D+/g, "");
+    if (digits.startsWith("00" + ccDigits)) digits = digits.slice(2);
+    if (!digits.startsWith(ccDigits)) return null;
+    const national = digits.slice(ccDigits.length);
+    return national.length >= 7 ? national : null;
+  }
+
   // Code-level guarantee behind the prompt: unknown refs, legal refs, files/passwords and
   // empty values are dropped no matter what the model returned. Returns fill-instruction
-  // rows ready to send to the content script.
-  function validateMappings(mappings, fields) {
+  // rows ready to send to the content script. opts.allFields = the FULL scraped field list
+  // (dial-code sibling detection must see fields the config pass already handled);
+  // opts.profile supplies phone_country_code for the split-phone repair.
+  function validateMappings(mappings, fields, { profile, allFields } = {}) {
     const byRef = new Map(fields.map((f) => [f.ref, f]));
+    const cc = norm(profile?.personal_information?.phone_country_code || "");
+    const hasDialSibling = cc && (allFields || fields).some(isDialCodeField);
     const clean = [];
     for (const m of mappings || []) {
       const f = byRef.get(m?.ref);
       if (!f) continue; // unknown ref
       if (isLegalField(f)) continue; // never from the model
       if (f.kind === "file" || f.type === "password") continue; // never filled
-      const value = m?.value == null ? "" : String(m.value).trim();
+      let value = m?.value == null ? "" : String(m.value).trim();
       if (!value || fold(value) === "null") continue; // model declined — not an error
       if (f.options?.length && !f.options.some((o) => fold(o) === fold(value))) continue; // must pick a real option
+      if (hasDialSibling && isNationalPhoneField(f)) {
+        const national = stripDialCode(value, cc);
+        if (national) value = national;
+      }
       clean.push({ ref: f.ref, kind: f.kind, expectLabel: f.label, value });
     }
     return clean;

@@ -596,7 +596,9 @@ async function doAutofill(opts = {}) {
       const think = startThinking();
       const mapRes = await JA_AI.mapFields(state, parts.ai, schema2.job, profile, { onDelta: think.onDelta });
       think.done(mapRes);
-      clean = JA_AI.validateMappings(mapRes.mappings, parts.ai);
+      // allFields: the dial-code/phone sibling repair must see the WHOLE scrape, including
+      // fields the config pass already filled — the sibling may not be in parts.ai.
+      clean = JA_AI.validateMappings(mapRes.mappings, parts.ai, { profile, allFields: schema2.fields });
       for (const m of clean) setRow(m.ref, "mapped", m.value);
       for (const f of parts.ai) if (!clean.some((m) => m.ref === f.ref)) setRow(f.ref, "empty-value");
       instructions.push(...clean);
@@ -627,7 +629,7 @@ async function doAutofill(opts = {}) {
       note(`Retrying ${retryParts.ai.length} dropdown(s) with their real option lists…`);
       const retryMap = await JA_AI.mapFields(state, retryParts.ai, schema2.job, profile, {});
       trackSpend(retryMap.usage); // no thinking block on the retry pass
-      const retryClean = JA_AI.validateMappings(retryMap.mappings, retryParts.ai);
+      const retryClean = JA_AI.validateMappings(retryMap.mappings, retryParts.ai, { profile, allFields: schema2.fields });
       if (retryClean.length) results = results.concat(await sendFill(tabId, schema2, retryClean));
     }
 
